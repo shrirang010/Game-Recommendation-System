@@ -82,9 +82,6 @@ def parse_steam_request(appid):
 
     response = requests.get(url=url, params=parameters)
     json_data = response.json()
-    if(json_data == None):
-        print("JSON FILE EMPTY")
-        return 0
     json_app_data = json_data[str(appid)]
     if json_app_data['success']:
         data = json_app_data['data']
