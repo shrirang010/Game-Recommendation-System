@@ -37,7 +37,7 @@ def get_reviews(appid, params={'json': 1}):
 #     print(response['reviews'][0]['review'])
 
 
-def get_n_reviews(appid, n=100):
+def get_n_reviews(appid, n=1000):
     reviews = []
     cursor = '*'
     params = {
@@ -48,20 +48,6 @@ def get_n_reviews(appid, n=100):
         'review_type': 'all',
         'purchase_type': 'all'
     }
-
-    # while n > 0:
-    #     params['cursor'] = cursor.encode()
-    #     params['num_per_page'] = min(100, n)
-    #     n -= 100
-
-    #     response = get_reviews(appid, params)
-    #     cursor = response['cursor']
-
-    #     # for i in range(len(response['reviews'])):
-    #     #     reviews += response['reviews'][i]['review']
-    #     # print(reviews[9]['review'])
-    #     if len(response['reviews']) < 100:
-    #         break
     while n > 0:
         params['cursor'] = cursor.encode()
         params['num_per_page'] = min(100, n)
@@ -169,15 +155,30 @@ def extractInfo(obj):
     return {'id': game_id, 'name': game_name, 'developer': game_developer, 'free': game_is_free, 'age': game_required_age, 'release date': game_releasedate, 'genres': game_allgenre, 'categories': game_categories}
 
 
-def writeINCSV(info):
+def write_gameinfo_in_csv(info):
 
     # fields = ['id', 'name', 'developer', 'free', 'age',
     #           'release date', 'genres', 'categories']
 
     rows = [[info['id'], info['name'], info['developer'], info['free'], info['age'],
             info['release date'], info['genres'], info['categories']]]
-    print(rows)
+
     filename = "info.csv"
+
+    with open(filename, 'a') as csvfile:
+        csvwriter = csv.writer(csvfile)
+
+        # csvwriter.writerow(fields)
+
+        csvwriter.writerows(rows)
+
+
+def write_reviews_in_csv(id, review):
+    fields = ['id', 'review']
+
+    rows = [[id, review]]
+
+    filename = "reviews.csv"
 
     with open(filename, 'a') as csvfile:
         csvwriter = csv.writer(csvfile)
@@ -202,12 +203,19 @@ def main(startNum, endNum):
             errors.append(i)
             print("Key error on id ", i)
 
-        writeINCSV(info)
+        write_gameinfo_in_csv(info)
     print(errors)
 
 
 ids = get_ids_from_csv()
-print(ids)
+# print(ids)
 
-# r = get_n_reviews(ids[0])
-# print(len(r))
+for j in range(len(ids)):
+    reviews = get_n_reviews(ids[j])
+
+    for i in range(len(reviews)):
+        # print(len(reviews))
+        try:
+            write_reviews_in_csv(ids[j], reviews[i].replace("\n", ""))
+        except Exception:
+            print("Exception at id", j, "review", i)
