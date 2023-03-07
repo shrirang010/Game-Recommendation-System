@@ -144,13 +144,9 @@ def writeINCSV(info):
 
 ids = get_details()
 rawInfo = []
-<<<<<<< HEAD:fetch2.py
-for i in range(800,1000):
-=======
 errors = []
 
 for i in range(148, 201):
->>>>>>> 15cdc1efd481625883a963470e1766be2078d9b3:fetch.py
     data = parse_steam_request(str(ids[i]))
     # rawInfo.append(data)
     if (data == 0):
