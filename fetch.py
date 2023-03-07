@@ -91,11 +91,6 @@ def parse_steam_request(appid):
         return 0
 
 
-# print(info)
-
-# print(data)
-
-
 def extractInfo(obj):
     game_developer = str(obj['developers'])
     game_publisher = obj['publishers']
@@ -146,14 +141,18 @@ def writeINCSV(info):
 
 ids = get_details()
 rawInfo = []
-for i in range(148,201):
+errors = []
+
+for i in range(148, 201):
     data = parse_steam_request(str(ids[i]))
     # rawInfo.append(data)
-    if(data == 0):
+    if (data == 0):
         continue
     try:
         info = extractInfo(data)
     except KeyError:
-        print("Key error on id ",i)
+        errors.append(i)
+        print("Key error on id ", i)
+
     writeINCSV(info)
     # print(info)
