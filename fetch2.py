@@ -155,7 +155,5 @@ for i in range(148,201):
         info = extractInfo(data)
     except KeyError:
         print("Key error on id ",i)
-        
-
     writeINCSV(info)
     # print(info)
