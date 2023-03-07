@@ -3,29 +3,80 @@ from bs4 import BeautifulSoup
 import csv
 
 
+def get_ids_from_csv():
+    filename = 'info.csv'
+    count = 0
+    ids = []
+    with open(filename, newline='', encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            count += 1
+            ids.append(row[0])
+
+    # print(ids, count)
+    return ids
+
+
 def get_reviews(appid, params={'json': 1}):
     url = 'https://store.steampowered.com/appreviews/'
-    response = requests.get(url=url+appid, params=params,
-                            headers={'User-Agent': 'Mozilla/5.0'})
+    response = requests.get(
+        url=url+appid, params=params, headers={'User-Agent': 'Mozilla/5.0'})
+
     return response.json()
 
 
-# reviews = get_reviews("1085660")
-# print(reviews)
+# def write_reviews():
+#     ids = get_ids_from_csv()
 
-params = {'json': 1}
-response = get_reviews("397540", params)
+#     params = {'json': 1}
+#     response = get_reviews(str(ids[0]), params)
+#     cursor = response['cursor']
+#     params['cursor'] = cursor.encode()
+#     response_2 = get_reviews(str(ids[0]), params)
 
-# cursor = response['cursor']
-# params['cursor'] = cursor.encode()
-# response2 = get_reviews("397540", params)
+#     print(response['reviews'][0]['review'])
 
-# cursor = response2['cursor']
-# params['cursor'] = cursor.encode()
-# response3 = get_reviews("397540", params)
 
-# print(response['query_summary'])  # * This gives the summary of the query
-# print(response['reviews'][3]['review'])
+def get_n_reviews(appid, n=100):
+    reviews = []
+    cursor = '*'
+    params = {
+        'json': 1,
+        'filter': 'all',
+        'language': 'english',
+        'day_range': 9223372036854775807,
+        'review_type': 'all',
+        'purchase_type': 'all'
+    }
+
+    # while n > 0:
+    #     params['cursor'] = cursor.encode()
+    #     params['num_per_page'] = min(100, n)
+    #     n -= 100
+
+    #     response = get_reviews(appid, params)
+    #     cursor = response['cursor']
+
+    #     # for i in range(len(response['reviews'])):
+    #     #     reviews += response['reviews'][i]['review']
+    #     # print(reviews[9]['review'])
+    #     if len(response['reviews']) < 100:
+    #         break
+    while n > 0:
+        params['cursor'] = cursor.encode()
+        params['num_per_page'] = min(100, n)
+        n -= 100
+
+        response = get_reviews(appid, params)
+        cursor = response['cursor']
+
+        for i in range(len(response['reviews'])):
+            reviews.append(response['reviews'][i]['review'])
+
+        if len(response['reviews']) < 100:
+            break
+
+    return reviews
 
 
 def get_app_id(game_name):
@@ -34,9 +85,6 @@ def get_app_id(game_name):
     soup = BeautifulSoup(response.text, 'html.parser')
     app_id = soup.find(class_='search_result_row')['data-ds-appid']
     return app_id
-
-
-id = get_app_id("Hogwarts Legacy")
 
 
 def get_n_appids(n=5, filter_by='topsellers'):
@@ -139,20 +187,27 @@ def writeINCSV(info):
         csvwriter.writerows(rows)
 
 
-ids = get_details()
-rawInfo = []
-errors = []
+def main(startNum, endNum):
+    ids = get_details()
+    rawInfo = []
+    errors = []
 
-for i in range(148, 201):
-    data = parse_steam_request(str(ids[i]))
-    # rawInfo.append(data)
-    if (data == 0):
-        continue
-    try:
-        info = extractInfo(data)
-    except KeyError:
-        errors.append(i)
-        print("Key error on id ", i)
+    for i in range(startNum, endNum):
+        data = parse_steam_request(str(ids[i]))
+        if (data == 0):
+            continue
+        try:
+            info = extractInfo(data)
+        except Exception:
+            errors.append(i)
+            print("Key error on id ", i)
 
-    writeINCSV(info)
-    # print(info)
+        writeINCSV(info)
+    print(errors)
+
+
+ids = get_ids_from_csv()
+print(ids)
+
+# r = get_n_reviews(ids[0])
+# print(len(r))
