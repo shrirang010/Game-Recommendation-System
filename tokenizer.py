@@ -204,25 +204,48 @@ def increase_count(token):
         hashmap[token] = 1
 
 
-def sentiment_analyzer(array):
-    negative_words = ["abysmal", "appalling", "atrocious", "awful", "bad", "catastrophic", "deplorable", "disappointing", "disastrous", "dreadful", "faulty", "frustrating", "garbage", "horrible", "inadequate", "inferior", "junk", "lousy", "mediocre", "miserable", "nasty", "not recommended", "offensive", "overpriced",
-                      "pathetic", "poor", "rancid", "repulsive", "scam", "shoddy", "terrible", "trash", "unacceptable", "unappealing", "unbearable", "unimpressive", "unpleasant", "unsatisfactory", "unusable", "useless", "wasteful", "weak", "worthless", "abominable", "disgusting", "vile", "grotesque", "shocking", "rip-off", "fraudulent"]
+# def sentiment_analyzer(array):
+#     negative_words = ["abysmal", "appalling", "atrocious", "awful", "bad", "catastrophic", "deplorable", "disappointing", "disastrous", "dreadful", "faulty", "frustrating", "garbage", "horrible", "inadequate", "inferior", "junk", "lousy", "mediocre", "miserable", "nasty", "not recommended", "offensive", "overpriced",
+#                       "pathetic", "poor", "rancid", "repulsive", "scam", "shoddy", "terrible", "trash", "unacceptable", "unappealing", "unbearable", "unimpressive", "unpleasant", "unsatisfactory", "unusable", "useless", "wasteful", "weak", "worthless", "abominable", "disgusting", "vile", "grotesque", "shocking", "rip-off", "fraudulent"]
 
-    positive_words = ["amazing", "awesome", "beautiful", "brilliant", "delightful", "excellent", "exceptional", "fabulous", "fantastic", "flawless", "great", "incredible", "impressive", "joyful", "lovely", "magnificent", "marvelous", "outstanding", "perfect", "phenomenal", "pleasurable", "remarkable", "sensational", "splendid", "spectacular",
-                      "stellar", "stunning", "superb", "terrific", "top-notch", "tremendous", "wonderful", "admirable", "awe-inspiring", "breathtaking", "captivating", "charismatic", "charming", "commendable", "dazzling", "enchanting", "extraordinary", "fascinating", "glorious", "impressive", "inspiring", "majestic", "masterful", "mesmerizing", "radiant", "good", "best", "epic", "legendary"]
+#     positive_words = ["amazing", "awesome", "beautiful", "brilliant", "delightful", "excellent", "exceptional", "fabulous", "fantastic", "flawless", "great", "incredible", "impressive", "joyful", "lovely", "magnificent", "marvelous", "outstanding", "perfect", "phenomenal", "pleasurable", "remarkable", "sensational", "splendid", "spectacular",
+#                       "stellar", "stunning", "superb", "terrific", "top-notch", "tremendous", "wonderful", "admirable", "awe-inspiring", "breathtaking", "captivating", "charismatic", "charming", "commendable", "dazzling", "enchanting", "extraordinary", "fascinating", "glorious", "impressive", "inspiring", "majestic", "masterful", "mesmerizing", "radiant", "good", "best", "epic", "legendary"]
 
-    positive_count = 0
-    negative_count = 0
+#     positive_count = 0
+#     negative_count = 0
 
-    for word in array:
+#     for word in array:
+#         if word in positive_words:
+#             positive_count += 1
+
+#         if word in negative_words:
+#             negative_count += 1
+
+#     return [positive_count, negative_count]
+
+
+def sentiment(review, positive_words, negative_words):
+    positive_counter = 0
+    negative_counter = 0
+    words_count = len(review)
+    for word in review:
         if word in positive_words:
-            positive_count += 1
+            positive_counter = positive_counter+1
+        elif word in negative_words:
+            negative_counter = negative_counter+1
+    pos = positive_counter/words_count
+    neg = negative_counter/words_count
 
-        if word in negative_words:
-            negative_count += 1
+    positive_counts = (round(pos + 0.005, 2))
+    negative_counts = (round(neg + 0.005, 2))
+    return [positive_counts, negative_counts]
 
-    return [positive_count, negative_count]
 
+pos_sent = open("positive.txt").read()
+positive_words=pos_sent.split('\n')
+
+neg_sent = open("negative.txt").read()
+negative_words=neg_sent.split('\n')
 
 with open('reviews.csv', 'r') as file:
     reader = csv.reader(file)
@@ -242,20 +265,3 @@ with open('reviews.csv', 'r') as file:
         # res = sentiment_analyzer(st)
         # print(res[0], res[1])
         i = i + 1
-
-
-def sentiment(review, positive_words, negative_words):
-    positive_counter = 0
-    negative_counter = 0
-    words_count = len(review)
-    for word in review:
-        if word in positive_words:
-            positive_counter = positive_counter+1
-        elif word in negative_words:
-            negative_counter = negative_counter+1
-    pos = positive_counter/words_count
-    neg = negative_counter/words_count
-
-    positive_counts = (round(pos + 0.005, 2))
-    negative_counts = (round(neg + 0.005, 2))
-    return [positive_counts, negative_counts]
