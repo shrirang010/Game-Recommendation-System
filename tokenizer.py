@@ -194,14 +194,6 @@ def remove_stopwords(sents, sw):
     return filtered_tokens
 
 
-# def get_sentiment_scores(tokens):
-#     scores = []
-#     for token in tokens:
-#         score = sia.polarity_scores(token)
-#         scores.append(score['compound'])
-#     return scores
-
-
 hashmap = {}
 
 
@@ -243,59 +235,27 @@ with open('reviews.csv', 'r') as file:
             st = remove_stopwords(lt, custom_stopwords)
             for word in st:
                 word = word.lower()
-            print(word) 
+            print(word)
             break
-        break; 
-            # processed = [increase_count(token) for token in st]
-            # res = sentiment_analyzer(st)
-            # print(res[0], res[1])
+        break
+        # processed = [increase_count(token) for token in st]
+        # res = sentiment_analyzer(st)
+        # print(res[0], res[1])
         i = i + 1
 
-# def sentiment(review,positive_words,negative_words):
-#     positive_counter=0
-#     negative_counter=0
-#     words_count=len(review)
-#     for word in review:
-#         if word in positive_words:
-#             positive_counter=positive_counter+1
-#         elif word in negative_words:
-#             negative_counter=negative_counter+1
-#     pos = positive_counter/words_count
-#     neg = negative_counter/words_count
 
-#     positive_counts=(round(pos + 0.005, 2))
-#     negative_counts=(round(neg + 0.005, 2))        
-#     return [positive_counts,negative_counts]
+def sentiment(review, positive_words, negative_words):
+    positive_counter = 0
+    negative_counter = 0
+    words_count = len(review)
+    for word in review:
+        if word in positive_words:
+            positive_counter = positive_counter+1
+        elif word in negative_words:
+            negative_counter = negative_counter+1
+    pos = positive_counter/words_count
+    neg = negative_counter/words_count
 
-# reviews=[]
-
-# pos_sent = open("positive.txt").read()
-# positive_words=pos_sent.split('\n')
-
-# neg_sent = open("negative.txt").read()
-# negative_words=neg_sent.split('\n')
-
-# csv_header=["positive","negative"]
-# for review in reviews:
-#     array_sentiment=sentiment(review,positive_words,negative_words)
-#     with open("review.csv", 'a') as csvfile: 
-#         csvwriter = csv.writer(csvfile) 
-#         csvwriter.writerow(csv_header)         
-#         csvwriter.writerow(array_sentiment)
-
-# sorted_counts = sorted(hashmap.items(), key=lambda x: x[1], reverse=True)
-
-# # get the top 100 tokens by count
-# top_tokens = dict(sorted_counts[:100])
-
-# # create a list of colors for the top 100 tokens
-# colors = ["r"] * len(top_tokens)
-
-# # create a bar chart with the top 100 tokens by count
-# plt.bar(top_tokens.keys(), top_tokens.values(), color=colors)
-# plt.xticks(rotation=90)
-# plt.xlabel("Token")
-# plt.ylabel("Count")
-# plt.title("Top 100 Tokens by Count")
-# plt.savefig('my_plot.png')
-# plt.show()
+    positive_counts = (round(pos + 0.005, 2))
+    negative_counts = (round(neg + 0.005, 2))
+    return [positive_counts, negative_counts]
