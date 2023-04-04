@@ -194,12 +194,12 @@ def remove_stopwords(sents, sw):
     return filtered_tokens
 
 
-def get_sentiment_scores(tokens):
-    scores = []
-    for token in tokens:
-        score = sia.polarity_scores(token)
-        scores.append(score['compound'])
-    return scores
+# def get_sentiment_scores(tokens):
+#     scores = []
+#     for token in tokens:
+#         score = sia.polarity_scores(token)
+#         scores.append(score['compound'])
+#     return scores
 
 
 hashmap = {}
@@ -232,7 +232,7 @@ def sentiment_analyzer(array):
     return [positive_count, negative_count]
 
 
-with open('test.csv', 'r') as file:
+with open('reviews.csv', 'r') as file:
     reader = csv.reader(file)
     i = 0
     for document in reader:
@@ -243,11 +243,45 @@ with open('test.csv', 'r') as file:
             st = remove_stopwords(lt, custom_stopwords)
             for word in st:
                 word = word.lower()
+            print(word) 
+            break
+        break; 
             # processed = [increase_count(token) for token in st]
-            res = sentiment_analyzer(st)
-            print(res[0], res[1])
+            # res = sentiment_analyzer(st)
+            # print(res[0], res[1])
         i = i + 1
 
+# def sentiment(review,positive_words,negative_words):
+#     positive_counter=0
+#     negative_counter=0
+#     words_count=len(review)
+#     for word in review:
+#         if word in positive_words:
+#             positive_counter=positive_counter+1
+#         elif word in negative_words:
+#             negative_counter=negative_counter+1
+#     pos = positive_counter/words_count
+#     neg = negative_counter/words_count
+
+#     positive_counts=(round(pos + 0.005, 2))
+#     negative_counts=(round(neg + 0.005, 2))        
+#     return [positive_counts,negative_counts]
+
+# reviews=[]
+
+# pos_sent = open("positive.txt").read()
+# positive_words=pos_sent.split('\n')
+
+# neg_sent = open("negative.txt").read()
+# negative_words=neg_sent.split('\n')
+
+# csv_header=["positive","negative"]
+# for review in reviews:
+#     array_sentiment=sentiment(review,positive_words,negative_words)
+#     with open("review.csv", 'a') as csvfile: 
+#         csvwriter = csv.writer(csvfile) 
+#         csvwriter.writerow(csv_header)         
+#         csvwriter.writerow(array_sentiment)
 
 # sorted_counts = sorted(hashmap.items(), key=lambda x: x[1], reverse=True)
 
