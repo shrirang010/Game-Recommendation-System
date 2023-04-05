@@ -10,13 +10,13 @@ import pandas as pd
 # import matplotlib.pyplot as plt
 import string
 
-nltk.download('stopwords')
+# nltk.download('stopwords')
 
 
 # from nltk.sentiment import Sentim1entIntensityAnalyzer
 
-nltk.download('punkt')
-nltk.download('wordnet')
+# nltk.download('punkt')
+# nltk.download('wordnet')
 # nltk.download()
 
 
@@ -186,7 +186,7 @@ def remove_punctuations(text):
 
 custom_stopwords = set(stopwords.words('english')) - set(
     ['not', 'no', 'never', 'nothing', 'nobody', 'nowhere', 'neither', 'nor', 'none', 'but', 'except', 'without', 'hardly'])
-print(custom_stopwords)
+# print(custom_stopwords)
 
 
 def remove_stopwords(sents, sw):
@@ -204,64 +204,91 @@ def increase_count(token):
         hashmap[token] = 1
 
 
-# def sentiment_analyzer(array):
-#     negative_words = ["abysmal", "appalling", "atrocious", "awful", "bad", "catastrophic", "deplorable", "disappointing", "disastrous", "dreadful", "faulty", "frustrating", "garbage", "horrible", "inadequate", "inferior", "junk", "lousy", "mediocre", "miserable", "nasty", "not recommended", "offensive", "overpriced",
-#                       "pathetic", "poor", "rancid", "repulsive", "scam", "shoddy", "terrible", "trash", "unacceptable", "unappealing", "unbearable", "unimpressive", "unpleasant", "unsatisfactory", "unusable", "useless", "wasteful", "weak", "worthless", "abominable", "disgusting", "vile", "grotesque", "shocking", "rip-off", "fraudulent"]
-
-#     positive_words = ["amazing", "awesome", "beautiful", "brilliant", "delightful", "excellent", "exceptional", "fabulous", "fantastic", "flawless", "great", "incredible", "impressive", "joyful", "lovely", "magnificent", "marvelous", "outstanding", "perfect", "phenomenal", "pleasurable", "remarkable", "sensational", "splendid", "spectacular",
-#                       "stellar", "stunning", "superb", "terrific", "top-notch", "tremendous", "wonderful", "admirable", "awe-inspiring", "breathtaking", "captivating", "charismatic", "charming", "commendable", "dazzling", "enchanting", "extraordinary", "fascinating", "glorious", "impressive", "inspiring", "majestic", "masterful", "mesmerizing", "radiant", "good", "best", "epic", "legendary"]
-
-#     positive_count = 0
-#     negative_count = 0
-
-#     for word in array:
-#         if word in positive_words:
-#             positive_count += 1
-
-#         if word in negative_words:
-#             negative_count += 1
-
-#     return [positive_count, negative_count]
-
-
 def sentiment(review, positive_words, negative_words):
     positive_counter = 0
     negative_counter = 0
-    words_count = len(review)
+    count = 0
+
     for word in review:
         if word in positive_words:
             positive_counter = positive_counter+1
+            count += 1
         elif word in negative_words:
             negative_counter = negative_counter+1
+            count += 1
+
+    if (count == 0):
+        return [0, 0]
+
+    words_count = count
+
+    # mostly positive
     pos = positive_counter/words_count
     neg = negative_counter/words_count
 
     positive_counts = (round(pos + 0.005, 2))
     negative_counts = (round(neg + 0.005, 2))
+
     return [positive_counts, negative_counts]
 
+# def calc_game_review(metric):
 
-pos_sent = open("positive.txt").read()
-positive_words=pos_sent.split('\n')
 
-neg_sent = open("negative.txt").read()
-negative_words=neg_sent.split('\n')
+def calc_no_of_rows():
+    num_rows = 0
 
-with open('reviews.csv', 'r') as file:
-    reader = csv.reader(file)
-    i = 0
-    for document in reader:
-        if i % 2 == 0:
+    for row in open("test.csv"):
+        num_rows += 1
+
+    return num_rows
+
+
+def main():
+    flag = False
+    sum = 0
+    no_of_reviews = 0
+    game_info = []  # Contains id at index 0 and game_review in words at index 1
+    crr_game_id = 0
+
+    pos_sent = open("positive.txt").read()
+    positive_words = pos_sent.split('\n')
+
+    neg_sent = open("negative.txt").read()
+    negative_words = neg_sent.split('\n')
+
+    with open('test.csv', 'r') as file:
+        reader = csv.reader(file)
+        lines = calc_no_of_rows()
+        print(lines)
+
+        i = 0
+
+        for document in reader:
+            if (i == 0):
+                document[0] = (document[0])[1:len(document[0])]
+                print(document[0])
+
+            if (document[0] != crr_game_id or i == lines-1):
+                if (no_of_reviews > 0):
+                    review_metric = sum/no_of_reviews
+                    game_info.append([crr_game_id, review_metric])
+                    no_of_reviews = 0
+                    sum = 0
+                if (i == lines-1):
+                    return game_info
+                crr_game_id = document[0]
+
+            no_of_reviews += 1
             sents = tokenizer(document[1])
-            sents = [token for token in sents if token not in string.punctuation]
+            sents = [
+                token for token in sents if token not in string.punctuation]
             lt = lemmatize_tokens(sents)
             st = remove_stopwords(lt, custom_stopwords)
-            for word in st:
-                word = word.lower()
-            print(word)
-            break
-        break
-        # processed = [increase_count(token) for token in st]
-        # res = sentiment_analyzer(st)
-        # print(res[0], res[1])
-        i = i + 1
+
+            values = sentiment(st, positive_words, negative_words)
+            sum += values[0]-values[1]
+            i += 1
+
+
+res = main()
+print(res)
