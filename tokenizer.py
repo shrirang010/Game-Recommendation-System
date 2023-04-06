@@ -243,6 +243,12 @@ def calc_no_of_rows():
     return num_rows
 
 
+def write_metrics_to_csv(data, file):
+    writer = csv.writer(file)
+
+    writer.writerow([data[0], data[1]])
+
+
 def main():
     flag = False
     sum = 0
@@ -257,40 +263,44 @@ def main():
     negative_words = neg_sent.split('\n')
 
     with open('reviews.csv', 'r') as file:
-        reader = csv.reader(file)
-        lines = calc_no_of_rows()
-        # print(lines)
+        with open('metrics.csv', 'a', newline='') as file1:
+            reader = csv.reader(file)
+            lines = calc_no_of_rows()
+            # print(lines)
 
-        i = 0
+            i = 0
 
-        for document in reader:
-            # if(i==0):
-            # print(document[0])
-
-            if ((str(document[0]))[0:len(str(crr_game_id))] != crr_game_id or i == lines-1):
+            for document in reader:
+                # if(i==0):
                 # print(document[0])
-                if (no_of_reviews > 0):
-                    review_metric = sum/no_of_reviews
-                    game_info.append([crr_game_id, review_metric])
-                    no_of_reviews = 0
-                    sum = 0
-                    print(crr_game_id, review_metric)
-                if (i == lines-1):
-                    return game_info
-                # document[0]=(document[0])[1:len(document[0])+1]
-                crr_game_id = document[0]
-                # print(crr_game_id)
+                try:
+                    if ((str(document[0]))[0:len(str(crr_game_id))] != crr_game_id or i == lines-1):
+                        # print(document[0])
+                        if (no_of_reviews > 0):
+                            review_metric = sum/no_of_reviews
+                            game_info.append([crr_game_id, review_metric])
+                            no_of_reviews = 0
+                            sum = 0
+                            write_metrics_to_csv(
+                                [crr_game_id, review_metric], file1)
+                            print(crr_game_id, review_metric)
+                        if (i == lines-1):
+                            return game_info
+                        # document[0]=(document[0])[1:len(document[0])+1]
+                        crr_game_id = document[0]
+                        # print(crr_game_id)
 
-            no_of_reviews += 1
-            sents = tokenizer(document[1])
-            sents = [
-                token for token in sents if token not in string.punctuation]
-            lt = lemmatize_tokens(sents)
-            st = remove_stopwords(lt, custom_stopwords)
+                    no_of_reviews += 1
+                    sents = tokenizer(document[1])
+                    sents = [
+                        token for token in sents if token not in string.punctuation]
+                    lt = lemmatize_tokens(sents)
+                    st = remove_stopwords(lt, custom_stopwords)
 
-            values = sentiment(st, positive_words, negative_words)
-            sum += values[0]-values[1]
-            i += 1
+                    values = sentiment(st, positive_words, negative_words)
+                    sum += values[0]-values[1]
+                except Exception:
+                    i += 1
 
 
 res = main()
