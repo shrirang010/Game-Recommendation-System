@@ -186,7 +186,6 @@ def remove_punctuations(text):
 
 custom_stopwords = set(stopwords.words('english')) - set(
     ['not', 'no', 'never', 'nothing', 'nobody', 'nowhere', 'neither', 'nor', 'none', 'but', 'except', 'without', 'hardly'])
-# print(custom_stopwords)
 
 
 def remove_stopwords(sents, sw):
@@ -231,8 +230,6 @@ def sentiment(review, positive_words, negative_words):
 
     return [positive_counts, negative_counts]
 
-# def calc_game_review(metric):
-
 
 def calc_no_of_rows():
     num_rows = 0
@@ -250,7 +247,6 @@ def write_metrics_to_csv(data, file):
 
 
 def main():
-    flag = False
     sum = 0
     no_of_reviews = 0
     game_info = []  # Contains id at index 0 and game_review in words at index 1
@@ -266,16 +262,12 @@ def main():
         with open('metrics.csv', 'a', newline='') as file1:
             reader = csv.reader(file)
             lines = calc_no_of_rows()
-            # print(lines)
 
             i = 0
 
             for document in reader:
-                # if(i==0):
-                # print(document[0])
                 try:
                     if ((str(document[0]))[0:len(str(crr_game_id))] != crr_game_id or i == lines-1):
-                        # print(document[0])
                         if (no_of_reviews > 0):
                             review_metric = sum/no_of_reviews
                             game_info.append([crr_game_id, review_metric])
@@ -284,11 +276,10 @@ def main():
                             write_metrics_to_csv(
                                 [crr_game_id, review_metric], file1)
                             print(crr_game_id, review_metric)
+
                         if (i == lines-1):
                             return game_info
-                        # document[0]=(document[0])[1:len(document[0])+1]
                         crr_game_id = document[0]
-                        # print(crr_game_id)
 
                     no_of_reviews += 1
                     sents = tokenizer(document[1])
