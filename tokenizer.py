@@ -10,13 +10,13 @@ import pandas as pd
 # import matplotlib.pyplot as plt
 import string
 
-# nltk.download('stopwords')
+nltk.download('stopwords')
 
 
 # from nltk.sentiment import Sentim1entIntensityAnalyzer
 
-# nltk.download('punkt')
-# nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('wordnet')
 # nltk.download()
 
 
@@ -237,7 +237,7 @@ def sentiment(review, positive_words, negative_words):
 def calc_no_of_rows():
     num_rows = 0
 
-    for row in open("test.csv"):
+    for row in open("reviews.csv"):
         num_rows += 1
 
     return num_rows
@@ -256,27 +256,30 @@ def main():
     neg_sent = open("negative.txt").read()
     negative_words = neg_sent.split('\n')
 
-    with open('test.csv', 'r') as file:
+    with open('reviews.csv', 'r') as file:
         reader = csv.reader(file)
         lines = calc_no_of_rows()
-        print(lines)
+        # print(lines)
 
         i = 0
 
         for document in reader:
-            if (i == 0):
-                document[0] = (document[0])[1:len(document[0])]
-                print(document[0])
+            # if(i==0):
+            # print(document[0])
 
-            if (document[0] != crr_game_id or i == lines-1):
+            if ((str(document[0]))[0:len(str(crr_game_id))] != crr_game_id or i == lines-1):
+                # print(document[0])
                 if (no_of_reviews > 0):
                     review_metric = sum/no_of_reviews
                     game_info.append([crr_game_id, review_metric])
                     no_of_reviews = 0
                     sum = 0
+                    print(crr_game_id, review_metric)
                 if (i == lines-1):
                     return game_info
+                # document[0]=(document[0])[1:len(document[0])+1]
                 crr_game_id = document[0]
+                # print(crr_game_id)
 
             no_of_reviews += 1
             sents = tokenizer(document[1])
