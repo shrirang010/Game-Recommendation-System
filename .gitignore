@@ -132,3 +132,4 @@ dmypy.json
 reviews.csv
 reviews1.csv
 reviews2.csv
+./recommendation-system/node-modules

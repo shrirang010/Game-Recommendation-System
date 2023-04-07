@@ -1,0 +1,9 @@
+.switch{
+    display: flex;
+    align-items: center;
+}
+
+.free{
+    font-size: 1.5rem;
+    color:#000000
+}
