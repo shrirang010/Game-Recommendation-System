@@ -4,6 +4,7 @@ import "./App.css";
 import Head from "./components/head/head";
 import Free from "./components/free/free";
 import MultipleSelect from "./components/multiselect/multiselect";
+import Calendar from "./components/year/year";
 
 export default function MyApp() {
   return (
@@ -22,6 +23,19 @@ export default function MyApp() {
             "Racing",
           ]}
           title="Genre"
+        />
+        <MultipleSelect
+          options={[
+            "Single-player",
+            "Multi-player",
+            "PvP",
+            "Online PvP",
+            "LAN PvP",
+            "Co-op",
+            "Online Co-op",
+            "LAN Co-op",
+          ]}
+          title="Category"
         />
         <MultipleSelect
           options={[
@@ -370,6 +384,7 @@ export default function MyApp() {
           ]}
           title="Studio"
         />
+        <Calendar />
         {/* <div className="text-fields">
           <TextField
             className="input"
