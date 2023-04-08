@@ -1,12 +1,17 @@
-import * as React from "react";
+import { useEffect } from "react";
 import { TextField } from "@mui/material";
 import "./App.css";
 import Head from "./components/head/head";
 import Free from "./components/free/free";
 import MultipleSelect from "./components/multiselect/multiselect";
 import Calendar from "./components/year/year";
+import data from "./info.json" assert { type: "JSON" };
 
 export default function MyApp() {
+  useEffect(() => {
+    console.log(data);
+  });
+
   return (
     <div className="container">
       <Head />
