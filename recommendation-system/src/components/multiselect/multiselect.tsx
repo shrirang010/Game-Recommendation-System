@@ -1,10 +1,11 @@
-import * as React from "react";
+import React, { useState } from "react";
 import { Theme, useTheme } from "@mui/material/styles";
 import OutlinedInput from "@mui/material/OutlinedInput";
 import InputLabel from "@mui/material/InputLabel";
 import MenuItem from "@mui/material/MenuItem";
 import FormControl from "@mui/material/FormControl";
 import Select, { SelectChangeEvent } from "@mui/material/Select";
+import allStore from "../../store/store";
 
 const ITEM_HEIGHT = 48;
 const ITEM_PADDING_TOP = 8;
@@ -17,7 +18,7 @@ const MenuProps = {
   },
 };
 
-function getStyles(name, personName, theme) {
+function getStyles(name: string, personName: string, theme: Theme) {
   return {
     fontWeight:
       personName.indexOf(name) === -1
@@ -26,15 +27,40 @@ function getStyles(name, personName, theme) {
   };
 }
 
-export default function MultipleSelect(props) {
+interface propsTypes {
+  options: string[];
+  title: string;
+}
+
+export default function MultipleSelect(props: propsTypes) {
   const options = props.options.sort();
   const theme = useTheme();
   const [personName, setPersonName] = React.useState<string>([]);
 
-  const handleChange = (event) => {
+  let genres = allStore((state) => state.genres);
+  let categories = allStore((state) => state.categories);
+  let developers = allStore((state) => state.developers);
+
+  const setGenre = allStore((state) => state.setGenre);
+  const setDeveloper = allStore((state) => state.setDeveloper);
+  const setCategory = allStore((state) => state.setCategory);
+
+  const handleChange = (event: { target: { value: any } }) => {
     const {
       target: { value },
     } = event;
+
+    if (props.title === "Genre") {
+      // console.log(genres);
+      setGenre(value);
+    } else if (props.title === "Category") {
+      // console.log(categories);
+      setCategory(value);
+    } else if (props.title === "Developer") {
+      // console.log(developers);
+      setDeveloper(value);
+    }
+
     setPersonName(
       // On autofill we get a stringified value.
       typeof value === "string" ? value.split(",") : value
