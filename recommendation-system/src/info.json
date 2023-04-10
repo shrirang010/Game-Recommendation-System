@@ -16,7 +16,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.284752475",
-    "review": "mixed"
+    "review": "Average"
   },
   "280": {
     "name": "Half-Life: Source",
@@ -26,7 +26,7 @@
     "genres": ["Action"],
     "categories": ["Single-player", " Remote Play Together"],
     "metric": "0.308921971",
-    "review": "partially positive"
+    "review": "Good"
   },
   "340": {
     "name": "Half-Life 2: Lost Coast",
@@ -40,7 +40,7 @@
       " Remote Play Together"
     ],
     "metric": "0.335149948",
-    "review": "partially positive"
+    "review": "Good"
   },
   "380": {
     "name": "Half-Life 2: Episode One",
@@ -60,7 +60,7 @@
       " Remote Play Together"
     ],
     "metric": "0.32721585",
-    "review": "partially positive"
+    "review": "Good"
   },
   "4560": {
     "name": "Company of Heroes - Legacy Edition",
@@ -76,7 +76,7 @@
       " Steam Cloud"
     ],
     "metric": "0.349236253",
-    "review": "partially positive"
+    "review": "Good"
   },
   "7670": {
     "name": "BioShock™",
@@ -86,7 +86,7 @@
     "genres": ["Action", " RPG"],
     "categories": ["Single-player", " Partial Controller Support"],
     "metric": "0.372729167",
-    "review": "partially positive"
+    "review": "Good"
   },
   "8500": {
     "name": "EVE Online",
@@ -110,7 +110,7 @@
       " Steam Trading Cards"
     ],
     "metric": "0.231182467",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "8850": {
     "name": "BioShock® 2",
@@ -131,7 +131,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.394840371",
-    "review": "partially positive"
+    "review": "Good"
   },
   "9480": {
     "name": "Saints Row 2",
@@ -141,7 +141,7 @@
     "genres": ["Action"],
     "categories": ["Single-player", " Steam Cloud"],
     "metric": "0.266020513",
-    "review": "mixed"
+    "review": "Average"
   },
   "10090": {
     "name": "Call of Duty: World at War",
@@ -151,7 +151,7 @@
     "genres": ["Action"],
     "categories": ["Single-player", " Multi-player", " Co-op"],
     "metric": "0.267867495",
-    "review": "mixed"
+    "review": "Average"
   },
   "11020": {
     "name": "TrackMania Nations Forever",
@@ -161,7 +161,7 @@
     "genres": ["Racing"],
     "categories": ["Single-player", " Multi-player", " Includes level editor"],
     "metric": "0.394147089",
-    "review": "partially positive"
+    "review": "Good"
   },
   "12100": {
     "name": "Grand Theft Auto III",
@@ -171,7 +171,7 @@
     "genres": ["Action"],
     "categories": ["Single-player", " Partial Controller Support"],
     "metric": "0.313987342",
-    "review": "partially positive"
+    "review": "Good"
   },
   "20900": {
     "name": "The Witcher: Enhanced Edition Director's Cut",
@@ -181,7 +181,7 @@
     "genres": ["Action", " RPG"],
     "categories": ["Single-player", " Steam Cloud"],
     "metric": "0.289542144",
-    "review": "mixed"
+    "review": "Average"
   },
   "24200": {
     "name": "DC Universe™ Online",
@@ -207,7 +207,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.332264914",
-    "review": "partially positive"
+    "review": "Good"
   },
   "33230": {
     "name": "Assassin's Creed 2",
@@ -217,7 +217,7 @@
     "genres": ["Action", " Adventure"],
     "categories": ["Single-player"],
     "metric": "0.330221053",
-    "review": "partially positive"
+    "review": "Good"
   },
   "33900": {
     "name": "Arma 2",
@@ -234,7 +234,7 @@
       " Includes level editor"
     ],
     "metric": "0.217895267",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "34330": {
     "name": "Total War: SHOGUN 2",
@@ -262,7 +262,7 @@
       " Stats"
     ],
     "metric": "0.242754995",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "35450": {
     "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
@@ -282,7 +282,7 @@
       " Includes level editor"
     ],
     "metric": "0.225862786",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "35720": {
     "name": "Trine 2: Complete Story",
@@ -310,7 +310,7 @@
       " Remote Play Together"
     ],
     "metric": "0.552602881",
-    "review": "very positive"
+    "review": "Excellent"
   },
   "39120": {
     "name": "RIFT",
@@ -329,7 +329,7 @@
       " In-App Purchases"
     ],
     "metric": "0.385373737",
-    "review": "partially positive"
+    "review": "Good"
   },
   "42680": {
     "name": "Call of Duty®: Modern Warfare® 3",
@@ -346,7 +346,7 @@
       " Valve Anti-Cheat enabled"
     ],
     "metric": "0.290936842",
-    "review": "mixed"
+    "review": "Average"
   },
   "42700": {
     "name": "Call of Duty®: Black Ops",
@@ -363,7 +363,7 @@
       " Valve Anti-Cheat enabled"
     ],
     "metric": "0.227327766",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "48000": {
     "name": "LIMBO",
@@ -382,7 +382,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.219801463",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "48700": {
     "name": "Mount & Blade: Warband",
@@ -398,7 +398,7 @@
       " Steam Workshop"
     ],
     "metric": "0.251502591",
-    "review": "mixed"
+    "review": "Average"
   },
   "50130": {
     "name": "Mafia II (Classic)",
@@ -412,7 +412,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.431985371",
-    "review": "positive"
+    "review": "Very Good"
   },
   "55100": {
     "name": "Homefront",
@@ -429,7 +429,7 @@
       " Valve Anti-Cheat enabled"
     ],
     "metric": "0.175733471",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "65800": {
     "name": "Dungeon Defenders",
@@ -456,7 +456,7 @@
       " Remote Play Together"
     ],
     "metric": "0.419230769",
-    "review": "positive"
+    "review": "Very Good"
   },
   "99900": {
     "name": "Spiral Knights",
@@ -483,7 +483,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.330800405",
-    "review": "partially positive"
+    "review": "Good"
   },
   "107100": {
     "name": "Bastion",
@@ -503,7 +503,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.533823227",
-    "review": "very positive"
+    "review": "Excellent"
   },
   "113200": {
     "name": "The Binding of Isaac",
@@ -517,7 +517,7 @@
       " Steam Trading Cards"
     ],
     "metric": "0.137349896",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "200510": {
     "name": "XCOM: Enemy Unknown",
@@ -536,7 +536,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.236857143",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "200710": {
     "name": "Torchlight II",
@@ -555,7 +555,7 @@
       " Steam Cloud"
     ],
     "metric": "0.393153061",
-    "review": "partially positive"
+    "review": "Good"
   },
   "202970": {
     "name": "Call of Duty®: Black Ops II",
@@ -576,7 +576,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.229078534",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "203140": {
     "name": "Hitman: Absolution™",
@@ -592,7 +592,7 @@
       " Steam Cloud"
     ],
     "metric": "0.281235231",
-    "review": "mixed"
+    "review": "Average"
   },
   "203290": {
     "name": "America's Army: Proving Grounds",
@@ -613,7 +613,7 @@
       " Includes level editor"
     ],
     "metric": "0.405581395",
-    "review": "positive"
+    "review": "Very Good"
   },
   "203770": {
     "name": "Crusader Kings II",
@@ -623,7 +623,7 @@
     "genres": ["Free to Play", " RPG", " Simulation", " Strategy"],
     "categories": ["Single-player", " Multi-player", " Steam Trading Cards"],
     "metric": "0.162214286",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "205100": {
     "name": "Dishonored",
@@ -640,7 +640,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.327803109",
-    "review": "partially positive"
+    "review": "Good"
   },
   "207140": {
     "name": "SpeedRunners",
@@ -669,7 +669,7 @@
       " Remote Play Together"
     ],
     "metric": "0.470359712",
-    "review": "positive"
+    "review": "Very Good"
   },
   "207610": {
     "name": "The Walking Dead",
@@ -684,7 +684,7 @@
       " Steam Trading Cards"
     ],
     "metric": "0.255208111",
-    "review": "mixed"
+    "review": "Average"
   },
   "208650": {
     "name": "Batman™: Arkham Knight",
@@ -704,7 +704,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.225588235",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "209080": {
     "name": "Guns of Icarus Online",
@@ -721,7 +721,7 @@
       " Stats"
     ],
     "metric": "0.388737374",
-    "review": "partially positive"
+    "review": "Good"
   },
   "209870": {
     "name": "Blacklight: Retribution",
@@ -736,7 +736,7 @@
       " Includes level editor"
     ],
     "metric": "0.303860182",
-    "review": "partially positive"
+    "review": "Good"
   },
   "212500": {
     "name": "The Lord of the Rings Online™",
@@ -759,7 +759,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.45611336",
-    "review": "positive"
+    "review": "Very Good"
   },
   "212680": {
     "name": "FTL: Faster Than Light",
@@ -775,7 +775,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.235318275",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "213670": {
     "name": "South Park™: The Stick of Truth™",
@@ -792,7 +792,7 @@
       " Remote Play on TV17410"
     ],
     "metric": "0.349481328",
-    "review": "partially positive"
+    "review": "Good"
   },
   "214950": {
     "name": "Total War™: ROME II - Emperor Edition",
@@ -813,7 +813,7 @@
       " Steam Cloud"
     ],
     "metric": "0.220234216",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "219740": {
     "name": "Don't Starve",
@@ -832,7 +832,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.310062048",
-    "review": "partially positive"
+    "review": "Good"
   },
   "220200": {
     "name": "Kerbal Space Program",
@@ -848,7 +848,7 @@
       " Steam Cloud"
     ],
     "metric": "0.268483607",
-    "review": "mixed"
+    "review": "Average"
   },
   "224600": {
     "name": "Defiance",
@@ -864,7 +864,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.325863821",
-    "review": "partially positive"
+    "review": "Good"
   },
   "232770": {
     "name": "POSTAL",
@@ -879,7 +879,7 @@
       " Steam Trading Cards"
     ],
     "metric": "0.163690722",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "233130": {
     "name": "Shadow Warrior",
@@ -897,7 +897,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.259072165",
-    "review": "mixed"
+    "review": "Average"
   },
   "234140": {
     "name": "Mad Max",
@@ -916,7 +916,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.282308499",
-    "review": "mixed"
+    "review": "Average"
   },
   "239030": {
     "name": "Papers, Please",
@@ -935,7 +935,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.233123028",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "240720": {
     "name": "Getting Over It with Bennett Foddy",
@@ -951,7 +951,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.007528321",
-    "review": "very negative"
+    "review": "Worst"
   },
   "242050": {
     "name": "Assassin’s Creed® IV Black Flag™",
@@ -961,7 +961,7 @@
     "genres": ["Action", " Adventure"],
     "categories": ["Single-player", " Multi-player", " In-App Purchases"],
     "metric": "0.279905561",
-    "review": "mixed"
+    "review": "Average"
   },
   "242720": {
     "name": "GunZ 2: The Second Duel",
@@ -977,7 +977,7 @@
       " Captions available"
     ],
     "metric": "0.210010111",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "244210": {
     "name": "Assetto Corsa",
@@ -997,7 +997,7 @@
       " Includes level editor"
     ],
     "metric": "0.416628151",
-    "review": "positive"
+    "review": "Very Good"
   },
   "244850": {
     "name": "Space Engineers",
@@ -1018,7 +1018,7 @@
       " Includes level editor"
     ],
     "metric": "0.30589613",
-    "review": "partially positive"
+    "review": "Good"
   },
   "246620": {
     "name": "Plague Inc: Evolved",
@@ -1045,7 +1045,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.117717842",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "247080": {
     "name": "Crypt of the NecroDancer",
@@ -1072,7 +1072,7 @@
       " Remote Play Together"
     ],
     "metric": "0.213739754",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "253980": {
     "name": "Enclave",
@@ -1082,7 +1082,7 @@
     "genres": ["Action", " RPG"],
     "categories": ["Single-player", " Steam Trading Cards", " Steam Cloud"],
     "metric": "0.260509684",
-    "review": "mixed"
+    "review": "Average"
   },
   "261640": {
     "name": "Borderlands: The Pre-Sequel",
@@ -1101,7 +1101,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.285056643",
-    "review": "mixed"
+    "review": "Average"
   },
   "262410": {
     "name": "World of Guns: Gun Disassembly",
@@ -1124,7 +1124,7 @@
       " In-App Purchases"
     ],
     "metric": "0.378735984",
-    "review": "partially positive"
+    "review": "Good"
   },
   "264710": {
     "name": "Subnautica",
@@ -1143,7 +1143,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.2905",
-    "review": "mixed"
+    "review": "Average"
   },
   "265930": {
     "name": "Goat Simulator",
@@ -1166,7 +1166,7 @@
       " Remote Play Together"
     ],
     "metric": "0.207865979",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "270880": {
     "name": "American Truck Simulator",
@@ -1188,7 +1188,7 @@
       " Remote Play Together"
     ],
     "metric": "0.450791367",
-    "review": "positive"
+    "review": "Very Good"
   },
   "279720": {
     "name": "The I of the Dragon",
@@ -1198,7 +1198,7 @@
     "genres": ["RPG"],
     "categories": ["Single-player", " Steam Trading Cards"],
     "metric": "0.047721088",
-    "review": "very negative"
+    "review": "Worst"
   },
   "281990": {
     "name": "Stellaris",
@@ -1216,7 +1216,7 @@
       " Steam Cloud"
     ],
     "metric": "0.157548718",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "282070": {
     "name": "This War of Mine",
@@ -1233,7 +1233,7 @@
       " Steam Cloud"
     ],
     "metric": "0.016750261",
-    "review": "very negative"
+    "review": "Worst"
   },
   "282440": {
     "name": "Quake Live",
@@ -1252,7 +1252,7 @@
       " Stats"
     ],
     "metric": "0.351146366",
-    "review": "partially positive"
+    "review": "Good"
   },
   "286570": {
     "name": "F1 2015",
@@ -1272,7 +1272,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.225297131",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "286690": {
     "name": "Metro 2033 Redux",
@@ -1288,7 +1288,7 @@
       " Steam Cloud"
     ],
     "metric": "0.272508073",
-    "review": "mixed"
+    "review": "Average"
   },
   "287390": {
     "name": "Metro: Last Light Redux",
@@ -1305,7 +1305,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.29855615",
-    "review": "mixed"
+    "review": "Average"
   },
   "291480": {
     "name": "Warface",
@@ -1333,7 +1333,7 @@
       " In-App Purchases"
     ],
     "metric": "0.171171548",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "299360": {
     "name": "Block N Load",
@@ -1357,7 +1357,7 @@
       " Includes level editor"
     ],
     "metric": "0.28200409",
-    "review": "mixed"
+    "review": "Average"
   },
   "302830": {
     "name": "BLOCKADE 3D",
@@ -1373,7 +1373,7 @@
       " In-App Purchases"
     ],
     "metric": "0.141353306",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "304390": {
     "name": "FOR HONOR™",
@@ -1398,7 +1398,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.101038422",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "307780": {
     "name": "Mortal Kombat X",
@@ -1422,7 +1422,7 @@
       " Remote Play Together"
     ],
     "metric": "0.233176594",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "311690": {
     "name": "Enter the Gungeon",
@@ -1443,7 +1443,7 @@
       " Remote Play Together"
     ],
     "metric": "0.173034979",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "312660": {
     "name": "Sniper Elite 4",
@@ -1463,7 +1463,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.314953464",
-    "review": "partially positive"
+    "review": "Good"
   },
   "312990": {
     "name": "The Expendabros",
@@ -1482,7 +1482,7 @@
       " Remote Play Together"
     ],
     "metric": "0.359562118",
-    "review": "partially positive"
+    "review": "Good"
   },
   "316010": {
     "name": "Magic Duels",
@@ -1502,7 +1502,7 @@
       " Remote Play Together"
     ],
     "metric": "0.266139113",
-    "review": "mixed"
+    "review": "Average"
   },
   "323190": {
     "name": "Frostpunk",
@@ -1519,7 +1519,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.224108446",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "335240": {
     "name": "Transformice",
@@ -1535,7 +1535,7 @@
       " Includes level editor"
     ],
     "metric": "0.178480493",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "335300": {
     "name": "DARK SOULS™ II: Scholar of the First Sin",
@@ -1554,7 +1554,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.077804622",
-    "review": "very negative"
+    "review": "Worst"
   },
   "355180": {
     "name": "Codename CURE",
@@ -1574,7 +1574,7 @@
       " Includes level editor"
     ],
     "metric": "0.372964103",
-    "review": "partially positive"
+    "review": "Good"
   },
   "359320": {
     "name": "Elite Dangerous",
@@ -1601,7 +1601,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.267131063",
-    "review": "mixed"
+    "review": "Average"
   },
   "361420": {
     "name": "ASTRONEER",
@@ -1621,7 +1621,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.40946875",
-    "review": "positive"
+    "review": "Very Good"
   },
   "362890": {
     "name": "Black Mesa",
@@ -1647,7 +1647,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.454662447",
-    "review": "positive"
+    "review": "Very Good"
   },
   "364360": {
     "name": "Total War: WARHAMMER",
@@ -1673,7 +1673,7 @@
       " Steam Workshop"
     ],
     "metric": "0.201969388",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "368230": {
     "name": "Kingdom: Classic",
@@ -1692,7 +1692,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.301546392",
-    "review": "partially positive"
+    "review": "Good"
   },
   "372000": {
     "name": "Tree of Savior (English Ver.)",
@@ -1709,7 +1709,7 @@
       " Valve Anti-Cheat enabled"
     ],
     "metric": "0.208903553",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "379430": {
     "name": "Kingdom Come: Deliverance",
@@ -1726,7 +1726,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.231517672",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "380600": {
     "name": "Fishing Planet",
@@ -1752,7 +1752,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.296200204",
-    "review": "mixed"
+    "review": "Average"
   },
   "386180": {
     "name": "Crossout",
@@ -1775,7 +1775,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.16863869",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "386940": {
     "name": "Ultimate Chicken Horse",
@@ -1804,7 +1804,7 @@
       " Remote Play Together"
     ],
     "metric": "0.441524202",
-    "review": "positive"
+    "review": "Very Good"
   },
   "387290": {
     "name": "Ori and the Blind Forest: Definitive Edition",
@@ -1823,7 +1823,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.381790576",
-    "review": "partially positive"
+    "review": "Good"
   },
   "387990": {
     "name": "Scrap Mechanic",
@@ -1847,7 +1847,7 @@
       " Includes level editor"
     ],
     "metric": "0.473302374",
-    "review": "positive"
+    "review": "Very Good"
   },
   "389730": {
     "name": "TEKKEN 7",
@@ -1871,7 +1871,7 @@
       " Remote Play Together"
     ],
     "metric": "0.255493827",
-    "review": "mixed"
+    "review": "Average"
   },
   "391460": {
     "name": "WARMODE",
@@ -1886,7 +1886,7 @@
       " Steam Trading Cards"
     ],
     "metric": "0.20617284",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "391720": {
     "name": "Layers of Fear (2016)",
@@ -1903,7 +1903,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.04425",
-    "review": "very negative"
+    "review": "Worst"
   },
   "397540": {
     "name": "Borderlands 3",
@@ -1927,7 +1927,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.174553846",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "418370": {
     "name": "Resident Evil 7 Biohazard",
@@ -1943,7 +1943,7 @@
       " Steam Cloud"
     ],
     "metric": "0.111060924",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "438740": {
     "name": "Friday the 13th: The Game",
@@ -1960,7 +1960,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.245416667",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "439190": {
     "name": "Stories: The Path of Destinies",
@@ -1977,7 +1977,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.375513347",
-    "review": "partially positive"
+    "review": "Good"
   },
   "457140": {
     "name": "Oxygen Not Included",
@@ -1987,7 +1987,7 @@
     "genres": ["Indie", " Simulation"],
     "categories": ["Single-player", " Steam Trading Cards"],
     "metric": "0.219876033",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "475150": {
     "name": "Titan Quest Anniversary Edition",
@@ -2010,7 +2010,7 @@
       " Includes level editor"
     ],
     "metric": "0.446323907",
-    "review": "positive"
+    "review": "Very Good"
   },
   "506540": {
     "name": "Last Man Standing",
@@ -2027,7 +2027,7 @@
     ],
     "categories": ["Multi-player", " MMO", " Online PvP"],
     "metric": "0.168328267",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "518790": {
     "name": "theHunter: Call of the Wild™",
@@ -2046,7 +2046,7 @@
       " Steam Cloud"
     ],
     "metric": "0.301227702",
-    "review": "partially positive"
+    "review": "Good"
   },
   "530700": {
     "name": "Argo",
@@ -2068,7 +2068,7 @@
       " Remote Play Together"
     ],
     "metric": "0.203973442",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "546560": {
     "name": "Half-Life: Alyx",
@@ -2087,7 +2087,7 @@
       " Includes level editor"
     ],
     "metric": "0.359317943",
-    "review": "partially positive"
+    "review": "Good"
   },
   "548430": {
     "name": "Deep Rock Galactic",
@@ -2109,7 +2109,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.320329087",
-    "review": "partially positive"
+    "review": "Good"
   },
   "582160": {
     "name": "Assassin's Creed® Origins",
@@ -2127,7 +2127,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.351864952",
-    "review": "partially positive"
+    "review": "Good"
   },
   "601510": {
     "name": "Yu-Gi-Oh! Duel Links",
@@ -2146,7 +2146,7 @@
       " In-App Purchases"
     ],
     "metric": "0.260636079",
-    "review": "mixed"
+    "review": "Average"
   },
   "617290": {
     "name": "Remnant: From the Ashes",
@@ -2167,7 +2167,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.264652352",
-    "review": "mixed"
+    "review": "Average"
   },
   "620980": {
     "name": "Beat Saber",
@@ -2185,7 +2185,7 @@
       " Steam Leaderboards"
     ],
     "metric": "0.061046512",
-    "review": "very negative"
+    "review": "Worst"
   },
   "644560": {
     "name": "Mirror",
@@ -2202,7 +2202,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.20776987",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "646570": {
     "name": "Slay the Spire",
@@ -2224,7 +2224,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.341331967",
-    "review": "partially positive"
+    "review": "Good"
   },
   "674940": {
     "name": "Stick Fight: The Game",
@@ -2244,7 +2244,7 @@
       " Remote Play Together"
     ],
     "metric": "0.372357217",
-    "review": "partially positive"
+    "review": "Good"
   },
   "678950": {
     "name": "DRAGON BALL FighterZ",
@@ -2269,7 +2269,7 @@
       " Remote Play Together"
     ],
     "metric": "0.251492228",
-    "review": "mixed"
+    "review": "Average"
   },
   "728880": {
     "name": "Overcooked! 2",
@@ -2297,7 +2297,7 @@
       " Remote Play Together"
     ],
     "metric": "0.395207039",
-    "review": "partially positive"
+    "review": "Good"
   },
   "744900": {
     "name": "Dead Frontier 2",
@@ -2324,7 +2324,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.268328236",
-    "review": "mixed"
+    "review": "Average"
   },
   "761890": {
     "name": "Albion Online",
@@ -2342,7 +2342,7 @@
       " In-App Purchases"
     ],
     "metric": "0.182474438",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "766570": {
     "name": "Russian Fishing 4",
@@ -2369,7 +2369,7 @@
       " Stats"
     ],
     "metric": "0.237213115",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "782330": {
     "name": "DOOM Eternal",
@@ -2390,7 +2390,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.093059701",
-    "review": "very negative"
+    "review": "Worst"
   },
   "813780": {
     "name": "Age of Empires II: Definitive Edition",
@@ -2419,7 +2419,7 @@
       " Includes level editor"
     ],
     "metric": "0.440226105",
-    "review": "positive"
+    "review": "Very Good"
   },
   "838350": {
     "name": "太吾绘卷 The Scroll Of Taiwu",
@@ -2436,7 +2436,7 @@
     ],
     "categories": ["Single-player", " Remote Play on Tablet"],
     "metric": "0.261818182",
-    "review": "mixed"
+    "review": "Average"
   },
   "845070": {
     "name": "The Awesome Adventures of Captain Spirit",
@@ -2451,7 +2451,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.379508882",
-    "review": "partially positive"
+    "review": "Good"
   },
   "871720": {
     "name": "Ultimate Custom Night",
@@ -2465,7 +2465,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.19491062",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "880940": {
     "name": "Pummel Party",
@@ -2490,7 +2490,7 @@
       " Remote Play Together"
     ],
     "metric": "0.43390625",
-    "review": "positive"
+    "review": "Very Good"
   },
   "884660": {
     "name": "CRSED: F.O.A.D.",
@@ -2509,7 +2509,7 @@
       " In-App Purchases"
     ],
     "metric": "0.296536485",
-    "review": "mixed"
+    "review": "Average"
   },
   "918570": {
     "name": "Century: Age of Ashes",
@@ -2528,7 +2528,7 @@
       " In-App Purchases"
     ],
     "metric": "0.160970072",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "960090": {
     "name": "Bloons TD 6",
@@ -2547,7 +2547,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.250688525",
-    "review": "mixed"
+    "review": "Average"
   },
   "962130": {
     "name": "Grounded",
@@ -2566,7 +2566,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.37298768",
-    "review": "partially positive"
+    "review": "Good"
   },
   "1049590": {
     "name": "Eternal Return",
@@ -2582,7 +2582,7 @@
       " In-App Purchases"
     ],
     "metric": "0.31884375",
-    "review": "partially positive"
+    "review": "Good"
   },
   "1057090": {
     "name": "Ori and the Will of the Wisps",
@@ -2600,7 +2600,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.456575916",
-    "review": "positive"
+    "review": "Very Good"
   },
   "1151340": {
     "name": "Fallout 76",
@@ -2621,7 +2621,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.138128232",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "1158310": {
     "name": "Crusader Kings III",
@@ -2641,7 +2641,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.25",
-    "review": "mixed"
+    "review": "Average"
   },
   "1172380": {
     "name": "STAR WARS Jedi: Fallen Order™",
@@ -2658,7 +2658,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.306326964",
-    "review": "partially positive"
+    "review": "Good"
   },
   "1180380": {
     "name": "Stay Out",
@@ -2682,7 +2682,7 @@
       " Remote Play on Tablet"
     ],
     "metric": "0.054830421",
-    "review": "very negative"
+    "review": "Worst"
   },
   "1196590": {
     "name": "Resident Evil Village",
@@ -2698,7 +2698,7 @@
       " Steam Cloud"
     ],
     "metric": "0.167636761",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "1225330": {
     "name": "NBA 2K21",
@@ -2724,7 +2724,7 @@
       " Remote Play Together"
     ],
     "metric": "0.00741044",
-    "review": "very negative"
+    "review": "Worst"
   },
   "1237970": {
     "name": "Titanfall® 2",
@@ -2745,7 +2745,7 @@
       " Remote Play on TV"
     ],
     "metric": "0.293134328",
-    "review": "mixed"
+    "review": "Average"
   },
   "1238840": {
     "name": "Battlefield™ 1",
@@ -2763,7 +2763,7 @@
       " Steam Trading Cards"
     ],
     "metric": "0.165344262",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "1263850": {
     "name": "Football Manager 2021",
@@ -2778,7 +2778,7 @@
       " Steam Cloud"
     ],
     "metric": "0.290346939",
-    "review": "mixed"
+    "review": "Average"
   },
   "1289310": {
     "name": "Helltaker",
@@ -2792,7 +2792,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.150476718",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "1293830": {
     "name": "Forza Horizon 4",
@@ -2814,7 +2814,7 @@
       " Steam Cloud"
     ],
     "metric": "0.272535059",
-    "review": "mixed"
+    "review": "Average"
   },
   "1366540": {
     "name": "Dyson Sphere Program",
@@ -2824,7 +2824,7 @@
     "genres": ["Indie", " Simulation", " Strategy", " Early Access"],
     "categories": ["Single-player", " Remote Play on Tablet"],
     "metric": "0.386748718",
-    "review": "partially positive"
+    "review": "Good"
   },
   "1446780": {
     "name": "MONSTER HUNTER RISE",
@@ -2843,7 +2843,7 @@
       " Steam Cloud"
     ],
     "metric": "0.159515464",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "1506830": {
     "name": "FIFA 22",
@@ -2867,7 +2867,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.065900104",
-    "review": "very negative"
+    "review": "Worst"
   },
   "1551360": {
     "name": "Forza Horizon 5",
@@ -2889,7 +2889,7 @@
       " Steam Cloud"
     ],
     "metric": "0.301442411",
-    "review": "partially positive"
+    "review": "Good"
   },
   "1604030": {
     "name": "V Rising",
@@ -2914,7 +2914,7 @@
       " Steam Cloud"
     ],
     "metric": "0.292358393",
-    "review": "mixed"
+    "review": "Average"
   },
   "1677740": {
     "name": "Stumble Guys",
@@ -2931,7 +2931,7 @@
       " Partial Controller Support"
     ],
     "metric": "0.21044586",
-    "review": "partially negative"
+    "review": "Poor"
   },
   "1721470": {
     "name": "Poppy Playtime",
@@ -2941,7 +2941,7 @@
     "genres": ["Action", " Adventure", " Indie"],
     "categories": ["Single-player"],
     "metric": "0.196663202",
-    "review": "negative"
+    "review": "Very Poor"
   },
   "1832640": {
     "name": "Mirror 2: Project X",
@@ -2956,6 +2956,6 @@
       " Steam Cloud"
     ],
     "metric": "0.161276596",
-    "review": "negative"
+    "review": "Very Poor"
   }
 }

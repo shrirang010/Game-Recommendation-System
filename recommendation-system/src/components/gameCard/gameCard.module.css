@@ -1,0 +1,18 @@
+.container {
+  background-color: #f5f5f5;
+  color: #000000;
+  width: 90%;
+  padding: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.name {
+  font-size: 2rem;
+}
+
+.review {
+  font-size: 1.5rem;
+}

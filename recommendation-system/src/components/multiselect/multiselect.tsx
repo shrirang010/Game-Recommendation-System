@@ -37,13 +37,9 @@ export default function MultipleSelect(props: propsTypes) {
   const theme = useTheme();
   const [personName, setPersonName] = React.useState<string>([]);
 
-  let genres = allStore((state) => state.genres);
-  let categories = allStore((state) => state.categories);
-  let developers = allStore((state) => state.developers);
-
   const setGenre = allStore((state) => state.setGenre);
-  const setDeveloper = allStore((state) => state.setDeveloper);
   const setCategory = allStore((state) => state.setCategory);
+  const setDeveloper = allStore((state) => state.setDeveloper);
 
   const handleChange = (event: { target: { value: any } }) => {
     const {
