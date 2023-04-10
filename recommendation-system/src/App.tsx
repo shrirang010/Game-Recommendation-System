@@ -26,7 +26,7 @@ export default function MyApp() {
   let cat = allStore((state) => state.categories);
   let dev = allStore((state) => state.developers);
 
-  let games: game_info[] = [];
+  let games = allStore((state) => state.games);
   // get_data(gen, cat, dev, "FALSE");
   // const games = get_data(
   //   ["Action", " Strategy", " Adventure"],

@@ -18,7 +18,7 @@ const MenuProps = {
   },
 };
 
-function getStyles(name: string, personName: string, theme: Theme) {
+function getStyles(name: string, personName: string[], theme: Theme) {
   return {
     fontWeight:
       personName.indexOf(name) === -1
@@ -35,7 +35,7 @@ interface propsTypes {
 export default function MultipleSelect(props: propsTypes) {
   const options = props.options.sort();
   const theme = useTheme();
-  const [personName, setPersonName] = React.useState<string>([]);
+  const [personName, setPersonName] = useState<string[]>([]);
 
   const setGenre = allStore((state) => state.setGenre);
   const setCategory = allStore((state) => state.setCategory);
@@ -47,20 +47,14 @@ export default function MultipleSelect(props: propsTypes) {
     } = event;
 
     if (props.title === "Genre") {
-      // console.log(genres);
       setGenre(value);
     } else if (props.title === "Category") {
-      // console.log(categories);
       setCategory(value);
     } else if (props.title === "Developer") {
-      // console.log(developers);
       setDeveloper(value);
     }
 
-    setPersonName(
-      // On autofill we get a stringified value.
-      typeof value === "string" ? value.split(",") : value
-    );
+    setPersonName(typeof value === "string" ? value.split(",") : value);
   };
 
   return (

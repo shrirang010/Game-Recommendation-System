@@ -1,5 +1,4 @@
 import data from "../../info.json" assert { type: "json" };
-console.log(typeof data["10090"]);
 
 interface gameInfoObj {
   [id: string]: game_info;
@@ -32,6 +31,7 @@ const get_data = (
         if (genres.includes(genre)) {
           localData[gameid].categories.forEach((category) => {
             if (categories.includes(category)) {
+              console.log(gameid);
               localData[gameid]["developer"].forEach((developer) => {
                 if (studio.includes(developer)) {
                   if (!user_games.includes(localData[gameid])) {

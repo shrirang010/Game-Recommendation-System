@@ -52,7 +52,6 @@ const writeJSONFile = (newObject) => {
     try {
         await readCsvFile(csvData1, '../../info.csv');
         await readCsvFile(csvData2, '../../metrics.csv');
-        // console.log(csvData2)
         for (let i = 0; i < 400; i++) {
 
             const id = csvData1[i]['id']
@@ -105,7 +104,6 @@ const writeJSONFile = (newObject) => {
                 }
             }
             writeJSONFile(info)
-            // console.log(info)
         }
     } catch (error) {
         console.error(error);
