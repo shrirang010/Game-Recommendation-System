@@ -27,3 +27,8 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+.rank {
+  font-size: 1.5rem;
+  text-align: left;
+  color: #0066ff;
+}

@@ -41,7 +41,7 @@ export default function MyApp() {
         <Input />
       </div>
       <div className="game-list">
-        {games.map((el) => {
+        {games.map((el, index) => {
           return (
             <GameCard
               name={el.name}
@@ -51,6 +51,7 @@ export default function MyApp() {
               developer={el.developer}
               release_date={el.release_date}
               free={el.free}
+              rank={index + 1}
             />
           );
         })}
