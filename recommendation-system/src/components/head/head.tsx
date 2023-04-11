@@ -1,4 +1,3 @@
-import React from "react";
 import style from "./head.module.css";
 
 const head = () => {

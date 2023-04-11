@@ -1,5 +1,3 @@
-import React from "react";
-import style from "./submitbutton.module.css";
 import Button from "@mui/material/Button";
 import { get_data } from "../functions/filterdata";
 import allStore from "../../store/store";

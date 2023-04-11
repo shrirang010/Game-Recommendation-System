@@ -1,11 +1,9 @@
-import { useState } from "react";
-import "./App.css";
-
 import Head from "./components/head/head";
 import Input from "./components/input/input";
 import GameCard from "./components/gameCard/gameCard";
 import Footer from "./components/footer/footer";
 import allStore from "./store/store";
+import "./App.css";
 
 interface game_info {
   name: string;
