@@ -222,7 +222,7 @@
   "33900": {
     "name": "Arma 2",
     "free": "FALSE",
-    "release_date": "",
+    "release_date": "17 June, 2009",
     "developer": ["Bohemia Interactive"],
     "genres": ["Action", " Simulation", " Strategy"],
     "categories": [
@@ -956,7 +956,7 @@
   "242050": {
     "name": "Assassin’s Creed® IV Black Flag™",
     "free": "FALSE",
-    "release_date": "",
+    "release_date": "29 October, 2013",
     "developer": ["Ubisoft Montreal"],
     "genres": ["Action", " Adventure"],
     "categories": ["Single-player", " Multi-player", " In-App Purchases"],
@@ -2030,7 +2030,7 @@
     "review": "Very Poor"
   },
   "518790": {
-    "name": "theHunter: Call of the Wild™",
+    "name": "The Hunter: Call of the Wild™",
     "free": "FALSE",
     "release_date": "16 Feb, 2017",
     "developer": ["Expansive Worlds"],

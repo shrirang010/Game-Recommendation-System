@@ -1,9 +1,13 @@
-.switch{
-    display: flex;
-    align-items: center;
+.switch {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Readex Pro", sans-serif;
 }
 
-.free{
-    font-size: 1.2rem;
-    color:#000000
+.free {
+  font-size: 1.2rem;
+  color: #000000;
 }

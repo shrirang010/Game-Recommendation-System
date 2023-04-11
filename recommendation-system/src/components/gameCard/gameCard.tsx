@@ -6,13 +6,18 @@ interface proptype {
   genres: string[];
   categories: string[];
   developer: string[];
+  release_date: string;
 }
 
 const gameCard = (props: proptype) => {
   return (
     <div className={style.container}>
       <div className={style.name}>{props.name}</div>
-      <div className={style.review}>{props.review}</div>
+
+      <div>
+        <div className={style.title}>Review</div>
+        <div className={style.review}>{props.review}</div>
+      </div>
 
       <div>
         <div className={style.title}>Genre</div>
@@ -40,6 +45,9 @@ const gameCard = (props: proptype) => {
           })}
         </div>
       </div>
+
+      <div className={style.title}>Release Date</div>
+      <div>{props.release_date}</div>
     </div>
   );
 };

@@ -26,11 +26,11 @@ export default function button() {
   return (
     <Button
       variant="contained"
-      className={style.btn}
       onClick={() => {
         games = get_data(gen, cat, dev, "FALSE");
         setGame(games);
       }}
+      sx={{ fontFamily: "Readex Pro, sans-serif", backgroundColor: "#000000" }}
     >
       Lets find some Games !
     </Button>

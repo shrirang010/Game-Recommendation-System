@@ -49,6 +49,7 @@ export default function MyApp() {
               genres={el.genres}
               categories={el.categories}
               developer={el.developer}
+              release_date={el.release_date}
             />
           );
         })}

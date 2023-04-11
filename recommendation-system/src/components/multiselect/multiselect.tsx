@@ -69,6 +69,7 @@ export default function MultipleSelect(props: propsTypes) {
           onChange={handleChange}
           input={<OutlinedInput label="Name" />}
           MenuProps={MenuProps}
+          sx={{ fontFamily: "Readex Pro, sans-serif" }}
         >
           {options.map((option) => (
             <MenuItem
