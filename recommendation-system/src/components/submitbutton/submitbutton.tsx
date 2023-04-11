@@ -21,7 +21,6 @@ export default function button() {
   let dev = allStore((state) => state.developers);
   const setGame = allStore((state) => state.setGame);
 
-  // console.log(gen, cat, dev);
   let games: game_info[] = [];
 
   return (
