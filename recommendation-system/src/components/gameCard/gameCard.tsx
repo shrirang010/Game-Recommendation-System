@@ -7,11 +7,13 @@ interface proptype {
   categories: string[];
   developer: string[];
   release_date: string;
+  rank:number;
 }
 
 const gameCard = (props: proptype) => {
   return (
     <div className={style.container}>
+      <div className={style.rank}>{props.rank}</div>
       <div className={style.name}>{props.name}</div>
 
       <div>

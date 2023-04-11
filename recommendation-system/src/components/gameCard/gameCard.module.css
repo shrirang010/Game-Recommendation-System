@@ -27,3 +27,11 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+.rank{
+  width:25%;
+  font-size: 2rem;
+  border-radius:2rem;
+  background-color: blueviolet;
+  text-align: center;
+  color:#f5f5f5;
+}
