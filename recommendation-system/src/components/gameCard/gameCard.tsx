@@ -7,6 +7,7 @@ interface proptype {
   categories: string[];
   developer: string[];
   release_date: string;
+  free: string;
 }
 
 const gameCard = (props: proptype) => {
@@ -48,6 +49,9 @@ const gameCard = (props: proptype) => {
 
       <div className={style.title}>Release Date</div>
       <div>{props.release_date}</div>
+
+      <div className={style.title}>Free</div>
+      <div>{props.free === "TRUE" ? "Yes" : "No"}</div>
     </div>
   );
 };

@@ -16,9 +16,11 @@ interface game_info {
 }
 
 export default function button() {
-  let gen = allStore((state) => state.genres);
-  let cat = allStore((state) => state.categories);
-  let dev = allStore((state) => state.developers);
+  const gen = allStore((state) => state.genres);
+  const cat = allStore((state) => state.categories);
+  const dev = allStore((state) => state.developers);
+  const free = allStore((state) => state.free);
+  const free_str = free.toString().toUpperCase();
   const setGame = allStore((state) => state.setGame);
 
   let games: game_info[] = [];
@@ -27,7 +29,7 @@ export default function button() {
     <Button
       variant="contained"
       onClick={() => {
-        games = get_data(gen, cat, dev, "FALSE");
+        games = get_data(gen, cat, dev, free_str);
         setGame(games);
       }}
       sx={{ fontFamily: "Readex Pro, sans-serif", backgroundColor: "#000000" }}

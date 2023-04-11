@@ -50,6 +50,7 @@ export default function MyApp() {
               categories={el.categories}
               developer={el.developer}
               release_date={el.release_date}
+              free={el.free}
             />
           );
         })}

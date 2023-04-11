@@ -18,11 +18,13 @@ interface DBase {
   genres: [];
   categories: [];
   developers: [];
+  free: boolean;
 
   setGame: (data: game_info[]) => void;
   setGenre: (data: []) => void;
   setCategory: (data: []) => void;
   setDeveloper: (data: []) => void;
+  setFree: (data: boolean) => void;
 }
 
 const allStore = create<DBase>((set) => ({
@@ -30,6 +32,7 @@ const allStore = create<DBase>((set) => ({
   genres: [],
   categories: [],
   developers: [],
+  free: false,
 
   setGame: (data: game_info[]) => {
     set(() => ({
@@ -52,6 +55,12 @@ const allStore = create<DBase>((set) => ({
   setDeveloper: (data: []) => {
     set(() => ({
       developers: data,
+    }));
+  },
+
+  setFree: (data: boolean) => {
+    set(() => ({
+      free: data,
     }));
   },
 }));
