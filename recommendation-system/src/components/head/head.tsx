@@ -2,7 +2,7 @@ import React from "react";
 import style from "./head.module.css";
 
 const head = () => {
-  return <div className={style.container}>Heading</div>;
+  return <div className={style.container}>Game Recommender</div>;
 };
 
 export default head;
