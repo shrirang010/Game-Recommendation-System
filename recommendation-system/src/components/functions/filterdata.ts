@@ -31,7 +31,6 @@ const get_data = (
         if (genres.includes(genre)) {
           localData[gameid].categories.forEach((category) => {
             if (categories.includes(category)) {
-              console.log(gameid);
               localData[gameid]["developer"].forEach((developer) => {
                 if (studio.includes(developer)) {
                   if (!user_games.includes(localData[gameid])) {
@@ -47,7 +46,7 @@ const get_data = (
   }
 
   user_games.sort((a, b) => Number(b.metric) - Number(a.metric));
-  console.log("User Games are:", user_games);
+  // console.log("User Games are:", user_games);
 
   return user_games;
 };
