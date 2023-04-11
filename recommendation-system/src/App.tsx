@@ -2,11 +2,9 @@ import { useState } from "react";
 import "./App.css";
 
 import Head from "./components/head/head";
-import Free from "./components/free/free";
-import Calendar from "./components/year/year";
 import Input from "./components/input/input";
 import GameCard from "./components/gameCard/gameCard";
-import { get_data } from "./components/functions/filterdata";
+import Footer from "./components/footer/footer";
 import allStore from "./store/store";
 
 interface game_info {
@@ -21,18 +19,7 @@ interface game_info {
 }
 
 export default function MyApp() {
-  let gen = allStore((state) => state.genres);
-  let cat = allStore((state) => state.categories);
-  let dev = allStore((state) => state.developers);
-
   const games = allStore((state) => state.games);
-  // get_data(gen, cat, dev, "FALSE");
-  // const games = get_data(
-  //   ["Action", " Strategy", " Adventure"],
-  //   ["Single-player"],
-  //   ["Ubisoft Montreal"],
-  //   "FALSE"
-  // );
 
   return (
     <div className="container">
@@ -56,6 +43,7 @@ export default function MyApp() {
           );
         })}
       </div>
+      <Footer />
     </div>
   );
 }

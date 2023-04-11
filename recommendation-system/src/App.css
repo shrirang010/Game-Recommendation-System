@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap");
 
+html {
+  overflow-y: scroll;
+}
+
 .container {
   font-family: "Readex Pro", sans-serif;
   min-height: 100vh;
@@ -14,8 +18,6 @@
 .inner {
   width: 40%;
   padding: 3rem;
-  /* flex-direction: column;
-  align-items: center; */
   display: grid;
   justify-items: center;
   border-radius: 1rem;
