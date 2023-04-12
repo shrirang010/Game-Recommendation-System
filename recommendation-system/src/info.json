@@ -5,15 +5,15 @@
     "release_date": "28 Nov, 2012",
     "developer": [
       "Ubisoft Montreal",
-      " Massive Entertainment",
-      " and Ubisoft Shanghai"
+      "Massive Entertainment",
+      "and Ubisoft Shanghai"
     ],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Partial Controller Support"
+      "Multi-player",
+      "Co-op",
+      "Partial Controller Support"
     ],
     "metric": "0.284752475",
     "review": "Average"
@@ -24,7 +24,7 @@
     "release_date": "1 Jun, 2004",
     "developer": ["Valve"],
     "genres": ["Action"],
-    "categories": ["Single-player", " Remote Play Together"],
+    "categories": ["Single-player", "Remote Play Together"],
     "metric": "0.308921971",
     "review": "Good"
   },
@@ -36,8 +36,8 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Commentary available",
-      " Remote Play Together"
+      "Commentary available",
+      "Remote Play Together"
     ],
     "metric": "0.335149948",
     "review": "Good"
@@ -50,14 +50,14 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Captions available",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Stats",
-      " Includes Source SDK",
-      " Commentary available",
-      " Remote Play Together"
+      "Steam Achievements",
+      "Captions available",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Includes Source SDK",
+      "Commentary available",
+      "Remote Play Together"
     ],
     "metric": "0.32721585",
     "review": "Good"
@@ -67,13 +67,13 @@
     "free": "FALSE",
     "release_date": "17 Jul, 2007",
     "developer": ["Relic Entertainment"],
-    "genres": ["Action", " Strategy"],
+    "genres": ["Action", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud"
+      "Multi-player",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud"
     ],
     "metric": "0.349236253",
     "review": "Good"
@@ -82,9 +82,9 @@
     "name": "BioShock™",
     "free": "FALSE",
     "release_date": "21 Aug, 2007",
-    "developer": ["2K Boston", " 2K Australia"],
-    "genres": ["Action", " RPG"],
-    "categories": ["Single-player", " Partial Controller Support"],
+    "developer": ["2K Boston", "2K Australia"],
+    "genres": ["Action", "RPG"],
+    "categories": ["Single-player", "Partial Controller Support"],
     "metric": "0.372729167",
     "review": "Good"
   },
@@ -95,19 +95,19 @@
     "developer": ["CCP"],
     "genres": [
       "Action",
-      " Free to Play",
-      " Massively Multiplayer",
-      " RPG",
-      " Strategy"
+      "Free to Play",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy"
     ],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Trading Cards"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards"
     ],
     "metric": "0.231182467",
     "review": "Poor"
@@ -116,19 +116,14 @@
     "name": "BioShock® 2",
     "free": "FALSE",
     "release_date": "9 Feb, 2010",
-    "developer": [
-      "2K Marin",
-      " 2K China",
-      " Digital Extremes",
-      " 2K Australia"
-    ],
+    "developer": ["2K Marin", "2K China", "Digital Extremes", "2K Australia"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Remote Play on TV"
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on TV"
     ],
     "metric": "0.394840371",
     "review": "Good"
@@ -139,7 +134,7 @@
     "release_date": "7 Jan, 2009",
     "developer": ["Volition"],
     "genres": ["Action"],
-    "categories": ["Single-player", " Steam Cloud"],
+    "categories": ["Single-player", "Steam Cloud"],
     "metric": "0.266020513",
     "review": "Average"
   },
@@ -149,7 +144,7 @@
     "release_date": "18 Nov, 2008",
     "developer": ["Treyarch"],
     "genres": ["Action"],
-    "categories": ["Single-player", " Multi-player", " Co-op"],
+    "categories": ["Single-player", "Multi-player", "Co-op"],
     "metric": "0.267867495",
     "review": "Average"
   },
@@ -159,7 +154,7 @@
     "release_date": "16 Apr, 2008",
     "developer": ["Nadeo"],
     "genres": ["Racing"],
-    "categories": ["Single-player", " Multi-player", " Includes level editor"],
+    "categories": ["Single-player", "Multi-player", "Includes level editor"],
     "metric": "0.394147089",
     "review": "Good"
   },
@@ -169,7 +164,7 @@
     "release_date": "4 Jan, 2008",
     "developer": ["Rockstar Games"],
     "genres": ["Action"],
-    "categories": ["Single-player", " Partial Controller Support"],
+    "categories": ["Single-player", "Partial Controller Support"],
     "metric": "0.313987342",
     "review": "Good"
   },
@@ -178,8 +173,8 @@
     "free": "FALSE",
     "release_date": "16 Sep, 2008",
     "developer": ["CD PROJEKT RED"],
-    "genres": ["Action", " RPG"],
-    "categories": ["Single-player", " Steam Cloud"],
+    "genres": ["Action", "RPG"],
+    "categories": ["Single-player", "Steam Cloud"],
     "metric": "0.289542144",
     "review": "Average"
   },
@@ -190,21 +185,21 @@
     "developer": ["Dimensional Ink Games"],
     "genres": [
       "Action",
-      " Adventure",
-      " Free to Play",
-      " Massively Multiplayer",
-      " RPG"
+      "Adventure",
+      "Free to Play",
+      "Massively Multiplayer",
+      "RPG"
     ],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Partial Controller Support"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Partial Controller Support"
     ],
     "metric": "0.332264914",
     "review": "Good"
@@ -214,7 +209,7 @@
     "free": "FALSE",
     "release_date": "4 Mar, 2010",
     "developer": ["Ubisoft Montreal"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": ["Single-player"],
     "metric": "0.330221053",
     "review": "Good"
@@ -224,14 +219,14 @@
     "free": "FALSE",
     "release_date": "17 June, 2009",
     "developer": ["Bohemia Interactive"],
-    "genres": ["Action", " Simulation", " Strategy"],
+    "genres": ["Action", "Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Captions available",
-      " Partial Controller Support",
-      " Includes level editor"
+      "Multi-player",
+      "Co-op",
+      "Captions available",
+      "Partial Controller Support",
+      "Includes level editor"
     ],
     "metric": "0.217895267",
     "review": "Poor"
@@ -242,24 +237,24 @@
     "release_date": "15 Mar, 2011",
     "developer": [
       "CREATIVE ASSEMBLY",
-      " Feral Interactive Mac",
-      " Feral Interactive Linux"
+      "Feral Interactive Mac",
+      "Feral Interactive Linux"
     ],
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " LAN PvP",
-      " Co-op",
-      " Online Co-op",
-      " LAN Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Valve Anti-Cheat enabled",
-      " Stats"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats"
     ],
     "metric": "0.242754995",
     "review": "Poor"
@@ -269,17 +264,17 @@
     "free": "FALSE",
     "release_date": "13 Sep, 2011",
     "developer": ["Tripwire Interactive"],
-    "genres": ["Action", " Massively Multiplayer", " Simulation"],
+    "genres": ["Action", "Massively Multiplayer", "Simulation"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Valve Anti-Cheat enabled",
-      " Stats",
-      " Includes level editor"
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor"
     ],
     "metric": "0.225862786",
     "review": "Poor"
@@ -289,25 +284,25 @@
     "free": "FALSE",
     "release_date": "6 Jun, 2013",
     "developer": ["Frozenbyte"],
-    "genres": ["Action", " Adventure", " Indie"],
+    "genres": ["Action", "Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen Co-op",
-      " Shared/Split Screen",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Includes level editor",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.552602881",
     "review": "Excellent"
@@ -317,16 +312,16 @@
     "free": "TRUE",
     "release_date": "1 Mar, 2011",
     "developer": ["gamigo US Inc."],
-    "genres": ["Free to Play", " Massively Multiplayer", " RPG"],
+    "genres": ["Free to Play", "Massively Multiplayer", "RPG"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Trading Cards",
-      " In-App Purchases"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases"
     ],
     "metric": "0.385373737",
     "review": "Good"
@@ -335,15 +330,15 @@
     "name": "Call of Duty®: Modern Warfare® 3",
     "free": "FALSE",
     "release_date": "7 Nov, 2011",
-    "developer": ["Infinity Ward", " Sledgehammer Games"],
+    "developer": ["Infinity Ward", "Sledgehammer Games"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Steam Cloud",
-      " Valve Anti-Cheat enabled"
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled"
     ],
     "metric": "0.290936842",
     "review": "Average"
@@ -356,11 +351,11 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Partial Controller Support",
-      " Valve Anti-Cheat enabled"
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Valve Anti-Cheat enabled"
     ],
     "metric": "0.227327766",
     "review": "Poor"
@@ -370,16 +365,16 @@
     "free": "FALSE",
     "release_date": "2 Aug, 2011",
     "developer": ["Playdead"],
-    "genres": ["Action", " Adventure", " Indie"],
+    "genres": ["Action", "Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.219801463",
     "review": "Poor"
@@ -389,13 +384,13 @@
     "free": "FALSE",
     "release_date": "31 Mar, 2010",
     "developer": ["TaleWorlds Entertainment"],
-    "genres": ["Action", " RPG"],
+    "genres": ["Action", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop"
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop"
     ],
     "metric": "0.251502591",
     "review": "Average"
@@ -408,8 +403,8 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Partial Controller Support"
+      "Steam Achievements",
+      "Partial Controller Support"
     ],
     "metric": "0.431985371",
     "review": "Very Good"
@@ -418,15 +413,15 @@
     "name": "Homefront",
     "free": "FALSE",
     "release_date": "14 Mar, 2011",
-    "developer": ["Kaos Studios", " Digital Extremes"],
+    "developer": ["Kaos Studios", "Digital Extremes"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Valve Anti-Cheat enabled"
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled"
     ],
     "metric": "0.175733471",
     "review": "Very Poor"
@@ -436,24 +431,24 @@
     "free": "FALSE",
     "release_date": "18 Oct, 2011",
     "developer": ["Chromatic Games"],
-    "genres": ["Action", " Indie", " RPG", " Strategy"],
+    "genres": ["Action", "Indie", "RPG", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Valve Anti-Cheat enabled",
-      " Steam Leaderboards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.419230769",
     "review": "Very Good"
@@ -465,22 +460,22 @@
     "developer": ["Grey Havens"],
     "genres": [
       "Action",
-      " Adventure",
-      " Casual",
-      " Free to Play",
-      " Indie",
-      " Massively Multiplayer",
-      " RPG"
+      "Adventure",
+      "Casual",
+      "Free to Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
     ],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " In-App Purchases",
-      " Partial Controller Support"
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support"
     ],
     "metric": "0.330800405",
     "review": "Good"
@@ -490,17 +485,17 @@
     "free": "FALSE",
     "release_date": "16 Aug, 2011",
     "developer": ["Supergiant Games"],
-    "genres": ["Action", " Indie", " RPG"],
+    "genres": ["Action", "Indie", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.533823227",
     "review": "Excellent"
@@ -509,12 +504,12 @@
     "name": "The Binding of Isaac",
     "free": "FALSE",
     "release_date": "28 Sep, 2011",
-    "developer": ["Edmund McMillen", " Florian Himsl"],
-    "genres": ["Action", " Adventure", " Indie", " RPG"],
+    "developer": ["Edmund McMillen", "Florian Himsl"],
+    "genres": ["Action", "Adventure", "Indie", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards"
+      "Steam Achievements",
+      "Steam Trading Cards"
     ],
     "metric": "0.137349896",
     "review": "Very Poor"
@@ -523,17 +518,17 @@
     "name": "XCOM: Enemy Unknown",
     "free": "FALSE",
     "release_date": "11 Oct, 2012",
-    "developer": ["Firaxis Games", " Feral Interactive Linux"],
+    "developer": ["Firaxis Games", "Feral Interactive Linux"],
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.236857143",
     "review": "Poor"
@@ -543,16 +538,16 @@
     "free": "FALSE",
     "release_date": "20 Sep, 2012",
     "developer": ["Runic Games"],
-    "genres": ["Action", " Adventure", " Indie", " RPG"],
+    "genres": ["Action", "Adventure", "Indie", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud"
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud"
     ],
     "metric": "0.393153061",
     "review": "Good"
@@ -565,15 +560,15 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Valve Anti-Cheat enabled",
-      " Steam Leaderboards",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play on TV"
     ],
     "metric": "0.229078534",
     "review": "Poor"
@@ -586,10 +581,10 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Partial Controller Support",
-      " Steam Cloud"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud"
     ],
     "metric": "0.281235231",
     "review": "Average"
@@ -599,18 +594,18 @@
     "free": "TRUE",
     "release_date": "Aug-13",
     "developer": ["U.S. Army"],
-    "genres": ["Action", " Free to Play"],
+    "genres": ["Action", "Free to Play"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Stats",
-      " Steam Leaderboards",
-      " Includes level editor"
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor"
     ],
     "metric": "0.405581395",
     "review": "Very Good"
@@ -620,8 +615,8 @@
     "free": "TRUE",
     "release_date": "14 Feb, 2012",
     "developer": ["Paradox Development Studio"],
-    "genres": ["Free to Play", " RPG", " Simulation", " Strategy"],
-    "categories": ["Single-player", " Multi-player", " Steam Trading Cards"],
+    "genres": ["Free to Play", "RPG", "Simulation", "Strategy"],
+    "categories": ["Single-player", "Multi-player", "Steam Trading Cards"],
     "metric": "0.162214286",
     "review": "Very Poor"
   },
@@ -630,14 +625,14 @@
     "free": "FALSE",
     "release_date": "9 Oct, 2012",
     "developer": ["Arkane Studios"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Cloud",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.327803109",
     "review": "Good"
@@ -647,26 +642,26 @@
     "free": "FALSE",
     "release_date": "19 Apr, 2016",
     "developer": ["DoubleDutch Games"],
-    "genres": ["Action", " Casual", " Indie", " Racing", " Sports"],
+    "genres": ["Action", "Casual", "Indie", "Racing", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Shared/Split Screen",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Stats",
-      " Includes level editor",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.470359712",
     "review": "Very Good"
@@ -679,9 +674,9 @@
     "genres": ["Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards"
     ],
     "metric": "0.255208111",
     "review": "Average"
@@ -691,17 +686,17 @@
     "free": "FALSE",
     "release_date": "23 Jun, 2015",
     "developer": ["Rocksteady Studios"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.225588235",
     "review": "Poor"
@@ -711,14 +706,14 @@
     "free": "FALSE",
     "release_date": "29 Oct, 2012",
     "developer": ["Muse Games"],
-    "genres": ["Action", " Adventure", " Indie", " Simulation"],
+    "genres": ["Action", "Adventure", "Indie", "Simulation"],
     "categories": [
       "Multi-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Stats"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Stats"
     ],
     "metric": "0.388737374",
     "review": "Good"
@@ -727,13 +722,13 @@
     "name": "Blacklight: Retribution",
     "free": "FALSE",
     "release_date": "2 Jul, 2012",
-    "developer": ["Hardsuit Labs", " Inc."],
-    "genres": ["Action", " Free to Play"],
+    "developer": ["Hardsuit Labs", "Inc."],
+    "genres": ["Action", "Free to Play"],
     "categories": [
       "Multi-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Includes level editor"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Includes level editor"
     ],
     "metric": "0.303860182",
     "review": "Good"
@@ -742,21 +737,21 @@
     "name": "The Lord of the Rings Online™",
     "free": "TRUE",
     "release_date": "6 Jun, 2012",
-    "developer": ["Standing Stone Games", " LLC"],
+    "developer": ["Standing Stone Games", "LLC"],
     "genres": [
       "Action",
-      " Adventure",
-      " Free to Play",
-      " Massively Multiplayer",
-      " RPG"
+      "Adventure",
+      "Free to Play",
+      "Massively Multiplayer",
+      "RPG"
     ],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Co-op",
-      " In-App Purchases",
-      " Partial Controller Support"
+      "MMO",
+      "PvP",
+      "Co-op",
+      "In-App Purchases",
+      "Partial Controller Support"
     ],
     "metric": "0.45611336",
     "review": "Very Good"
@@ -766,13 +761,13 @@
     "free": "FALSE",
     "release_date": "14 Sep, 2012",
     "developer": ["Subset Games"],
-    "genres": ["Indie", " Simulation", " Strategy"],
+    "genres": ["Indie", "Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.235318275",
     "review": "Poor"
@@ -782,14 +777,14 @@
     "free": "FALSE",
     "release_date": "5 Mar, 2014",
     "developer": ["Obsidian Entertainment"],
-    "genres": ["Action", " Adventure", " RPG"],
+    "genres": ["Action", "Adventure", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV17410"
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV17410"
     ],
     "metric": "0.349481328",
     "review": "Good"
@@ -802,15 +797,15 @@
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " LAN PvP",
-      " Co-op",
-      " Online Co-op",
-      " LAN Co-op",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.220234216",
     "review": "Poor"
@@ -820,16 +815,16 @@
     "free": "FALSE",
     "release_date": "23 Apr, 2013",
     "developer": ["Klei Entertainment"],
-    "genres": ["Adventure", " Indie", " Simulation"],
+    "genres": ["Adventure", "Indie", "Simulation"],
     "categories": [
       "Single-player",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.310062048",
     "review": "Good"
@@ -839,13 +834,13 @@
     "free": "FALSE",
     "release_date": "27 Apr, 2015",
     "developer": ["Squad"],
-    "genres": ["Indie", " Simulation"],
+    "genres": ["Indie", "Simulation"],
     "categories": [
       "Single-player",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud"
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud"
     ],
     "metric": "0.268483607",
     "review": "Average"
@@ -855,13 +850,13 @@
     "free": "FALSE",
     "release_date": "4 Jun, 2014",
     "developer": ["Trion Worlds"],
-    "genres": ["Action", " Free to Play", " Massively Multiplayer", " RPG"],
+    "genres": ["Action", "Free to Play", "Massively Multiplayer", "RPG"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " Co-op",
-      " Steam Trading Cards",
-      " Partial Controller Support"
+      "MMO",
+      "Co-op",
+      "Steam Trading Cards",
+      "Partial Controller Support"
     ],
     "metric": "0.325863821",
     "review": "Good"
@@ -871,12 +866,12 @@
     "free": "TRUE",
     "release_date": "14 Nov, 1997",
     "developer": ["Running With Scissors"],
-    "genres": ["Action", " Indie"],
+    "genres": ["Action", "Indie"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards"
     ],
     "metric": "0.163690722",
     "review": "Very Poor"
@@ -886,15 +881,15 @@
     "free": "FALSE",
     "release_date": "26 Sep, 2013",
     "developer": ["Flying Wild Hog"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Captions available",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.259072165",
     "review": "Average"
@@ -904,16 +899,16 @@
     "free": "FALSE",
     "release_date": "1 Sep, 2015",
     "developer": ["Avalanche Studios"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.282308499",
     "review": "Average"
@@ -923,16 +918,16 @@
     "free": "FALSE",
     "release_date": "8 Aug, 2013",
     "developer": ["Lucas Pope"],
-    "genres": ["Adventure", " Indie"],
+    "genres": ["Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Stats",
-      " Steam Leaderboards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.233123028",
     "review": "Poor"
@@ -945,10 +940,10 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Partial Controller Support",
-      " Commentary available",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Partial Controller Support",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.007528321",
     "review": "Worst"
@@ -958,8 +953,8 @@
     "free": "FALSE",
     "release_date": "29 October, 2013",
     "developer": ["Ubisoft Montreal"],
-    "genres": ["Action", " Adventure"],
-    "categories": ["Single-player", " Multi-player", " In-App Purchases"],
+    "genres": ["Action", "Adventure"],
+    "categories": ["Single-player", "Multi-player", "In-App Purchases"],
     "metric": "0.279905561",
     "review": "Average"
   },
@@ -967,14 +962,14 @@
     "name": "GunZ 2: The Second Duel",
     "free": "TRUE",
     "release_date": "1 May, 2014",
-    "developer": ["Masangsoft", " Inc."],
-    "genres": ["Action", " Free to Play", " Indie"],
+    "developer": ["Masangsoft", "Inc."],
+    "genres": ["Action", "Free to Play", "Indie"],
     "categories": [
       "Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Captions available"
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available"
     ],
     "metric": "0.210010111",
     "review": "Poor"
@@ -984,17 +979,17 @@
     "free": "FALSE",
     "release_date": "19 Dec, 2014",
     "developer": ["Kunos Simulazioni"],
-    "genres": ["Indie", " Racing", " Simulation", " Sports"],
+    "genres": ["Indie", "Racing", "Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " VR Supported",
-      " Partial Controller Support",
-      " Steam Leaderboards",
-      " Includes level editor"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "VR Supported",
+      "Partial Controller Support",
+      "Steam Leaderboards",
+      "Includes level editor"
     ],
     "metric": "0.416628151",
     "review": "Very Good"
@@ -1004,18 +999,18 @@
     "free": "FALSE",
     "release_date": "28 Feb, 2019",
     "developer": ["Keen Software House"],
-    "genres": ["Action", " Indie", " Simulation", " Strategy"],
+    "genres": ["Action", "Indie", "Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Steam Achievements",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Includes level editor"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor"
     ],
     "metric": "0.30589613",
     "review": "Good"
@@ -1025,24 +1020,24 @@
     "free": "FALSE",
     "release_date": "18 Feb, 2016",
     "developer": ["Ndemic Creations"],
-    "genres": ["Casual", " Indie", " Simulation", " Strategy"],
+    "genres": ["Casual", "Indie", "Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Stats",
-      " Steam Leaderboards",
-      " Includes level editor",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on Tablet"
     ],
     "metric": "0.117717842",
     "review": "Very Poor"
@@ -1052,24 +1047,24 @@
     "free": "FALSE",
     "release_date": "23 Apr, 2015",
     "developer": ["Brace Yourself Games"],
-    "genres": ["Action", " Indie", " RPG"],
+    "genres": ["Action", "Indie", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Shared/Split Screen Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Captions available",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Includes level editor",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.213739754",
     "review": "Poor"
@@ -1079,8 +1074,8 @@
     "free": "FALSE",
     "release_date": "4 Oct, 2013",
     "developer": ["Starbreeze"],
-    "genres": ["Action", " RPG"],
-    "categories": ["Single-player", " Steam Trading Cards", " Steam Cloud"],
+    "genres": ["Action", "RPG"],
+    "categories": ["Single-player", "Steam Trading Cards", "Steam Cloud"],
     "metric": "0.260509684",
     "review": "Average"
   },
@@ -1088,17 +1083,17 @@
     "name": "Borderlands: The Pre-Sequel",
     "free": "FALSE",
     "release_date": "16 Oct, 2014",
-    "developer": ["2K Australia", " Gearbox Software", " Aspyr Linux"],
-    "genres": ["Action", " RPG"],
+    "developer": ["2K Australia", "Gearbox Software", "Aspyr Linux"],
+    "genres": ["Action", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.285056643",
     "review": "Average"
@@ -1110,18 +1105,18 @@
     "developer": ["Noble Empire Corp."],
     "genres": [
       "Action",
-      " Casual",
-      " Free to Play",
-      " Indie",
-      " Simulation",
-      " Strategy"
+      "Casual",
+      "Free to Play",
+      "Indie",
+      "Simulation",
+      "Strategy"
     ],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " In-App Purchases"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases"
     ],
     "metric": "0.378735984",
     "review": "Good"
@@ -1131,16 +1126,16 @@
     "free": "FALSE",
     "release_date": "23 Jan, 2018",
     "developer": ["Unknown Worlds Entertainment"],
-    "genres": ["Adventure", " Indie"],
+    "genres": ["Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " VR Supported",
-      " Steam Trading Cards",
-      " VR Support",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "VR Support",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.2905",
     "review": "Average"
@@ -1150,20 +1145,20 @@
     "free": "FALSE",
     "release_date": "1 Apr, 2014",
     "developer": ["Coffee Stain Studios"],
-    "genres": ["Casual", " Indie", " Simulation"],
+    "genres": ["Casual", "Indie", "Simulation"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Includes level editor",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.207865979",
     "review": "Poor"
@@ -1173,19 +1168,19 @@
     "free": "FALSE",
     "release_date": "2 Feb, 2016",
     "developer": ["SCS Software"],
-    "genres": ["Indie", " Simulation"],
+    "genres": ["Indie", "Simulation"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Includes level editor",
-      " Remote Play Together"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together"
     ],
     "metric": "0.450791367",
     "review": "Very Good"
@@ -1196,7 +1191,7 @@
     "release_date": "6 Mar, 2015",
     "developer": ["Primal"],
     "genres": ["RPG"],
-    "categories": ["Single-player", " Steam Trading Cards"],
+    "categories": ["Single-player", "Steam Trading Cards"],
     "metric": "0.047721088",
     "review": "Worst"
   },
@@ -1205,15 +1200,15 @@
     "free": "FALSE",
     "release_date": "9 May, 2016",
     "developer": ["Paradox Development Studio"],
-    "genres": ["Simulation", " Strategy"],
+    "genres": ["Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud"
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud"
     ],
     "metric": "0.157548718",
     "review": "Very Poor"
@@ -1223,14 +1218,14 @@
     "free": "FALSE",
     "release_date": "14 Nov, 2014",
     "developer": ["11 bit studios"],
-    "genres": ["Adventure", " Indie", " Simulation"],
+    "genres": ["Adventure", "Indie", "Simulation"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud"
     ],
     "metric": "0.016750261",
     "review": "Worst"
@@ -1243,13 +1238,13 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Stats"
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats"
     ],
     "metric": "0.351146366",
     "review": "Good"
@@ -1258,18 +1253,18 @@
     "name": "F1 2015",
     "free": "FALSE",
     "release_date": "9 Jul, 2015",
-    "developer": ["Codemasters", " Feral Interactive Linux"],
-    "genres": ["Racing", " Sports"],
+    "developer": ["Codemasters", "Feral Interactive Linux"],
+    "genres": ["Racing", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Remote Play on TV"
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV"
     ],
     "metric": "0.225297131",
     "review": "Poor"
@@ -1282,10 +1277,10 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.272508073",
     "review": "Average"
@@ -1298,11 +1293,11 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.29855615",
     "review": "Average"
@@ -1314,23 +1309,23 @@
     "developer": ["MY.GAMES"],
     "genres": [
       "Action",
-      " Adventure",
-      " Free to Play",
-      " Massively Multiplayer",
-      " RPG",
-      " Simulation",
-      " Strategy"
+      "Adventure",
+      "Free to Play",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
     ],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " In-App Purchases"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases"
     ],
     "metric": "0.171171548",
     "review": "Very Poor"
@@ -1339,22 +1334,17 @@
     "name": "Block N Load",
     "free": "TRUE",
     "release_date": "30 Apr, 2015",
-    "developer": ["Toadman Interactive", " Artplant"],
-    "genres": [
-      "Action",
-      " Free to Play",
-      " Massively Multiplayer",
-      " Strategy"
-    ],
+    "developer": ["Toadman Interactive", "Artplant"],
+    "genres": ["Action", "Free to Play", "Massively Multiplayer", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Valve Anti-Cheat enabled",
-      " Stats",
-      " Includes level editor"
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor"
     ],
     "metric": "0.28200409",
     "review": "Average"
@@ -1364,13 +1354,13 @@
     "free": "TRUE",
     "release_date": "19 Dec, 2014",
     "developer": ["Novalink"],
-    "genres": ["Action", " Free to Play", " Early Access"],
+    "genres": ["Action", "Free to Play", "Early Access"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Trading Cards",
-      " In-App Purchases"
+      "PvP",
+      "Online PvP",
+      "Steam Trading Cards",
+      "In-App Purchases"
     ],
     "metric": "0.141353306",
     "review": "Very Poor"
@@ -1381,21 +1371,21 @@
     "release_date": "13 Feb, 2017",
     "developer": [
       "Ubisoft Montreal",
-      " Ubisoft Quebec",
-      " Ubisoft Toronto",
-      " Blue Byte"
+      "Ubisoft Quebec",
+      "Ubisoft Toronto",
+      "Blue Byte"
     ],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Trading Cards",
-      " In-App Purchases",
-      " Partial Controller Support"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support"
     ],
     "metric": "0.101038422",
     "review": "Very Poor"
@@ -1404,22 +1394,22 @@
     "name": "Mortal Kombat X",
     "free": "FALSE",
     "release_date": "13 Apr, 2015",
-    "developer": ["NetherRealm Studios", " QLOC"],
+    "developer": ["NetherRealm Studios", "QLOC"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Shared/Split Screen PvP",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.233176594",
     "review": "Poor"
@@ -1429,18 +1419,18 @@
     "free": "FALSE",
     "release_date": "5 Apr, 2016",
     "developer": ["Dodge Roll"],
-    "genres": ["Action", " Adventure", " Indie"],
+    "genres": ["Action", "Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.173034979",
     "review": "Very Poor"
@@ -1450,17 +1440,17 @@
     "free": "FALSE",
     "release_date": "13 Feb, 2017",
     "developer": ["Rebellion"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV"
     ],
     "metric": "0.314953464",
     "review": "Good"
@@ -1470,16 +1460,16 @@
     "free": "TRUE",
     "release_date": "5 Aug, 2014",
     "developer": ["Free Lives"],
-    "genres": ["Action", " Adventure", " Free to Play", " Indie"],
+    "genres": ["Action", "Adventure", "Free to Play", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Shared/Split Screen",
-      " Full controller support",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "Shared/Split Screen",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.359562118",
     "review": "Good"
@@ -1489,17 +1479,17 @@
     "free": "FALSE",
     "release_date": "29 Jul, 2015",
     "developer": ["Stainless Games Ltd."],
-    "genres": ["Free to Play", " Strategy"],
+    "genres": ["Free to Play", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " In-App Purchases",
-      " Steam Cloud",
-      " Remote Play Together"
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Remote Play Together"
     ],
     "metric": "0.266139113",
     "review": "Average"
@@ -1509,14 +1499,14 @@
     "free": "FALSE",
     "release_date": "24 Apr, 2018",
     "developer": ["11 bit studios"],
-    "genres": ["Simulation", " Strategy"],
+    "genres": ["Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.224108446",
     "review": "Poor"
@@ -1526,13 +1516,13 @@
     "free": "TRUE",
     "release_date": "30 Jan, 2015",
     "developer": ["Atelier 801"],
-    "genres": ["Free to Play", " Indie", " Massively Multiplayer"],
+    "genres": ["Free to Play", "Indie", "Massively Multiplayer"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Includes level editor"
+      "MMO",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Includes level editor"
     ],
     "metric": "0.178480493",
     "review": "Very Poor"
@@ -1541,17 +1531,17 @@
     "name": "DARK SOULS™ II: Scholar of the First Sin",
     "free": "FALSE",
     "release_date": "1 Apr, 2015",
-    "developer": ["FromSoftware", " Inc"],
-    "genres": ["Action", " RPG"],
+    "developer": ["FromSoftware", "Inc"],
+    "genres": ["Action", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.077804622",
     "review": "Worst"
@@ -1561,17 +1551,17 @@
     "free": "TRUE",
     "release_date": "31 Oct, 2017",
     "developer": ["Hoobalugalar_X"],
-    "genres": ["Action", " Free to Play"],
+    "genres": ["Action", "Free to Play"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Includes level editor"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Includes level editor"
     ],
     "metric": "0.372964103",
     "review": "Good"
@@ -1583,22 +1573,22 @@
     "developer": ["Frontier Developments"],
     "genres": [
       "Action",
-      " Adventure",
-      " Massively Multiplayer",
-      " RPG",
-      " Simulation",
-      " Strategy"
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
     ],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " Co-op",
-      " VR Supported",
-      " VR Support",
-      " In-App Purchases",
-      " Partial Controller Support",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "VR Supported",
+      "VR Support",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Tablet"
     ],
     "metric": "0.267131063",
     "review": "Average"
@@ -1608,17 +1598,17 @@
     "free": "FALSE",
     "release_date": "5 Feb, 2019",
     "developer": ["System Era Softworks"],
-    "genres": ["Adventure", " Indie"],
+    "genres": ["Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Cloud",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.40946875",
     "review": "Very Good"
@@ -1628,23 +1618,23 @@
     "free": "FALSE",
     "release_date": "6 Mar, 2020",
     "developer": ["Crowbar Collective"],
-    "genres": ["Action", " Adventure", " Indie"],
+    "genres": ["Action", "Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Captions available",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Includes level editor",
-      " Includes Source SDK",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.454662447",
     "review": "Very Good"
@@ -1655,22 +1645,22 @@
     "release_date": "24 May, 2016",
     "developer": [
       "CREATIVE ASSEMBLY",
-      " Feral Interactive Linux",
-      " Feral Interactive Mac"
+      "Feral Interactive Linux",
+      "Feral Interactive Mac"
     ],
-    "genres": ["Action", " Strategy"],
+    "genres": ["Action", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " LAN PvP",
-      " Co-op",
-      " Online Co-op",
-      " LAN Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop"
     ],
     "metric": "0.201969388",
     "review": "Poor"
@@ -1679,17 +1669,17 @@
     "name": "Kingdom: Classic",
     "free": "TRUE",
     "release_date": "21 Oct, 2015",
-    "developer": ["Noio", " Licorice"],
-    "genres": ["Indie", " Simulation", " Strategy"],
+    "developer": ["Noio", "Licorice"],
+    "genres": ["Indie", "Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.301546392",
     "review": "Good"
@@ -1699,14 +1689,14 @@
     "free": "TRUE",
     "release_date": "28 Mar, 2016",
     "developer": ["IMCGAMES Co.", "Ltd."],
-    "genres": ["Free to Play", " Massively Multiplayer", " RPG"],
+    "genres": ["Free to Play", "Massively Multiplayer", "RPG"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " Steam Trading Cards",
-      " In-App Purchases",
-      " Partial Controller Support",
-      " Valve Anti-Cheat enabled"
+      "MMO",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Valve Anti-Cheat enabled"
     ],
     "metric": "0.208903553",
     "review": "Poor"
@@ -1716,14 +1706,14 @@
     "free": "FALSE",
     "release_date": "13 Feb, 2018",
     "developer": ["Warhorse Studios"],
-    "genres": ["Action", " Adventure", " RPG"],
+    "genres": ["Action", "Adventure", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.231517672",
     "review": "Poor"
@@ -1733,23 +1723,18 @@
     "free": "TRUE",
     "release_date": "28 Aug, 2017",
     "developer": ["Fishing Planet LLC"],
-    "genres": [
-      "Free to Play",
-      " Massively Multiplayer",
-      " Simulation",
-      " Sports"
-    ],
+    "genres": ["Free to Play", "Massively Multiplayer", "Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Full controller support",
-      " VR Supported",
-      " Remote Play on TV"
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "VR Supported",
+      "Remote Play on TV"
     ],
     "metric": "0.296200204",
     "review": "Average"
@@ -1759,20 +1744,20 @@
     "free": "TRUE",
     "release_date": "26 Jul, 2017",
     "developer": ["Targem Games"],
-    "genres": ["Action", " Free to Play", " Massively Multiplayer", " Racing"],
+    "genres": ["Action", "Free to Play", "Massively Multiplayer", "Racing"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " In-App Purchases",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.16863869",
     "review": "Very Poor"
@@ -1782,26 +1767,26 @@
     "free": "FALSE",
     "release_date": "4 Mar, 2016",
     "developer": ["Clever Endeavour Games"],
-    "genres": ["Action", " Casual", " Indie"],
+    "genres": ["Action", "Casual", "Indie"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen Co-op",
-      " Shared/Split Screen",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Includes level editor",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.441524202",
     "review": "Very Good"
@@ -1814,13 +1799,13 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Cloud",
-      " Stats",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Stats",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.381790576",
     "review": "Good"
@@ -1830,21 +1815,15 @@
     "free": "FALSE",
     "release_date": "19 Jan, 2016",
     "developer": ["Axolot Games"],
-    "genres": [
-      "Action",
-      " Adventure",
-      " Indie",
-      " Simulation",
-      " Early Access"
-    ],
+    "genres": ["Action", "Adventure", "Indie", "Simulation", "Early Access"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Includes level editor"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor"
     ],
     "metric": "0.473302374",
     "review": "Very Good"
@@ -1854,21 +1833,21 @@
     "free": "FALSE",
     "release_date": "1 Jun, 2017",
     "developer": ["BANDAI NAMCO Studios Inc."],
-    "genres": ["Action", " Sports"],
+    "genres": ["Action", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Steam Leaderboards",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.255493827",
     "review": "Average"
@@ -1878,13 +1857,8 @@
     "free": "TRUE",
     "release_date": "13 Sep, 2019",
     "developer": ["Novalink"],
-    "genres": ["Action", " Free to Play"],
-    "categories": [
-      "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Trading Cards"
-    ],
+    "genres": ["Action", "Free to Play"],
+    "categories": ["Multi-player", "PvP", "Online PvP", "Steam Trading Cards"],
     "metric": "0.20617284",
     "review": "Poor"
   },
@@ -1893,14 +1867,14 @@
     "free": "FALSE",
     "release_date": "15 Feb, 2016",
     "developer": ["Bloober Team SA"],
-    "genres": ["Adventure", " Indie"],
+    "genres": ["Adventure", "Indie"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Remote Play on Tablet"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet"
     ],
     "metric": "0.04425",
     "review": "Worst"
@@ -1910,21 +1884,21 @@
     "free": "FALSE",
     "release_date": "13 Mar, 2020",
     "developer": ["Gearbox Software"],
-    "genres": ["Action", " RPG"],
+    "genres": ["Action", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " LAN Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.174553846",
     "review": "Very Poor"
@@ -1933,14 +1907,14 @@
     "name": "Resident Evil 7 Biohazard",
     "free": "FALSE",
     "release_date": "23 Jan, 2017",
-    "developer": ["CAPCOM Co.", " Ltd."],
-    "genres": ["Action", " Adventure"],
+    "developer": ["CAPCOM Co.", "Ltd."],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.111060924",
     "review": "Very Poor"
@@ -1953,11 +1927,11 @@
     "genres": ["Action"],
     "categories": [
       "Multi-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Stats",
-      " Steam Leaderboards",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV"
     ],
     "metric": "0.245416667",
     "review": "Poor"
@@ -1967,14 +1941,14 @@
     "free": "FALSE",
     "release_date": "12 Apr, 2016",
     "developer": ["Spearhead Games"],
-    "genres": ["Action", " Adventure", " Indie", " RPG"],
+    "genres": ["Action", "Adventure", "Indie", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.375513347",
     "review": "Good"
@@ -1984,8 +1958,8 @@
     "free": "FALSE",
     "release_date": "30 Jul, 2019",
     "developer": ["Klei Entertainment"],
-    "genres": ["Indie", " Simulation"],
-    "categories": ["Single-player", " Steam Trading Cards"],
+    "genres": ["Indie", "Simulation"],
+    "categories": ["Single-player", "Steam Trading Cards"],
     "metric": "0.219876033",
     "review": "Poor"
   },
@@ -1993,21 +1967,21 @@
     "name": "Titan Quest Anniversary Edition",
     "free": "FALSE",
     "release_date": "31 Aug, 2016",
-    "developer": ["Iron Lore Entertainment", " THQ Nordic"],
-    "genres": ["Action", " RPG"],
+    "developer": ["Iron Lore Entertainment", "THQ Nordic"],
+    "genres": ["Action", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Includes level editor"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor"
     ],
     "metric": "0.446323907",
     "review": "Very Good"
@@ -2016,16 +1990,16 @@
     "name": "Last Man Standing",
     "free": "FALSE",
     "release_date": "29 Mar, 2017",
-    "developer": ["Free Reign Entertainment", " Free Reign Entertainment"],
+    "developer": ["Free Reign Entertainment", "Free Reign Entertainment"],
     "genres": [
       "Action",
-      " Adventure",
-      " Free to Play",
-      " Indie",
-      " Massively Multiplayer",
-      " Strategy"
+      "Adventure",
+      "Free to Play",
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy"
     ],
-    "categories": ["Multi-player", " MMO", " Online PvP"],
+    "categories": ["Multi-player", "MMO", "Online PvP"],
     "metric": "0.168328267",
     "review": "Very Poor"
   },
@@ -2034,16 +2008,16 @@
     "free": "FALSE",
     "release_date": "16 Feb, 2017",
     "developer": ["Expansive Worlds"],
-    "genres": ["Adventure", " Simulation", " Sports"],
+    "genres": ["Adventure", "Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " In-App Purchases",
-      " Steam Cloud"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Steam Cloud"
     ],
     "metric": "0.301227702",
     "review": "Good"
@@ -2053,19 +2027,19 @@
     "free": "FALSE",
     "release_date": "22 Jun, 2017",
     "developer": ["Bohemia Interactive"],
-    "genres": ["Action", " Free to Play"],
+    "genres": ["Action", "Free to Play"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen Co-op",
-      " Partial Controller Support",
-      " Includes level editor",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Partial Controller Support",
+      "Includes level editor",
+      "Remote Play Together"
     ],
     "metric": "0.203973442",
     "review": "Poor"
@@ -2075,16 +2049,16 @@
     "free": "FALSE",
     "release_date": "23 Mar, 2020",
     "developer": ["Valve"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Tracked Controller Support",
-      " VR Only",
-      " Captions available",
-      " VR Support",
-      " Steam Workshop",
-      " Includes level editor"
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Only",
+      "Captions available",
+      "VR Support",
+      "Steam Workshop",
+      "Includes level editor"
     ],
     "metric": "0.359317943",
     "review": "Good"
@@ -2097,16 +2071,16 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Captions available",
-      " Steam Cloud",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.320329087",
     "review": "Good"
@@ -2116,15 +2090,15 @@
     "free": "FALSE",
     "release_date": "26 Oct, 2017",
     "developer": ["Ubisoft Montreal"],
-    "genres": ["Action", " Adventure", " RPG"],
+    "genres": ["Action", "Adventure", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Captions available",
-      " In-App Purchases",
-      " Partial Controller Support",
-      " Remote Play on Tablet"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Tablet"
     ],
     "metric": "0.351864952",
     "review": "Good"
@@ -2134,16 +2108,16 @@
     "free": "TRUE",
     "release_date": "16 Nov, 2017",
     "developer": ["Konami Digital Entertainment"],
-    "genres": ["Free to Play", " Strategy"],
+    "genres": ["Free to Play", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " In-App Purchases"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases"
     ],
     "metric": "0.260636079",
     "review": "Average"
@@ -2153,18 +2127,18 @@
     "free": "FALSE",
     "release_date": "19 Aug, 2019",
     "developer": ["Gunfire Games"],
-    "genres": ["Action", " Adventure", " RPG"],
+    "genres": ["Action", "Adventure", "RPG"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.264652352",
     "review": "Average"
@@ -2177,12 +2151,12 @@
     "genres": ["Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Tracked Controller Support",
-      " VR Only",
-      " Steam Leaderboards"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Tracked Controller Support",
+      "VR Only",
+      "Steam Leaderboards"
     ],
     "metric": "0.061046512",
     "review": "Worst"
@@ -2192,14 +2166,14 @@
     "free": "FALSE",
     "release_date": "19 Apr, 2018",
     "developer": ["KAGAMI WORKS"],
-    "genres": ["Adventure", " Indie", " RPG"],
+    "genres": ["Adventure", "Indie", "RPG"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.20776987",
     "review": "Poor"
@@ -2209,19 +2183,19 @@
     "free": "FALSE",
     "release_date": "23 Jan, 2019",
     "developer": ["Mega Crit Games"],
-    "genres": ["Indie", " Strategy"],
+    "genres": ["Indie", "Strategy"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Stats",
-      " Steam Leaderboards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.341331967",
     "review": "Good"
@@ -2231,17 +2205,17 @@
     "free": "FALSE",
     "release_date": "28 Sep, 2017",
     "developer": ["Landfall West"],
-    "genres": ["Action", " Casual", " Indie"],
+    "genres": ["Action", "Casual", "Indie"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Shared/Split Screen",
-      " Partial Controller Support",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play Together"
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Partial Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together"
     ],
     "metric": "0.372357217",
     "review": "Good"
@@ -2254,19 +2228,19 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.251492228",
     "review": "Average"
@@ -2275,26 +2249,26 @@
     "name": "Overcooked! 2",
     "free": "FALSE",
     "release_date": "7 Aug, 2018",
-    "developer": ["Ghost Town Games Ltd.", " Team17"],
-    "genres": ["Action", " Casual", " Indie"],
+    "developer": ["Ghost Town Games Ltd.", "Team17"],
+    "genres": ["Action", "Casual", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen Co-op",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.395207039",
     "review": "Good"
@@ -2306,22 +2280,22 @@
     "developer": ["Creaky Corpse Ltd"],
     "genres": [
       "Action",
-      " Free to Play",
-      " Indie",
-      " Massively Multiplayer",
-      " RPG"
+      "Free to Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
     ],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Trading Cards",
-      " In-App Purchases",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Remote Play on Tablet"
     ],
     "metric": "0.268328236",
     "review": "Average"
@@ -2331,15 +2305,15 @@
     "free": "TRUE",
     "release_date": "16 May, 2018",
     "developer": ["Sandbox Interactive GmbH"],
-    "genres": ["Free to Play", " Massively Multiplayer", " RPG"],
+    "genres": ["Free to Play", "Massively Multiplayer", "RPG"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " In-App Purchases"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "In-App Purchases"
     ],
     "metric": "0.182474438",
     "review": "Very Poor"
@@ -2348,25 +2322,25 @@
     "name": "Russian Fishing 4",
     "free": "TRUE",
     "release_date": "10 Nov, 2021",
-    "developer": ["FishSoft", " LLC"],
+    "developer": ["FishSoft", "LLC"],
     "genres": [
       "Adventure",
-      " Casual",
-      " Free to Play",
-      " Massively Multiplayer",
-      " RPG",
-      " Simulation",
-      " Sports"
+      "Casual",
+      "Free to Play",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Sports"
     ],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " In-App Purchases",
-      " Stats"
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Stats"
     ],
     "metric": "0.237213115",
     "review": "Poor"
@@ -2379,15 +2353,15 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Partial Controller Support",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.093059701",
     "review": "Worst"
@@ -2398,25 +2372,25 @@
     "release_date": "14 Nov, 2019",
     "developer": [
       "Forgotten Empires",
-      " Tantalus Media",
-      " Wicked Witch",
-      " \"Worlds Edge\""
+      "Tantalus Media",
+      "Wicked Witch",
+      "Worlds Edge"
     ],
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " LAN PvP",
-      " Co-op",
-      " Online Co-op",
-      " LAN Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Includes level editor"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Includes level editor"
     ],
     "metric": "0.440226105",
     "review": "Very Good"
@@ -2428,13 +2402,13 @@
     "developer": ["ConchShip Games"],
     "genres": [
       "Adventure",
-      " Casual",
-      " Indie",
-      " RPG",
-      " Strategy",
-      " Early Access"
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Early Access"
     ],
-    "categories": ["Single-player", " Remote Play on Tablet"],
+    "categories": ["Single-player", "Remote Play on Tablet"],
     "metric": "0.261818182",
     "review": "Average"
   },
@@ -2443,12 +2417,12 @@
     "free": "TRUE",
     "release_date": "25 Jun, 2018",
     "developer": ["DONTNOD Entertainment"],
-    "genres": ["Adventure", " Free to Play"],
+    "genres": ["Adventure", "Free to Play"],
     "categories": [
       "Single-player",
-      " Full controller support",
-      " Steam Cloud",
-      " Remote Play on TV"
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on TV"
     ],
     "metric": "0.379508882",
     "review": "Good"
@@ -2458,11 +2432,11 @@
     "free": "TRUE",
     "release_date": "27 Jun, 2018",
     "developer": ["Scott Cawthon"],
-    "genres": ["Action", " Free to Play", " Indie"],
+    "genres": ["Action", "Free to Play", "Indie"],
     "categories": [
       "Single-player",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.19491062",
     "review": "Very Poor"
@@ -2472,22 +2446,22 @@
     "free": "FALSE",
     "release_date": "20 Sep, 2018",
     "developer": ["Rebuilt Games"],
-    "genres": ["Action", " Casual", " Indie"],
+    "genres": ["Action", "Casual", "Indie"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Workshop",
-      " Includes level editor",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together"
     ],
     "metric": "0.43390625",
     "review": "Very Good"
@@ -2497,16 +2471,16 @@
     "free": "TRUE",
     "release_date": "15 Jun, 2018",
     "developer": ["Darkflow Software"],
-    "genres": ["Action", " Free to Play", " Massively Multiplayer"],
+    "genres": ["Action", "Free to Play", "Massively Multiplayer"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " Full controller support",
-      " In-App Purchases"
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
     ],
     "metric": "0.296536485",
     "review": "Average"
@@ -2516,16 +2490,16 @@
     "free": "TRUE",
     "release_date": "2 Dec, 2021",
     "developer": ["Playwing LTD"],
-    "genres": ["Action", " Free to Play", " Indie"],
+    "genres": ["Action", "Free to Play", "Indie"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " In-App Purchases"
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
     ],
     "metric": "0.160970072",
     "review": "Very Poor"
@@ -2538,13 +2512,13 @@
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " In-App Purchases",
-      " Remote Play on Phone",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
     ],
     "metric": "0.250688525",
     "review": "Average"
@@ -2554,16 +2528,16 @@
     "free": "FALSE",
     "release_date": "27 Sep, 2022",
     "developer": ["Obsidian Entertainment"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet"
     ],
     "metric": "0.37298768",
     "review": "Good"
@@ -2573,13 +2547,13 @@
     "free": "TRUE",
     "release_date": "14 Oct, 2020",
     "developer": ["Nimble Neuron"],
-    "genres": ["Free to Play", " Indie", " Strategy", " Early Access"],
+    "genres": ["Free to Play", "Indie", "Strategy", "Early Access"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Trading Cards",
-      " In-App Purchases"
+      "PvP",
+      "Online PvP",
+      "Steam Trading Cards",
+      "In-App Purchases"
     ],
     "metric": "0.31884375",
     "review": "Good"
@@ -2592,12 +2566,12 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Cloud",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.456575916",
     "review": "Very Good"
@@ -2610,15 +2584,15 @@
     "genres": ["RPG"],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " In-App Purchases",
-      " Partial Controller Support",
-      " Remote Play on Tablet"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Tablet"
     ],
     "metric": "0.138128232",
     "review": "Very Poor"
@@ -2628,17 +2602,17 @@
     "free": "FALSE",
     "release_date": "1 Sep, 2020",
     "developer": ["Paradox Development Studio"],
-    "genres": ["RPG", " Simulation", " Strategy"],
+    "genres": ["RPG", "Simulation", "Strategy"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " Steam Trading Cards",
-      " Steam Workshop",
-      " Steam Cloud",
-      " Remote Play on Tablet"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet"
     ],
     "metric": "0.25",
     "review": "Average"
@@ -2648,14 +2622,14 @@
     "free": "FALSE",
     "release_date": "14 Nov, 2019",
     "developer": ["Respawn Entertainment"],
-    "genres": ["Action", " Adventure"],
+    "genres": ["Action", "Adventure"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.306326964",
     "review": "Good"
@@ -2667,19 +2641,19 @@
     "developer": ["MOBITECH LLC"],
     "genres": [
       "Action",
-      " Free to Play",
-      " Indie",
-      " Massively Multiplayer",
-      " RPG",
-      " Early Access"
+      "Free to Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access"
     ],
     "categories": [
       "Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " In-App Purchases",
-      " Remote Play on Tablet"
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "In-App Purchases",
+      "Remote Play on Tablet"
     ],
     "metric": "0.054830421",
     "review": "Worst"
@@ -2688,14 +2662,14 @@
     "name": "Resident Evil Village",
     "free": "FALSE",
     "release_date": "6 May, 2021",
-    "developer": ["CAPCOM Co.", " Ltd."],
+    "developer": ["CAPCOM Co.", "Ltd."],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.167636761",
     "review": "Very Poor"
@@ -2705,23 +2679,23 @@
     "free": "FALSE",
     "release_date": "4 Sep, 2020",
     "developer": ["Visual Concepts"],
-    "genres": ["Simulation", " Sports"],
+    "genres": ["Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen Co-op",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " Full controller support",
-      " In-App Purchases",
-      " Steam Cloud",
-      " Remote Play on Tablet",
-      " Remote Play Together"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play Together"
     ],
     "metric": "0.00741044",
     "review": "Worst"
@@ -2734,15 +2708,15 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Remote Play on Phone",
-      " Remote Play on Tablet",
-      " Remote Play on TV"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "metric": "0.293134328",
     "review": "Average"
@@ -2752,15 +2726,15 @@
     "free": "FALSE",
     "release_date": "11 Jun, 2020",
     "developer": ["DICE"],
-    "genres": ["Action", " Massively Multiplayer"],
+    "genres": ["Action", "Massively Multiplayer"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards"
     ],
     "metric": "0.165344262",
     "review": "Very Poor"
@@ -2770,12 +2744,12 @@
     "free": "FALSE",
     "release_date": "24 Nov, 2020",
     "developer": ["Sports Interactive"],
-    "genres": ["Simulation", " Sports"],
+    "genres": ["Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Steam Achievements",
-      " Steam Cloud"
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Cloud"
     ],
     "metric": "0.290346939",
     "review": "Average"
@@ -2785,11 +2759,11 @@
     "free": "TRUE",
     "release_date": "11 May, 2020",
     "developer": ["vanripper"],
-    "genres": ["Adventure", " Free to Play", " Indie"],
+    "genres": ["Adventure", "Free to Play", "Indie"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Partial Controller Support"
+      "Steam Achievements",
+      "Partial Controller Support"
     ],
     "metric": "0.150476718",
     "review": "Very Poor"
@@ -2802,16 +2776,16 @@
     "genres": ["Racing"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.272535059",
     "review": "Average"
@@ -2821,8 +2795,8 @@
     "free": "FALSE",
     "release_date": "20 Jan, 2021",
     "developer": ["Youthcat Studio"],
-    "genres": ["Indie", " Simulation", " Strategy", " Early Access"],
-    "categories": ["Single-player", " Remote Play on Tablet"],
+    "genres": ["Indie", "Simulation", "Strategy", "Early Access"],
+    "categories": ["Single-player", "Remote Play on Tablet"],
     "metric": "0.386748718",
     "review": "Good"
   },
@@ -2830,17 +2804,17 @@
     "name": "MONSTER HUNTER RISE",
     "free": "FALSE",
     "release_date": "12 Jan, 2022",
-    "developer": ["CAPCOM Co.", " Ltd."],
+    "developer": ["CAPCOM Co.", "Ltd."],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " Co-op",
-      " Online Co-op",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.159515464",
     "review": "Very Poor"
@@ -2850,21 +2824,21 @@
     "free": "FALSE",
     "release_date": "30 Sep, 2021",
     "developer": ["EA Canada & EA Romania"],
-    "genres": ["Simulation", " Sports"],
+    "genres": ["Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " MMO",
-      " PvP",
-      " Online PvP",
-      " Shared/Split Screen PvP",
-      " Co-op",
-      " Online Co-op",
-      " Shared/Split Screen Co-op",
-      " Shared/Split Screen",
-      " Steam Achievements",
-      " In-App Purchases",
-      " Partial Controller Support"
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support"
     ],
     "metric": "0.065900104",
     "review": "Worst"
@@ -2874,19 +2848,19 @@
     "free": "FALSE",
     "release_date": "8 Nov, 2021",
     "developer": ["Playground Games"],
-    "genres": ["Action", " Adventure", " Racing", " Simulation", " Sports"],
+    "genres": ["Action", "Adventure", "Racing", "Simulation", "Sports"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " Co-op",
-      " Online Co-op",
-      " Cross-Platform Multiplayer",
-      " Steam Achievements",
-      " Full controller support",
-      " Steam Trading Cards",
-      " Steam Cloud"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
     ],
     "metric": "0.301442411",
     "review": "Good"
@@ -2896,22 +2870,17 @@
     "free": "FALSE",
     "release_date": "17 May, 2022",
     "developer": ["Stunlock Studios"],
-    "genres": [
-      "Action",
-      " Adventure",
-      " Massively Multiplayer",
-      " Early Access"
-    ],
+    "genres": ["Action", "Adventure", "Massively Multiplayer", "Early Access"],
     "categories": [
       "Single-player",
-      " Multi-player",
-      " PvP",
-      " Online PvP",
-      " LAN PvP",
-      " Co-op",
-      " Online Co-op",
-      " LAN Co-op",
-      " Steam Cloud"
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Cloud"
     ],
     "metric": "0.292358393",
     "review": "Average"
@@ -2921,14 +2890,14 @@
     "free": "TRUE",
     "release_date": "7 Oct, 2021",
     "developer": ["Kitka Games"],
-    "genres": ["Action", " Casual", " Indie"],
+    "genres": ["Action", "Casual", "Indie"],
     "categories": [
       "Multi-player",
-      " PvP",
-      " Online PvP",
-      " Cross-Platform Multiplayer",
-      " In-App Purchases",
-      " Partial Controller Support"
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases",
+      "Partial Controller Support"
     ],
     "metric": "0.21044586",
     "review": "Poor"
@@ -2938,7 +2907,7 @@
     "free": "TRUE",
     "release_date": "12 Oct, 2021",
     "developer": ["MOB Games"],
-    "genres": ["Action", " Adventure", " Indie"],
+    "genres": ["Action", "Adventure", "Indie"],
     "categories": ["Single-player"],
     "metric": "0.196663202",
     "review": "Very Poor"
@@ -2948,12 +2917,12 @@
     "free": "FALSE",
     "release_date": "20 Jan, 2022",
     "developer": ["KAGAMI Ⅱ WORKs"],
-    "genres": ["Adventure", " Indie", " RPG", " Early Access"],
+    "genres": ["Adventure", "Indie", "RPG", "Early Access"],
     "categories": [
       "Single-player",
-      " Steam Achievements",
-      " Steam Workshop",
-      " Steam Cloud"
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud"
     ],
     "metric": "0.161276596",
     "review": "Very Poor"

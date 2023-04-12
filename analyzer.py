@@ -15,25 +15,25 @@ with open('metrics.csv', 'r') as file:
     for document in reader:
         print(document[0], document[1])
         if (float(document[1]) >= 0 and float(document[1]) < 0.1):  # very negative
-            text = "very negative"
+            text = "Worst"
             count1 += 1
         elif (float(document[1]) >= 0.1 and float(document[1]) < 0.2):  # negative
-            text = "negative"
+            text = "Very Poor"
             count2 += 1
         elif (float(document[1]) >= 0.2 and float(document[1]) < 0.25):  # partially negative
-            text = "partially negative"
+            text = "Poor"
             count3 += 1
         elif (float(document[1]) >= 0.25 and float(document[1]) < 0.3):  # mixed
-            text = "mixed"
+            text = "Average"
             count7 += 1
         elif (float(document[1]) >= 0.3 and float(document[1]) < 0.4):  # partially positive
-            text = "partially positive"
+            text = "Good"
             count4 += 1
         elif (float(document[1]) >= 0.4 and float(document[1]) < 0.5):  # positive
-            text = "positive"
+            text = "Very Good"
             count5 += 1
         else:  # very positive
-            text = "very positive"
+            text = "Excellent"
             count6 += 1
 
         final_reviews.append([document[0], document[1], text])
