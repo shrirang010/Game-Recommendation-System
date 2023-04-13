@@ -1,22 +1,34 @@
 {
-  "220240": {
-    "name": "Far Cry 3",
+  "12210": {
+    "name": "Grand Theft Auto IV: Complete Edition",
     "free": "FALSE",
-    "release_date": "28 Nov, 2012",
-    "developer": [
-      "Ubisoft Montreal",
-      "Massive Entertainment",
-      "and Ubisoft Shanghai"
-    ],
-    "genres": ["Action", "Adventure"],
+    "release_date": "",
+    "developer": ["Rockstar North", " Rockstar Toronto"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Partial Controller Support"
+      " Multi-player",
+      " Partial Controller Support"
     ],
-    "metric": "0.284752475",
-    "review": "Average"
+    "metric": "0.19285256410256432",
+    "review": "Very Poor"
+  },
+  "20": {
+    "name": "Team Fortress Classic",
+    "free": "FALSE",
+    "release_date": "1 Apr, 1999",
+    "developer": ["Valve"],
+    "genres": ["Action"],
+    "categories": [
+      "Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Valve Anti-Cheat enabled",
+      " Remote Play Together"
+    ],
+    "metric": "0.31261048304213884",
+    "review": "Good"
   },
   "280": {
     "name": "Half-Life: Source",
@@ -24,8 +36,26 @@
     "release_date": "1 Jun, 2004",
     "developer": ["Valve"],
     "genres": ["Action"],
-    "categories": ["Single-player", "Remote Play Together"],
+    "categories": ["Single-player", " Remote Play Together"],
     "metric": "0.308921971",
+    "review": "partially positive"
+  },
+  "300": {
+    "name": "Day of Defeat: Source",
+    "free": "FALSE",
+    "release_date": "12 Jul, 2010",
+    "developer": ["Valve"],
+    "genres": ["Action"],
+    "categories": [
+      "Multi-player",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Valve Anti-Cheat enabled",
+      " Stats",
+      " Includes Source SDK"
+    ],
+    "metric": "0.3080541103017702",
     "review": "Good"
   },
   "340": {
@@ -36,11 +66,11 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Commentary available",
-      "Remote Play Together"
+      " Commentary available",
+      " Remote Play Together"
     ],
     "metric": "0.335149948",
-    "review": "Good"
+    "review": "partially positive"
   },
   "380": {
     "name": "Half-Life 2: Episode One",
@@ -50,16 +80,127 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Captions available",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Stats",
-      "Includes Source SDK",
-      "Commentary available",
-      "Remote Play Together"
+      " Steam Achievements",
+      " Captions available",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Stats",
+      " Includes Source SDK",
+      " Commentary available",
+      " Remote Play Together"
     ],
     "metric": "0.32721585",
+    "review": "partially positive"
+  },
+  "420": {
+    "name": "Half-Life 2: Episode Two",
+    "free": "FALSE",
+    "release_date": "10 Oct, 2007",
+    "developer": ["Valve"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Captions available",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Stats",
+      " Includes Source SDK",
+      " Commentary available",
+      " Remote Play Together"
+    ],
+    "metric": "0.19911578947368444",
+    "review": "Very Poor"
+  },
+  "500": {
+    "name": "Left 4 Dead",
+    "free": "FALSE",
+    "release_date": "17 Nov, 2008",
+    "developer": ["Valve"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Captions available",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled",
+      " Stats",
+      " Steam Leaderboards",
+      " Includes Source SDK",
+      " Commentary available",
+      " Remote Play on TV",
+      " Remote Play Together"
+    ],
+    "metric": "0.33124733475479856",
+    "review": "Good"
+  },
+  "630": {
+    "name": "Alien Swarm",
+    "free": "TRUE",
+    "release_date": "19 Jul, 2010",
+    "developer": ["Valve"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Captions available",
+      " Steam Cloud",
+      " Stats",
+      " Includes level editor",
+      " Remote Play Together"
+    ],
+    "metric": "0.4614123711340229",
+    "review": "Very Good"
+  },
+  "1250": {
+    "name": "Killing Floor",
+    "free": "FALSE",
+    "release_date": "14 May, 2009",
+    "developer": ["Tripwire Interactive"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Valve Anti-Cheat enabled",
+      " Stats",
+      " Includes level editor"
+    ],
+    "metric": "0.2777011494252882",
+    "review": "Average"
+  },
+  "2630": {
+    "name": "Call of Duty® 2",
+    "free": "FALSE",
+    "release_date": "13 Oct, 2006",
+    "developer": ["Infinity Ward"],
+    "genres": ["Action"],
+    "categories": ["Single-player", " Multi-player"],
+    "metric": "0.35288797533402017",
+    "review": "Good"
+  },
+  "3590": {
+    "name": "Plants vs. Zombies GOTY Edition",
+    "free": "FALSE",
+    "release_date": "5 May, 2009",
+    "developer": ["PopCap Games", " Inc."],
+    "genres": ["Strategy"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
+    ],
+    "metric": "0.3559978425026982",
     "review": "Good"
   },
   "4560": {
@@ -67,25 +208,58 @@
     "free": "FALSE",
     "release_date": "17 Jul, 2007",
     "developer": ["Relic Entertainment"],
-    "genres": ["Action", "Strategy"],
+    "genres": ["Action", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud"
+      " Multi-player",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud"
     ],
     "metric": "0.349236253",
-    "review": "Good"
+    "review": "partially positive"
+  },
+  "6060": {
+    "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+    "free": "FALSE",
+    "release_date": "8 Jul, 2009",
+    "developer": ["Pandemic Studios"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Partial Controller Support",
+      " Steam Cloud"
+    ],
+    "metric": "0.28501547987616194",
+    "review": "Average"
   },
   "7670": {
     "name": "BioShock™",
     "free": "FALSE",
     "release_date": "21 Aug, 2007",
-    "developer": ["2K Boston", "2K Australia"],
-    "genres": ["Action", "RPG"],
-    "categories": ["Single-player", "Partial Controller Support"],
+    "developer": ["2K Boston", " 2K Australia"],
+    "genres": ["Action", " RPG"],
+    "categories": ["Single-player", " Partial Controller Support"],
     "metric": "0.372729167",
+    "review": "partially positive"
+  },
+  "8190": {
+    "name": "Just Cause 2",
+    "free": "FALSE",
+    "release_date": "23 Mar, 2010",
+    "developer": ["Avalanche Studios"],
+    "genres": ["Action", " Adventure"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Cloud",
+      " Remote Play on TV"
+    ],
+    "metric": "0.3071368861024045",
     "review": "Good"
   },
   "8500": {
@@ -95,37 +269,39 @@
     "developer": ["CCP"],
     "genres": [
       "Action",
-      "Free to Play",
-      "Massively Multiplayer",
-      "RPG",
-      "Strategy"
+      " Free to Play",
+      " Massively Multiplayer",
+      " RPG",
+      " Strategy"
     ],
     "categories": [
       "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Trading Cards"
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Trading Cards"
     ],
     "metric": "0.231182467",
-    "review": "Poor"
+    "review": "partially negative"
   },
-  "8850": {
-    "name": "BioShock® 2",
+  "8870": {
+    "name": "BioShock Infinite",
     "free": "FALSE",
-    "release_date": "9 Feb, 2010",
-    "developer": ["2K Marin", "2K China", "Digital Extremes", "2K Australia"],
+    "release_date": "25 Mar, 2013",
+    "developer": ["Irrational Games", " Virtual Programming Linux"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.394840371",
+    "metric": "0.327762162162163",
     "review": "Good"
   },
   "9480": {
@@ -134,9 +310,9 @@
     "release_date": "7 Jan, 2009",
     "developer": ["Volition"],
     "genres": ["Action"],
-    "categories": ["Single-player", "Steam Cloud"],
+    "categories": ["Single-player", " Steam Cloud"],
     "metric": "0.266020513",
-    "review": "Average"
+    "review": "mixed"
   },
   "10090": {
     "name": "Call of Duty: World at War",
@@ -144,92 +320,128 @@
     "release_date": "18 Nov, 2008",
     "developer": ["Treyarch"],
     "genres": ["Action"],
-    "categories": ["Single-player", "Multi-player", "Co-op"],
+    "categories": ["Single-player", " Multi-player", " Co-op"],
     "metric": "0.267867495",
-    "review": "Average"
+    "review": "mixed"
   },
-  "11020": {
-    "name": "TrackMania Nations Forever",
-    "free": "TRUE",
-    "release_date": "16 Apr, 2008",
-    "developer": ["Nadeo"],
-    "genres": ["Racing"],
-    "categories": ["Single-player", "Multi-player", "Includes level editor"],
-    "metric": "0.394147089",
-    "review": "Good"
-  },
-  "12100": {
-    "name": "Grand Theft Auto III",
+  "12120": {
+    "name": "Grand Theft Auto: San Andreas",
     "free": "FALSE",
     "release_date": "4 Jan, 2008",
     "developer": ["Rockstar Games"],
     "genres": ["Action"],
-    "categories": ["Single-player", "Partial Controller Support"],
-    "metric": "0.313987342",
-    "review": "Good"
+    "categories": ["Single-player"],
+    "metric": "0.24695408734602525",
+    "review": "Poor"
+  },
+  "15700": {
+    "name": "Oddworld: Abe's Oddysee®",
+    "free": "FALSE",
+    "release_date": "28 Aug, 2008",
+    "developer": ["Oddworld Inhabitants"],
+    "genres": ["Adventure"],
+    "categories": ["Single-player", " Steam Trading Cards"],
+    "metric": "0.2306659836065579",
+    "review": "Poor"
   },
   "20900": {
     "name": "The Witcher: Enhanced Edition Director's Cut",
     "free": "FALSE",
     "release_date": "16 Sep, 2008",
     "developer": ["CD PROJEKT RED"],
-    "genres": ["Action", "RPG"],
-    "categories": ["Single-player", "Steam Cloud"],
+    "genres": ["Action", " RPG"],
+    "categories": ["Single-player", " Steam Cloud"],
     "metric": "0.289542144",
-    "review": "Average"
+    "review": "mixed"
   },
-  "24200": {
-    "name": "DC Universe™ Online",
-    "free": "TRUE",
-    "release_date": "2 Nov, 2011",
-    "developer": ["Dimensional Ink Games"],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Free to Play",
-      "Massively Multiplayer",
-      "RPG"
-    ],
+  "20920": {
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "free": "FALSE",
+    "release_date": "16 Apr, 2012",
+    "developer": ["CD PROJEKT RED"],
+    "genres": ["RPG"],
     "categories": [
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Partial Controller Support"
+      "Single-player",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Steam Leaderboards"
     ],
-    "metric": "0.332264914",
+    "metric": "0.35479957805907325",
     "review": "Good"
   },
-  "33230": {
-    "name": "Assassin's Creed 2",
+  "22380": {
+    "name": "Fallout: New Vegas",
     "free": "FALSE",
-    "release_date": "4 Mar, 2010",
-    "developer": ["Ubisoft Montreal"],
-    "genres": ["Action", "Adventure"],
-    "categories": ["Single-player"],
-    "metric": "0.330221053",
+    "release_date": "21 Oct, 2010",
+    "developer": ["Obsidian Entertainment"],
+    "genres": ["Action", " RPG"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Partial Controller Support",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
+    ],
+    "metric": "0.19214054054054056",
+    "review": "Very Poor"
+  },
+  "24240": {
+    "name": "PAYDAY™ The Heist",
+    "free": "FALSE",
+    "release_date": "20 Oct, 2011",
+    "developer": ["OVERKILL Software"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Stats"
+    ],
+    "metric": "0.3114641744548297",
     "review": "Good"
   },
   "33900": {
     "name": "Arma 2",
     "free": "FALSE",
-    "release_date": "17 June, 2009",
+    "release_date": "",
     "developer": ["Bohemia Interactive"],
-    "genres": ["Action", "Simulation", "Strategy"],
+    "genres": ["Action", " Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Captions available",
-      "Partial Controller Support",
-      "Includes level editor"
+      " Multi-player",
+      " Co-op",
+      " Captions available",
+      " Partial Controller Support",
+      " Includes level editor"
     ],
     "metric": "0.217895267",
-    "review": "Poor"
+    "review": "partially negative"
+  },
+  "33930": {
+    "name": "Arma 2: Operation Arrowhead",
+    "free": "FALSE",
+    "release_date": "29 Jun, 2010",
+    "developer": ["Bohemia Interactive"],
+    "genres": ["Action", " Simulation", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Captions available",
+      " Partial Controller Support",
+      " Includes level editor"
+    ],
+    "metric": "0.30498452012384003",
+    "review": "Good"
   },
   "34330": {
     "name": "Total War: SHOGUN 2",
@@ -237,111 +449,113 @@
     "release_date": "15 Mar, 2011",
     "developer": [
       "CREATIVE ASSEMBLY",
-      "Feral Interactive Mac",
-      "Feral Interactive Linux"
+      " Feral Interactive Mac",
+      " Feral Interactive Linux"
     ],
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "LAN PvP",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled",
-      "Stats"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled",
+      " Stats"
     ],
     "metric": "0.242754995",
-    "review": "Poor"
+    "review": "partially negative"
   },
   "35450": {
     "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
     "free": "FALSE",
     "release_date": "13 Sep, 2011",
     "developer": ["Tripwire Interactive"],
-    "genres": ["Action", "Massively Multiplayer", "Simulation"],
+    "genres": ["Action", " Massively Multiplayer", " Simulation"],
     "categories": [
       "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Valve Anti-Cheat enabled",
-      "Stats",
-      "Includes level editor"
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Valve Anti-Cheat enabled",
+      " Stats",
+      " Includes level editor"
     ],
     "metric": "0.225862786",
-    "review": "Poor"
+    "review": "partially negative"
   },
   "35720": {
     "name": "Trine 2: Complete Story",
     "free": "FALSE",
     "release_date": "6 Jun, 2013",
     "developer": ["Frozenbyte"],
-    "genres": ["Action", "Adventure", "Indie"],
+    "genres": ["Action", " Adventure", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Includes level editor",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Includes level editor",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
     ],
     "metric": "0.552602881",
-    "review": "Excellent"
+    "review": "very positive"
   },
-  "39120": {
-    "name": "RIFT",
-    "free": "TRUE",
-    "release_date": "1 Mar, 2011",
-    "developer": ["gamigo US Inc."],
-    "genres": ["Free to Play", "Massively Multiplayer", "RPG"],
+  "39210": {
+    "name": "FINAL FANTASY XIV Online",
+    "free": "FALSE",
+    "release_date": "18 Feb, 2014",
+    "developer": ["Square Enix"],
+    "genres": ["Massively Multiplayer", " RPG"],
     "categories": [
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Trading Cards",
-      "In-App Purchases"
+      "Single-player",
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Partial Controller Support",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.385373737",
-    "review": "Good"
+    "metric": "0.28216188524590263",
+    "review": "Average"
   },
   "42680": {
     "name": "Call of Duty®: Modern Warfare® 3",
     "free": "FALSE",
     "release_date": "7 Nov, 2011",
-    "developer": ["Infinity Ward", "Sledgehammer Games"],
+    "developer": ["Infinity Ward", " Sledgehammer Games"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled"
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled"
     ],
     "metric": "0.290936842",
-    "review": "Average"
+    "review": "mixed"
   },
   "42700": {
     "name": "Call of Duty®: Black Ops",
@@ -351,49 +565,56 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Partial Controller Support",
-      "Valve Anti-Cheat enabled"
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Partial Controller Support",
+      " Valve Anti-Cheat enabled"
     ],
     "metric": "0.227327766",
-    "review": "Poor"
+    "review": "partially negative"
+  },
+  "42910": {
+    "name": "Magicka",
+    "free": "FALSE",
+    "release_date": "25 Jan, 2011",
+    "developer": ["Arrowhead Game Studios"],
+    "genres": ["Action", " RPG"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
+    ],
+    "metric": "0.3420040899795513",
+    "review": "Good"
   },
   "48000": {
     "name": "LIMBO",
     "free": "FALSE",
     "release_date": "2 Aug, 2011",
     "developer": ["Playdead"],
-    "genres": ["Action", "Adventure", "Indie"],
+    "genres": ["Action", " Adventure", " Indie"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.219801463",
-    "review": "Poor"
-  },
-  "48700": {
-    "name": "Mount & Blade: Warband",
-    "free": "FALSE",
-    "release_date": "31 Mar, 2010",
-    "developer": ["TaleWorlds Entertainment"],
-    "genres": ["Action", "RPG"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop"
-    ],
-    "metric": "0.251502591",
-    "review": "Average"
+    "review": "partially negative"
   },
   "50130": {
     "name": "Mafia II (Classic)",
@@ -403,55 +624,88 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Partial Controller Support"
+      " Steam Achievements",
+      " Partial Controller Support"
     ],
     "metric": "0.431985371",
-    "review": "Very Good"
+    "review": "positive"
   },
-  "55100": {
-    "name": "Homefront",
+  "55150": {
+    "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
     "free": "FALSE",
-    "release_date": "14 Mar, 2011",
-    "developer": ["Kaos Studios", "Digital Extremes"],
+    "release_date": "5 Sep, 2011",
+    "developer": ["Relic Entertainment"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled"
+      " Multi-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Leaderboards",
+      " Remote Play on TV"
     ],
-    "metric": "0.175733471",
-    "review": "Very Poor"
+    "metric": "0.2124948453608251",
+    "review": "Poor"
   },
-  "65800": {
-    "name": "Dungeon Defenders",
+  "55230": {
+    "name": "Saints Row: The Third",
     "free": "FALSE",
-    "release_date": "18 Oct, 2011",
-    "developer": ["Chromatic Games"],
-    "genres": ["Action", "Indie", "RPG", "Strategy"],
+    "release_date": "14 Nov, 2011",
+    "developer": ["Volition"],
+    "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.419230769",
-    "review": "Very Good"
+    "metric": "0.3356448202959843",
+    "review": "Good"
+  },
+  "57300": {
+    "name": "Amnesia: The Dark Descent",
+    "free": "FALSE",
+    "release_date": "8 Sep, 2010",
+    "developer": ["Frictional Games"],
+    "genres": ["Action", " Adventure", " Indie"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Captions available",
+      " Includes level editor",
+      " Commentary available",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
+    ],
+    "metric": "-0.04987499999999999",
+    "review": "Worst"
+  },
+  "63380": {
+    "name": "Sniper Elite V2",
+    "free": "FALSE",
+    "release_date": "",
+    "developer": ["Rebellion"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Steam Leaderboards"
+    ],
+    "metric": "0.27349075975359416",
+    "review": "Average"
   },
   "99900": {
     "name": "Spiral Knights",
@@ -460,97 +714,124 @@
     "developer": ["Grey Havens"],
     "genres": [
       "Action",
-      "Adventure",
-      "Casual",
-      "Free to Play",
-      "Indie",
-      "Massively Multiplayer",
-      "RPG"
+      " Adventure",
+      " Casual",
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " RPG"
     ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "MMO",
-      "Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "In-App Purchases",
-      "Partial Controller Support"
+      " Multi-player",
+      " MMO",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Partial Controller Support"
     ],
     "metric": "0.330800405",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "107100": {
-    "name": "Bastion",
-    "free": "FALSE",
-    "release_date": "16 Aug, 2011",
-    "developer": ["Supergiant Games"],
-    "genres": ["Action", "Indie", "RPG"],
+  "109600": {
+    "name": "Neverwinter",
+    "free": "TRUE",
+    "release_date": "5 Dec, 2013",
+    "developer": ["Cryptic Studios"],
+    "genres": [
+      "Action",
+      " Adventure",
+      " Free to Play",
+      " Massively Multiplayer",
+      " RPG"
+    ],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Includes level editor"
     ],
-    "metric": "0.533823227",
-    "review": "Excellent"
+    "metric": "0.2578383838383843",
+    "review": "Average"
   },
-  "113200": {
-    "name": "The Binding of Isaac",
-    "free": "FALSE",
-    "release_date": "28 Sep, 2011",
-    "developer": ["Edmund McMillen", "Florian Himsl"],
-    "genres": ["Action", "Adventure", "Indie", "RPG"],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards"
+  "113400": {
+    "name": "APB Reloaded",
+    "free": "TRUE",
+    "release_date": "6 Dec, 2011",
+    "developer": ["Reloaded Productions"],
+    "genres": ["Action", " Free to Play", " Massively Multiplayer"],
+    "categories": ["Multi-player", " MMO", " Steam Achievements"],
+    "metric": "0.18793667007150186",
+    "review": "Very Poor"
+  },
+  "200210": {
+    "name": "Realm of the Mad God Exalt",
+    "free": "TRUE",
+    "release_date": "20 Feb, 2012",
+    "developer": ["Wild Shadow Studios", " Deca Games"],
+    "genres": [
+      "Action",
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " RPG"
     ],
-    "metric": "0.137349896",
+    "categories": [
+      "Multi-player",
+      " MMO",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " In-App Purchases",
+      " Stats"
+    ],
+    "metric": "0.17036326942482352",
     "review": "Very Poor"
   },
   "200510": {
     "name": "XCOM: Enemy Unknown",
     "free": "FALSE",
     "release_date": "11 Oct, 2012",
-    "developer": ["Firaxis Games", "Feral Interactive Linux"],
+    "developer": ["Firaxis Games", " Feral Interactive Linux"],
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Multi-player",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on TV"
     ],
     "metric": "0.236857143",
-    "review": "Poor"
+    "review": "partially negative"
   },
   "200710": {
     "name": "Torchlight II",
     "free": "FALSE",
     "release_date": "20 Sep, 2012",
     "developer": ["Runic Games"],
-    "genres": ["Action", "Adventure", "Indie", "RPG"],
+    "genres": ["Action", " Adventure", " Indie", " RPG"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud"
+      " Multi-player",
+      " Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud"
     ],
     "metric": "0.393153061",
-    "review": "Good"
+    "review": "partially positive"
   },
   "202970": {
     "name": "Call of Duty®: Black Ops II",
@@ -560,111 +841,67 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled",
-      "Steam Leaderboards",
-      "Remote Play on TV"
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled",
+      " Steam Leaderboards",
+      " Remote Play on TV"
     ],
     "metric": "0.229078534",
-    "review": "Poor"
-  },
-  "203140": {
-    "name": "Hitman: Absolution™",
-    "free": "FALSE",
-    "release_date": "19 Nov, 2012",
-    "developer": ["Io-Interactive A/S"],
-    "genres": ["Action"],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Partial Controller Support",
-      "Steam Cloud"
-    ],
-    "metric": "0.281235231",
-    "review": "Average"
-  },
-  "203290": {
-    "name": "America's Army: Proving Grounds",
-    "free": "TRUE",
-    "release_date": "Aug-13",
-    "developer": ["U.S. Army"],
-    "genres": ["Action", "Free to Play"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Stats",
-      "Steam Leaderboards",
-      "Includes level editor"
-    ],
-    "metric": "0.405581395",
-    "review": "Very Good"
+    "review": "partially negative"
   },
   "203770": {
     "name": "Crusader Kings II",
     "free": "TRUE",
     "release_date": "14 Feb, 2012",
     "developer": ["Paradox Development Studio"],
-    "genres": ["Free to Play", "RPG", "Simulation", "Strategy"],
-    "categories": ["Single-player", "Multi-player", "Steam Trading Cards"],
+    "genres": ["Free to Play", " RPG", " Simulation", " Strategy"],
+    "categories": ["Single-player", " Multi-player", " Steam Trading Cards"],
     "metric": "0.162214286",
-    "review": "Very Poor"
+    "review": "negative"
   },
   "205100": {
     "name": "Dishonored",
     "free": "FALSE",
     "release_date": "9 Oct, 2012",
     "developer": ["Arkane Studios"],
-    "genres": ["Action", "Adventure"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Cloud",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.327803109",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "207140": {
-    "name": "SpeedRunners",
+  "206420": {
+    "name": "Saints Row IV: Re-Elected",
     "free": "FALSE",
-    "release_date": "19 Apr, 2016",
-    "developer": ["DoubleDutch Games"],
-    "genres": ["Action", "Casual", "Indie", "Racing", "Sports"],
+    "release_date": "22 Aug, 2013",
+    "developer": ["Deep Silver Volition"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Stats",
-      "Includes level editor",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Remote Play on TV"
     ],
-    "metric": "0.470359712",
-    "review": "Very Good"
+    "metric": "0.2933018867924536",
+    "review": "Average"
   },
   "207610": {
     "name": "The Walking Dead",
@@ -674,120 +911,145 @@
     "genres": ["Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards"
     ],
     "metric": "0.255208111",
-    "review": "Average"
+    "review": "mixed"
   },
   "208650": {
     "name": "Batman™: Arkham Knight",
     "free": "FALSE",
     "release_date": "23 Jun, 2015",
     "developer": ["Rocksteady Studios"],
-    "genres": ["Action", "Adventure"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.225588235",
-    "review": "Poor"
+    "review": "partially negative"
   },
   "209080": {
     "name": "Guns of Icarus Online",
     "free": "FALSE",
     "release_date": "29 Oct, 2012",
     "developer": ["Muse Games"],
-    "genres": ["Action", "Adventure", "Indie", "Simulation"],
+    "genres": ["Action", " Adventure", " Indie", " Simulation"],
     "categories": [
       "Multi-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Stats"
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Stats"
     ],
     "metric": "0.388737374",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "209870": {
-    "name": "Blacklight: Retribution",
-    "free": "FALSE",
-    "release_date": "2 Jul, 2012",
-    "developer": ["Hardsuit Labs", "Inc."],
-    "genres": ["Action", "Free to Play"],
+  "211500": {
+    "name": "RaceRoom Racing Experience",
+    "free": "TRUE",
+    "release_date": "12 Feb, 2013",
+    "developer": ["KW Studios"],
+    "genres": ["Free to Play", " Racing", " Simulation", " Sports"],
     "categories": [
-      "Multi-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Includes level editor"
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " VR Supported",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Partial Controller Support"
     ],
-    "metric": "0.303860182",
-    "review": "Good"
+    "metric": "0.4673205257836215",
+    "review": "Very Good"
+  },
+  "211820": {
+    "name": "Starbound",
+    "free": "FALSE",
+    "release_date": "22 Jul, 2016",
+    "developer": ["Chucklefish"],
+    "genres": ["Action", " Adventure", " Casual", " Indie", " RPG"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop"
+    ],
+    "metric": "0.29963414634146348",
+    "review": "Average"
   },
   "212500": {
     "name": "The Lord of the Rings Online™",
     "free": "TRUE",
     "release_date": "6 Jun, 2012",
-    "developer": ["Standing Stone Games", "LLC"],
+    "developer": ["Standing Stone Games", " LLC"],
     "genres": [
       "Action",
-      "Adventure",
-      "Free to Play",
-      "Massively Multiplayer",
-      "RPG"
+      " Adventure",
+      " Free to Play",
+      " Massively Multiplayer",
+      " RPG"
     ],
     "categories": [
       "Multi-player",
-      "MMO",
-      "PvP",
-      "Co-op",
-      "In-App Purchases",
-      "Partial Controller Support"
+      " MMO",
+      " PvP",
+      " Co-op",
+      " In-App Purchases",
+      " Partial Controller Support"
     ],
     "metric": "0.45611336",
-    "review": "Very Good"
+    "review": "positive"
   },
   "212680": {
     "name": "FTL: Faster Than Light",
     "free": "FALSE",
     "release_date": "14 Sep, 2012",
     "developer": ["Subset Games"],
-    "genres": ["Indie", "Simulation", "Strategy"],
+    "genres": ["Indie", " Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
     "metric": "0.235318275",
-    "review": "Poor"
+    "review": "partially negative"
   },
   "213670": {
     "name": "South Park™: The Stick of Truth™",
     "free": "FALSE",
     "release_date": "5 Mar, 2014",
     "developer": ["Obsidian Entertainment"],
-    "genres": ["Action", "Adventure", "RPG"],
+    "genres": ["Action", " Adventure", " RPG"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV17410"
+      " Steam Achievements",
+      " Full controller support",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV17410"
     ],
     "metric": "0.349481328",
-    "review": "Good"
+    "review": "partially positive"
   },
   "214950": {
     "name": "Total War™: ROME II - Emperor Edition",
@@ -797,17 +1059,36 @@
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "LAN PvP",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
     "metric": "0.220234216",
+    "review": "partially negative"
+  },
+  "219640": {
+    "name": "Chivalry: Medieval Warfare",
+    "free": "FALSE",
+    "release_date": "16 Oct, 2012",
+    "developer": ["Torn Banner Studios"],
+    "genres": ["Action", " Indie"],
+    "categories": [
+      "Multi-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Valve Anti-Cheat enabled",
+      " Includes level editor",
+      " Remote Play on TV"
+    ],
+    "metric": "0.20029989658738384",
     "review": "Poor"
   },
   "219740": {
@@ -815,122 +1096,386 @@
     "free": "FALSE",
     "release_date": "23 Apr, 2013",
     "developer": ["Klei Entertainment"],
-    "genres": ["Adventure", "Indie", "Simulation"],
+    "genres": ["Adventure", " Indie", " Simulation"],
     "categories": [
       "Single-player",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.310062048",
-    "review": "Good"
+    "review": "partially positive"
   },
   "220200": {
     "name": "Kerbal Space Program",
     "free": "FALSE",
     "release_date": "27 Apr, 2015",
     "developer": ["Squad"],
-    "genres": ["Indie", "Simulation"],
+    "genres": ["Indie", " Simulation"],
     "categories": [
       "Single-player",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud"
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Steam Cloud"
     ],
     "metric": "0.268483607",
-    "review": "Average"
+    "review": "mixed"
+  },
+  "220240": {
+    "name": "Far Cry 3",
+    "free": "FALSE",
+    "release_date": "28 Nov, 2012",
+    "developer": [
+      "Ubisoft Montreal",
+      " Massive Entertainment",
+      " and Ubisoft Shanghai"
+    ],
+    "genres": ["Action", " Adventure"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Partial Controller Support"
+    ],
+    "metric": "0.284752475",
+    "review": "mixed"
+  },
+  "221380": {
+    "name": "Age of Empires II (2013)",
+    "free": "FALSE",
+    "release_date": "9 Apr, 2013",
+    "developer": [
+      "Skybox Labs",
+      " Hidden Path Entertainment",
+      " Ensemble Studios",
+      " Forgotten Empires"
+    ],
+    "genres": ["Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Captions available",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Stats",
+      " Steam Leaderboards",
+      " Includes level editor"
+    ],
+    "metric": "0.4468724279835412",
+    "review": "Very Good"
+  },
+  "222880": {
+    "name": "Insurgency",
+    "free": "FALSE",
+    "release_date": "22 Jan, 2014",
+    "developer": ["New World Interactive"],
+    "genres": ["Action", " Indie", " Strategy"],
+    "categories": [
+      "Multi-player",
+      " Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Valve Anti-Cheat enabled",
+      " Includes level editor"
+    ],
+    "metric": "0.31275970619097676",
+    "review": "Good"
+  },
+  "223710": {
+    "name": "Cry of Fear",
+    "free": "TRUE",
+    "release_date": "25 Apr, 2013",
+    "developer": ["Team Psykskallar"],
+    "genres": ["Action", " Adventure", " Indie"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled"
+    ],
+    "metric": "0.02589743589743591",
+    "review": "Worst"
+  },
+  "223750": {
+    "name": "DCS World Steam Edition",
+    "free": "TRUE",
+    "release_date": "2 Aug, 2013",
+    "developer": ["Eagle Dynamics SA"],
+    "genres": ["Free to Play", " Simulation"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " VR Supported",
+      " Captions available",
+      " VR Support",
+      " Partial Controller Support",
+      " Includes level editor"
+    ],
+    "metric": "0.3541769547325114",
+    "review": "Good"
+  },
+  "224260": {
+    "name": "No More Room in Hell",
+    "free": "TRUE",
+    "release_date": "31 Oct, 2013",
+    "developer": ["No More Room in Hell Team"],
+    "genres": ["Action", " Free to Play", " Indie"],
+    "categories": [
+      "Multi-player",
+      " Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Captions available",
+      " VR Support",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled",
+      " Includes level editor",
+      " Includes Source SDK"
+    ],
+    "metric": "0.37",
+    "review": "Good"
   },
   "224600": {
     "name": "Defiance",
     "free": "FALSE",
     "release_date": "4 Jun, 2014",
     "developer": ["Trion Worlds"],
-    "genres": ["Action", "Free to Play", "Massively Multiplayer", "RPG"],
+    "genres": ["Action", " Free to Play", " Massively Multiplayer", " RPG"],
     "categories": [
       "Multi-player",
-      "MMO",
-      "Co-op",
-      "Steam Trading Cards",
-      "Partial Controller Support"
+      " MMO",
+      " Co-op",
+      " Steam Trading Cards",
+      " Partial Controller Support"
     ],
     "metric": "0.325863821",
-    "review": "Good"
+    "review": "partially positive"
+  },
+  "225540": {
+    "name": "Just Cause™ 3",
+    "free": "FALSE",
+    "release_date": "30 Nov, 2015",
+    "developer": ["Avalanche Studios"],
+    "genres": ["Action", " Adventure"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
+    ],
+    "metric": "0.27",
+    "review": "Average"
+  },
+  "231430": {
+    "name": "Company of Heroes 2",
+    "free": "FALSE",
+    "release_date": "25 Jun, 2013",
+    "developer": [
+      "Relic Entertainment",
+      " Feral Interactive Mac",
+      " Feral Interactive Linux"
+    ],
+    "genres": ["Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Stats"
+    ],
+    "metric": "0.24785876993166263",
+    "review": "Poor"
+  },
+  "232090": {
+    "name": "Killing Floor 2",
+    "free": "FALSE",
+    "release_date": "18 Nov, 2016",
+    "developer": ["Tripwire Interactive"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " In-App Purchases",
+      " Valve Anti-Cheat enabled",
+      " Includes level editor",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
+    ],
+    "metric": "0.2653773584905665",
+    "review": "Average"
   },
   "232770": {
     "name": "POSTAL",
     "free": "TRUE",
     "release_date": "14 Nov, 1997",
     "developer": ["Running With Scissors"],
-    "genres": ["Action", "Indie"],
+    "genres": ["Action", " Indie"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards"
     ],
     "metric": "0.163690722",
-    "review": "Very Poor"
+    "review": "negative"
   },
   "233130": {
     "name": "Shadow Warrior",
     "free": "FALSE",
     "release_date": "26 Sep, 2013",
     "developer": ["Flying Wild Hog"],
-    "genres": ["Action", "Adventure"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Captions available",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Captions available",
+      " Steam Cloud",
+      " Remote Play on TV"
     ],
     "metric": "0.259072165",
-    "review": "Average"
+    "review": "mixed"
+  },
+  "233450": {
+    "name": "Prison Architect",
+    "free": "FALSE",
+    "release_date": "6 Oct, 2015",
+    "developer": ["Double Eleven", " Introversion Software"],
+    "genres": ["Indie", " Simulation", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Includes level editor"
+    ],
+    "metric": "0.09913491246137988",
+    "review": "Worst"
   },
   "234140": {
     "name": "Mad Max",
     "free": "FALSE",
     "release_date": "1 Sep, 2015",
     "developer": ["Avalanche Studios"],
-    "genres": ["Action", "Adventure"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.282308499",
-    "review": "Average"
+    "review": "mixed"
   },
-  "239030": {
-    "name": "Papers, Please",
+  "236850": {
+    "name": "Europa Universalis IV",
     "free": "FALSE",
-    "release_date": "8 Aug, 2013",
-    "developer": ["Lucas Pope"],
-    "genres": ["Adventure", "Indie"],
+    "release_date": "13 Aug, 2013",
+    "developer": ["Paradox Development Studio", " Paradox Tinto"],
+    "genres": ["Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Stats",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      " Multi-player",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud"
     ],
-    "metric": "0.233123028",
-    "review": "Poor"
+    "metric": "0.15695296523517366",
+    "review": "Very Poor"
+  },
+  "238320": {
+    "name": "Outlast",
+    "free": "FALSE",
+    "release_date": "4 Sep, 2013",
+    "developer": ["Red Barrels"],
+    "genres": ["Action", " Adventure", " Indie"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Captions available",
+      " Steam Cloud",
+      " Remote Play on TV"
+    ],
+    "metric": "-0.04709265175718849",
+    "review": "Worst"
+  },
+  "238460": {
+    "name": "BattleBlock Theater®",
+    "free": "FALSE",
+    "release_date": "15 May, 2014",
+    "developer": ["The Behemoth"],
+    "genres": ["Action", " Adventure", " Casual", " Indie"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Stats",
+      " Steam Leaderboards",
+      " Includes level editor",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
+    ],
+    "metric": "0.40645195353748825",
+    "review": "Very Good"
   },
   "240720": {
     "name": "Getting Over It with Bennett Foddy",
@@ -940,1108 +1485,1164 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Partial Controller Support",
-      "Commentary available",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      " Partial Controller Support",
+      " Commentary available",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
     "metric": "0.007528321",
-    "review": "Worst"
+    "review": "very negative"
   },
   "242050": {
     "name": "Assassin’s Creed® IV Black Flag™",
     "free": "FALSE",
-    "release_date": "29 October, 2013",
+    "release_date": "",
     "developer": ["Ubisoft Montreal"],
-    "genres": ["Action", "Adventure"],
-    "categories": ["Single-player", "Multi-player", "In-App Purchases"],
+    "genres": ["Action", " Adventure"],
+    "categories": ["Single-player", " Multi-player", " In-App Purchases"],
     "metric": "0.279905561",
-    "review": "Average"
-  },
-  "242720": {
-    "name": "GunZ 2: The Second Duel",
-    "free": "TRUE",
-    "release_date": "1 May, 2014",
-    "developer": ["Masangsoft", "Inc."],
-    "genres": ["Action", "Free to Play", "Indie"],
-    "categories": [
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Captions available"
-    ],
-    "metric": "0.210010111",
-    "review": "Poor"
+    "review": "mixed"
   },
   "244210": {
     "name": "Assetto Corsa",
     "free": "FALSE",
     "release_date": "19 Dec, 2014",
     "developer": ["Kunos Simulazioni"],
-    "genres": ["Indie", "Racing", "Simulation", "Sports"],
+    "genres": ["Indie", " Racing", " Simulation", " Sports"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "VR Supported",
-      "Partial Controller Support",
-      "Steam Leaderboards",
-      "Includes level editor"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " VR Supported",
+      " Partial Controller Support",
+      " Steam Leaderboards",
+      " Includes level editor"
     ],
     "metric": "0.416628151",
-    "review": "Very Good"
+    "review": "positive"
   },
   "244850": {
     "name": "Space Engineers",
     "free": "FALSE",
     "release_date": "28 Feb, 2019",
     "developer": ["Keen Software House"],
-    "genres": ["Action", "Indie", "Simulation", "Strategy"],
+    "genres": ["Action", " Indie", " Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Steam Achievements",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Includes level editor"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Includes level editor"
     ],
     "metric": "0.30589613",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "246620": {
-    "name": "Plague Inc: Evolved",
+  "252130": {
+    "name": "Divide By Sheep",
     "free": "FALSE",
-    "release_date": "18 Feb, 2016",
-    "developer": ["Ndemic Creations"],
-    "genres": ["Casual", "Indie", "Simulation", "Strategy"],
+    "release_date": "2 Jul, 2015",
+    "developer": ["Victor Solodilov", " Denis Novikov"],
+    "genres": ["Adventure", " Casual", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Stats",
-      "Steam Leaderboards",
-      "Includes level editor",
-      "Remote Play on Tablet"
+      " Steam Achievements",
+      " Steam Trading Cards"
     ],
-    "metric": "0.117717842",
-    "review": "Very Poor"
-  },
-  "247080": {
-    "name": "Crypt of the NecroDancer",
-    "free": "FALSE",
-    "release_date": "23 Apr, 2015",
-    "developer": ["Brace Yourself Games"],
-    "genres": ["Action", "Indie", "RPG"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Shared/Split Screen Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Captions available",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Includes level editor",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
-    ],
-    "metric": "0.213739754",
-    "review": "Poor"
-  },
-  "253980": {
-    "name": "Enclave",
-    "free": "FALSE",
-    "release_date": "4 Oct, 2013",
-    "developer": ["Starbreeze"],
-    "genres": ["Action", "RPG"],
-    "categories": ["Single-player", "Steam Trading Cards", "Steam Cloud"],
-    "metric": "0.260509684",
+    "metric": "0.27766355140186904",
     "review": "Average"
+  },
+  "253710": {
+    "name": "theHunter Classic",
+    "free": "TRUE",
+    "release_date": "3 Jun, 2014",
+    "developer": ["Expansive Worlds", " Avalanche Studios"],
+    "genres": [
+      "Action",
+      " Adventure",
+      " Free to Play",
+      " Simulation",
+      " Sports"
+    ],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " In-App Purchases"
+    ],
+    "metric": "0.21",
+    "review": "Poor"
   },
   "261640": {
     "name": "Borderlands: The Pre-Sequel",
     "free": "FALSE",
     "release_date": "16 Oct, 2014",
-    "developer": ["2K Australia", "Gearbox Software", "Aspyr Linux"],
-    "genres": ["Action", "RPG"],
+    "developer": ["2K Australia", " Gearbox Software", " Aspyr Linux"],
+    "genres": ["Action", " RPG"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on TV"
     ],
     "metric": "0.285056643",
-    "review": "Average"
+    "review": "mixed"
   },
-  "262410": {
-    "name": "World of Guns: Gun Disassembly",
-    "free": "TRUE",
-    "release_date": "21 May, 2014",
-    "developer": ["Noble Empire Corp."],
-    "genres": [
-      "Action",
-      "Casual",
-      "Free to Play",
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
+  "262060": {
+    "name": "Darkest Dungeon®",
+    "free": "FALSE",
+    "release_date": "19 Jan, 2016",
+    "developer": ["Red Hook Studios"],
+    "genres": ["Indie", " RPG", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "In-App Purchases"
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.378735984",
-    "review": "Good"
+    "metric": "-0.026428571428571426",
+    "review": "Worst"
   },
   "264710": {
     "name": "Subnautica",
     "free": "FALSE",
     "release_date": "23 Jan, 2018",
     "developer": ["Unknown Worlds Entertainment"],
-    "genres": ["Adventure", "Indie"],
+    "genres": ["Adventure", " Indie"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "VR Supported",
-      "Steam Trading Cards",
-      "VR Support",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " VR Supported",
+      " Steam Trading Cards",
+      " VR Support",
+      " Steam Cloud",
+      " Remote Play on TV"
     ],
     "metric": "0.2905",
+    "review": "mixed"
+  },
+  "265630": {
+    "name": "Fistful of Frags",
+    "free": "TRUE",
+    "release_date": "9 May, 2014",
+    "developer": ["Fistful of Frags Team"],
+    "genres": ["Action", " Free to Play", " Indie"],
+    "categories": [
+      "Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Workshop",
+      " Stats",
+      " Steam Leaderboards",
+      " Includes level editor",
+      " Includes Source SDK",
+      " Remote Play Together"
+    ],
+    "metric": "0.25627049180327943",
     "review": "Average"
   },
-  "265930": {
-    "name": "Goat Simulator",
+  "268500": {
+    "name": "XCOM® 2",
     "free": "FALSE",
-    "release_date": "1 Apr, 2014",
-    "developer": ["Coffee Stain Studios"],
-    "genres": ["Casual", "Indie", "Simulation"],
+    "release_date": "4 Feb, 2016",
+    "developer": [
+      "Firaxis Games",
+      " Feral Interactive Mac",
+      " Feral Interactive Linux"
+    ],
+    "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Includes level editor",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.207865979",
-    "review": "Poor"
+    "metric": "0.15503484320557487",
+    "review": "Very Poor"
+  },
+  "268910": {
+    "name": "Cuphead",
+    "free": "FALSE",
+    "release_date": "29 Sep, 2017",
+    "developer": ["Studio MDHR Entertainment Inc."],
+    "genres": ["Action", " Indie"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
+    ],
+    "metric": "0.16027600849256904",
+    "review": "Very Poor"
   },
   "270880": {
     "name": "American Truck Simulator",
     "free": "FALSE",
     "release_date": "2 Feb, 2016",
     "developer": ["SCS Software"],
-    "genres": ["Indie", "Simulation"],
+    "genres": ["Indie", " Simulation"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Includes level editor",
-      "Remote Play Together"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Includes level editor",
+      " Remote Play Together"
     ],
     "metric": "0.450791367",
-    "review": "Very Good"
-  },
-  "279720": {
-    "name": "The I of the Dragon",
-    "free": "FALSE",
-    "release_date": "6 Mar, 2015",
-    "developer": ["Primal"],
-    "genres": ["RPG"],
-    "categories": ["Single-player", "Steam Trading Cards"],
-    "metric": "0.047721088",
-    "review": "Worst"
+    "review": "positive"
   },
   "281990": {
     "name": "Stellaris",
     "free": "FALSE",
     "release_date": "9 May, 2016",
     "developer": ["Paradox Development Studio"],
-    "genres": ["Simulation", "Strategy"],
+    "genres": ["Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud"
+      " Multi-player",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud"
     ],
     "metric": "0.157548718",
-    "review": "Very Poor"
+    "review": "negative"
   },
-  "282070": {
-    "name": "This War of Mine",
+  "284160": {
+    "name": "BeamNG.drive",
     "free": "FALSE",
-    "release_date": "14 Nov, 2014",
-    "developer": ["11 bit studios"],
-    "genres": ["Adventure", "Indie", "Simulation"],
+    "release_date": "29 May, 2015",
+    "developer": ["BeamNG"],
+    "genres": ["Racing", " Simulation", " Early Access"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud"
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Includes level editor",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play Together"
     ],
-    "metric": "0.016750261",
-    "review": "Worst"
-  },
-  "282440": {
-    "name": "Quake Live",
-    "free": "FALSE",
-    "release_date": "17 Sep, 2014",
-    "developer": ["id Software"],
-    "genres": ["Action"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Stats"
-    ],
-    "metric": "0.351146366",
+    "metric": "0.3742335766423373",
     "review": "Good"
   },
-  "286570": {
-    "name": "F1 2015",
+  "285800": {
+    "name": "Braveland",
     "free": "FALSE",
-    "release_date": "9 Jul, 2015",
-    "developer": ["Codemasters", "Feral Interactive Linux"],
-    "genres": ["Racing", "Sports"],
+    "release_date": "17 Mar, 2014",
+    "developer": ["Tortuga Team"],
+    "genres": ["Adventure", " Casual", " Indie", " RPG", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.225297131",
-    "review": "Poor"
+    "metric": "0.32222451081359516",
+    "review": "Good"
   },
-  "286690": {
-    "name": "Metro 2033 Redux",
+  "286160": {
+    "name": "Tabletop Simulator",
     "free": "FALSE",
-    "release_date": "27 Aug, 2014",
-    "developer": ["4A Games"],
-    "genres": ["Action"],
+    "release_date": "5 Jun, 2015",
+    "developer": ["Berserk Games"],
+    "genres": ["Casual", " Indie", " RPG", " Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Tracked Controller Support",
+      " VR Supported",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Includes level editor",
+      " Remote Play Together"
     ],
-    "metric": "0.272508073",
-    "review": "Average"
+    "metric": "0.45127066115702635",
+    "review": "Very Good"
   },
-  "287390": {
-    "name": "Metro: Last Light Redux",
+  "294100": {
+    "name": "RimWorld",
     "free": "FALSE",
-    "release_date": "27 Aug, 2014",
-    "developer": ["4A Games"],
-    "genres": ["Action"],
+    "release_date": "17 Oct, 2018",
+    "developer": ["Ludeon Studios"],
+    "genres": ["Indie", " Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Steam Workshop",
+      " Steam Cloud",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.29855615",
-    "review": "Average"
-  },
-  "291480": {
-    "name": "Warface",
-    "free": "TRUE",
-    "release_date": "1 Jul, 2014",
-    "developer": ["MY.GAMES"],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Free to Play",
-      "Massively Multiplayer",
-      "RPG",
-      "Simulation",
-      "Strategy"
-    ],
-    "categories": [
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "In-App Purchases"
-    ],
-    "metric": "0.171171548",
+    "metric": "0.14735537190082626",
     "review": "Very Poor"
   },
   "299360": {
     "name": "Block N Load",
     "free": "TRUE",
     "release_date": "30 Apr, 2015",
-    "developer": ["Toadman Interactive", "Artplant"],
-    "genres": ["Action", "Free to Play", "Massively Multiplayer", "Strategy"],
+    "developer": ["Toadman Interactive", " Artplant"],
+    "genres": [
+      "Action",
+      " Free to Play",
+      " Massively Multiplayer",
+      " Strategy"
+    ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Valve Anti-Cheat enabled",
-      "Stats",
-      "Includes level editor"
+      " Multi-player",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Valve Anti-Cheat enabled",
+      " Stats",
+      " Includes level editor"
     ],
     "metric": "0.28200409",
-    "review": "Average"
+    "review": "mixed"
   },
   "302830": {
     "name": "BLOCKADE 3D",
     "free": "TRUE",
     "release_date": "19 Dec, 2014",
     "developer": ["Novalink"],
-    "genres": ["Action", "Free to Play", "Early Access"],
+    "genres": ["Action", " Free to Play", " Early Access"],
     "categories": [
       "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Trading Cards",
-      "In-App Purchases"
+      " PvP",
+      " Online PvP",
+      " Steam Trading Cards",
+      " In-App Purchases"
     ],
     "metric": "0.141353306",
-    "review": "Very Poor"
+    "review": "negative"
   },
-  "304390": {
-    "name": "FOR HONOR™",
+  "306130": {
+    "name": "The Elder Scrolls® Online",
     "free": "FALSE",
-    "release_date": "13 Feb, 2017",
-    "developer": [
-      "Ubisoft Montreal",
-      "Ubisoft Quebec",
-      "Ubisoft Toronto",
-      "Blue Byte"
+    "release_date": "22 May, 2017",
+    "developer": ["ZeniMax Online Studios"],
+    "genres": ["Action", " Adventure", " Massively Multiplayer", " RPG"],
+    "categories": [
+      "Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Trading Cards",
+      " Captions available",
+      " In-App Purchases",
+      " Partial Controller Support"
     ],
-    "genres": ["Action"],
+    "metric": "0.302245322245323",
+    "review": "Good"
+  },
+  "308600": {
+    "name": "Gene Shift Auto",
+    "free": "TRUE",
+    "release_date": "23 May, 2017",
+    "developer": ["Nik Nak Studios"],
+    "genres": [
+      "Action",
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " Racing",
+      " Early Access"
+    ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Trading Cards",
-      "In-App Purchases",
-      "Partial Controller Support"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support"
     ],
-    "metric": "0.101038422",
-    "review": "Very Poor"
+    "metric": "0.4209973404255332",
+    "review": "Very Good"
   },
-  "307780": {
-    "name": "Mortal Kombat X",
+  "311210": {
+    "name": "Call of Duty®: Black Ops III",
     "free": "FALSE",
-    "release_date": "13 Apr, 2015",
-    "developer": ["NetherRealm Studios", "QLOC"],
-    "genres": ["Action"],
+    "release_date": "5 Nov, 2015",
+    "developer": ["Treyarch", " Aspyr Mac"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Shared/Split Screen PvP",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Valve Anti-Cheat enabled",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
     ],
-    "metric": "0.233176594",
-    "review": "Poor"
+    "metric": "0.19899053627760277",
+    "review": "Very Poor"
   },
   "311690": {
     "name": "Enter the Gungeon",
     "free": "FALSE",
     "release_date": "5 Apr, 2016",
     "developer": ["Dodge Roll"],
-    "genres": ["Action", "Adventure", "Indie"],
+    "genres": ["Action", " Adventure", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
     ],
     "metric": "0.173034979",
-    "review": "Very Poor"
-  },
-  "312660": {
-    "name": "Sniper Elite 4",
-    "free": "FALSE",
-    "release_date": "13 Feb, 2017",
-    "developer": ["Rebellion"],
-    "genres": ["Action", "Adventure"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on TV"
-    ],
-    "metric": "0.314953464",
-    "review": "Good"
+    "review": "negative"
   },
   "312990": {
     "name": "The Expendabros",
     "free": "TRUE",
     "release_date": "5 Aug, 2014",
     "developer": ["Free Lives"],
-    "genres": ["Action", "Adventure", "Free to Play", "Indie"],
+    "genres": ["Action", " Adventure", " Free to Play", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Shared/Split Screen",
-      "Full controller support",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " Shared/Split Screen",
+      " Full controller support",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
     ],
     "metric": "0.359562118",
+    "review": "partially positive"
+  },
+  "319630": {
+    "name": "Life is Strange - Episode 1",
+    "free": "TRUE",
+    "release_date": "29 Jan, 2015",
+    "developer": [
+      "DONTNOD Entertainment",
+      " Feral Interactive Mac",
+      " Feral Interactive Linux"
+    ],
+    "genres": ["Action", " Adventure"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
+    ],
+    "metric": "0.3028218884120179",
     "review": "Good"
-  },
-  "316010": {
-    "name": "Magic Duels",
-    "free": "FALSE",
-    "release_date": "29 Jul, 2015",
-    "developer": ["Stainless Games Ltd."],
-    "genres": ["Free to Play", "Strategy"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "In-App Purchases",
-      "Steam Cloud",
-      "Remote Play Together"
-    ],
-    "metric": "0.266139113",
-    "review": "Average"
-  },
-  "323190": {
-    "name": "Frostpunk",
-    "free": "FALSE",
-    "release_date": "24 Apr, 2018",
-    "developer": ["11 bit studios"],
-    "genres": ["Simulation", "Strategy"],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
-    ],
-    "metric": "0.224108446",
-    "review": "Poor"
   },
   "335240": {
     "name": "Transformice",
     "free": "TRUE",
     "release_date": "30 Jan, 2015",
     "developer": ["Atelier 801"],
-    "genres": ["Free to Play", "Indie", "Massively Multiplayer"],
+    "genres": ["Free to Play", " Indie", " Massively Multiplayer"],
     "categories": [
       "Multi-player",
-      "MMO",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Includes level editor"
+      " MMO",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Includes level editor"
     ],
     "metric": "0.178480493",
-    "review": "Very Poor"
+    "review": "negative"
   },
-  "335300": {
-    "name": "DARK SOULS™ II: Scholar of the First Sin",
-    "free": "FALSE",
+  "339610": {
+    "name": "Freestyle 2: Street Basketball",
+    "free": "TRUE",
     "release_date": "1 Apr, 2015",
-    "developer": ["FromSoftware", "Inc"],
-    "genres": ["Action", "RPG"],
+    "developer": ["JOYCITY"],
+    "genres": [
+      "Action",
+      " Casual",
+      " Free to Play",
+      " Massively Multiplayer",
+      " Sports"
+    ],
+    "categories": [
+      "Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Trading Cards",
+      " Partial Controller Support"
+    ],
+    "metric": "0.21204684317718975",
+    "review": "Poor"
+  },
+  "346900": {
+    "name": "AdVenture Capitalist",
+    "free": "TRUE",
+    "release_date": "30 Mar, 2015",
+    "developer": ["Hyper Hippo Games"],
+    "genres": ["Casual", " Free to Play", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
-    "metric": "0.077804622",
-    "review": "Worst"
+    "metric": "0.2226706827309232",
+    "review": "Poor"
   },
   "355180": {
     "name": "Codename CURE",
     "free": "TRUE",
     "release_date": "31 Oct, 2017",
     "developer": ["Hoobalugalar_X"],
-    "genres": ["Action", "Free to Play"],
+    "genres": ["Action", " Free to Play"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Includes level editor"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Includes level editor"
     ],
     "metric": "0.372964103",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "359320": {
-    "name": "Elite Dangerous",
+  "355840": {
+    "name": "Survarium",
     "free": "FALSE",
     "release_date": "2 Apr, 2015",
-    "developer": ["Frontier Developments"],
+    "developer": ["Vostok Games"],
     "genres": [
       "Action",
-      "Adventure",
-      "Massively Multiplayer",
-      "RPG",
-      "Simulation",
-      "Strategy"
+      " Free to Play",
+      " Massively Multiplayer",
+      " RPG",
+      " Early Access"
     ],
     "categories": [
-      "Single-player",
       "Multi-player",
-      "MMO",
-      "Co-op",
-      "VR Supported",
-      "VR Support",
-      "In-App Purchases",
-      "Partial Controller Support",
-      "Remote Play on Tablet"
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards"
     ],
-    "metric": "0.267131063",
-    "review": "Average"
-  },
-  "361420": {
-    "name": "ASTRONEER",
-    "free": "FALSE",
-    "release_date": "5 Feb, 2019",
-    "developer": ["System Era Softworks"],
-    "genres": ["Adventure", "Indie"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "metric": "0.40946875",
-    "review": "Very Good"
-  },
-  "362890": {
-    "name": "Black Mesa",
-    "free": "FALSE",
-    "release_date": "6 Mar, 2020",
-    "developer": ["Crowbar Collective"],
-    "genres": ["Action", "Adventure", "Indie"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Captions available",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Includes level editor",
-      "Includes Source SDK",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
-    ],
-    "metric": "0.454662447",
-    "review": "Very Good"
-  },
-  "364360": {
-    "name": "Total War: WARHAMMER",
-    "free": "FALSE",
-    "release_date": "24 May, 2016",
-    "developer": [
-      "CREATIVE ASSEMBLY",
-      "Feral Interactive Linux",
-      "Feral Interactive Mac"
-    ],
-    "genres": ["Action", "Strategy"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "LAN PvP",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop"
-    ],
-    "metric": "0.201969388",
+    "metric": "0.22772448979591897",
     "review": "Poor"
+  },
+  "356190": {
+    "name": "Middle-earth™: Shadow of War™",
+    "free": "FALSE",
+    "release_date": "9 Oct, 2017",
+    "developer": ["Monolith Productions"],
+    "genres": ["Action", " Adventure", " RPG"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Steam Cloud"
+    ],
+    "metric": "0.19434782608695636",
+    "review": "Very Poor"
   },
   "368230": {
     "name": "Kingdom: Classic",
     "free": "TRUE",
     "release_date": "21 Oct, 2015",
-    "developer": ["Noio", "Licorice"],
-    "genres": ["Indie", "Simulation", "Strategy"],
+    "developer": ["Noio", " Licorice"],
+    "genres": ["Indie", " Simulation", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.301546392",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "372000": {
-    "name": "Tree of Savior (English Ver.)",
-    "free": "TRUE",
-    "release_date": "28 Mar, 2016",
-    "developer": ["IMCGAMES Co.", "Ltd."],
-    "genres": ["Free to Play", "Massively Multiplayer", "RPG"],
-    "categories": [
-      "Multi-player",
-      "MMO",
-      "Steam Trading Cards",
-      "In-App Purchases",
-      "Partial Controller Support",
-      "Valve Anti-Cheat enabled"
-    ],
-    "metric": "0.208903553",
-    "review": "Poor"
-  },
-  "379430": {
-    "name": "Kingdom Come: Deliverance",
+  "379720": {
+    "name": "DOOM",
     "free": "FALSE",
-    "release_date": "13 Feb, 2018",
-    "developer": ["Warhorse Studios"],
-    "genres": ["Action", "Adventure", "RPG"],
+    "release_date": "12 May, 2016",
+    "developer": ["id Software"],
+    "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Multi-player",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.231517672",
-    "review": "Poor"
+    "metric": "0.15985948477751769",
+    "review": "Very Poor"
   },
   "380600": {
     "name": "Fishing Planet",
     "free": "TRUE",
     "release_date": "28 Aug, 2017",
     "developer": ["Fishing Planet LLC"],
-    "genres": ["Free to Play", "Massively Multiplayer", "Simulation", "Sports"],
+    "genres": [
+      "Free to Play",
+      " Massively Multiplayer",
+      " Simulation",
+      " Sports"
+    ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Full controller support",
-      "VR Supported",
-      "Remote Play on TV"
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Full controller support",
+      " VR Supported",
+      " Remote Play on TV"
     ],
     "metric": "0.296200204",
-    "review": "Average"
+    "review": "mixed"
   },
   "386180": {
     "name": "Crossout",
     "free": "TRUE",
     "release_date": "26 Jul, 2017",
     "developer": ["Targem Games"],
-    "genres": ["Action", "Free to Play", "Massively Multiplayer", "Racing"],
+    "genres": ["Action", " Free to Play", " Massively Multiplayer", " Racing"],
     "categories": [
       "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "In-App Purchases",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.16863869",
-    "review": "Very Poor"
-  },
-  "386940": {
-    "name": "Ultimate Chicken Horse",
-    "free": "FALSE",
-    "release_date": "4 Mar, 2016",
-    "developer": ["Clever Endeavour Games"],
-    "genres": ["Action", "Casual", "Indie"],
-    "categories": [
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Includes level editor",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
-    ],
-    "metric": "0.441524202",
-    "review": "Very Good"
-  },
-  "387290": {
-    "name": "Ori and the Blind Forest: Definitive Edition",
-    "free": "FALSE",
-    "release_date": "27 Apr, 2016",
-    "developer": ["Moon Studios GmbH"],
-    "genres": ["Action"],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Stats",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "metric": "0.381790576",
-    "review": "Good"
-  },
-  "387990": {
-    "name": "Scrap Mechanic",
-    "free": "FALSE",
-    "release_date": "19 Jan, 2016",
-    "developer": ["Axolot Games"],
-    "genres": ["Action", "Adventure", "Indie", "Simulation", "Early Access"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Includes level editor"
-    ],
-    "metric": "0.473302374",
-    "review": "Very Good"
+    "review": "negative"
   },
   "389730": {
     "name": "TEKKEN 7",
     "free": "FALSE",
     "release_date": "1 Jun, 2017",
     "developer": ["BANDAI NAMCO Studios Inc."],
-    "genres": ["Action", "Sports"],
+    "genres": ["Action", " Sports"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Steam Leaderboards",
+      " Remote Play on TV",
+      " Remote Play Together"
     ],
     "metric": "0.255493827",
-    "review": "Average"
+    "review": "mixed"
   },
-  "391460": {
-    "name": "WARMODE",
-    "free": "TRUE",
-    "release_date": "13 Sep, 2019",
-    "developer": ["Novalink"],
-    "genres": ["Action", "Free to Play"],
-    "categories": ["Multi-player", "PvP", "Online PvP", "Steam Trading Cards"],
-    "metric": "0.20617284",
-    "review": "Poor"
-  },
-  "391720": {
-    "name": "Layers of Fear (2016)",
+  "391220": {
+    "name": "Rise of the Tomb Raider™",
     "free": "FALSE",
-    "release_date": "15 Feb, 2016",
-    "developer": ["Bloober Team SA"],
-    "genres": ["Adventure", "Indie"],
+    "release_date": "9 Feb, 2016",
+    "developer": [
+      "Crystal Dynamics",
+      " Eidos-Montréal",
+      " Feral Interactive Mac",
+      " Feral Interactive Linux",
+      " Nixxes"
+    ],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Remote Play on Tablet"
+      " Steam Achievements",
+      " Full controller support",
+      " Tracked Controller Support",
+      " VR Supported",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.04425",
-    "review": "Worst"
+    "metric": "0.413456521739132",
+    "review": "Very Good"
+  },
+  "391540": {
+    "name": "Undertale",
+    "free": "FALSE",
+    "release_date": "15 Sep, 2015",
+    "developer": ["tobyfox"],
+    "genres": ["Indie", " RPG"],
+    "categories": [
+      "Single-player",
+      " Steam Trading Cards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
+    ],
+    "metric": "0.2874477447744782",
+    "review": "Average"
+  },
+  "394360": {
+    "name": "Hearts of Iron IV",
+    "free": "FALSE",
+    "release_date": "6 Jun, 2016",
+    "developer": ["Paradox Development Studio"],
+    "genres": ["Simulation", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Remote Play on Tablet"
+    ],
+    "metric": "0.11161904761904749",
+    "review": "Very Poor"
+  },
+  "395170": {
+    "name": "DISTRAINT: Deluxe Edition",
+    "free": "FALSE",
+    "release_date": "21 Oct, 2015",
+    "developer": ["Jesse Makkonen"],
+    "genres": ["Adventure", " Casual", " Indie"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support"
+    ],
+    "metric": "0.22525720164609087",
+    "review": "Poor"
   },
   "397540": {
     "name": "Borderlands 3",
     "free": "FALSE",
     "release_date": "13 Mar, 2020",
     "developer": ["Gearbox Software"],
-    "genres": ["Action", "RPG"],
+    "genres": ["Action", " RPG"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.174553846",
-    "review": "Very Poor"
+    "review": "negative"
   },
-  "418370": {
-    "name": "Resident Evil 7 Biohazard",
-    "free": "FALSE",
-    "release_date": "23 Jan, 2017",
-    "developer": ["CAPCOM Co.", "Ltd."],
-    "genres": ["Action", "Adventure"],
+  "397900": {
+    "name": "Business Tour - Board Game with Online Multiplayer",
+    "free": "TRUE",
+    "release_date": "27 Jul, 2017",
+    "developer": ["Creobit"],
+    "genres": [
+      "Casual",
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " Strategy"
+    ],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play Together"
     ],
-    "metric": "0.111060924",
-    "review": "Very Poor"
-  },
-  "438740": {
-    "name": "Friday the 13th: The Game",
-    "free": "FALSE",
-    "release_date": "25 May, 2017",
-    "developer": ["IllFonic"],
-    "genres": ["Action"],
-    "categories": [
-      "Multi-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Stats",
-      "Steam Leaderboards",
-      "Remote Play on TV"
-    ],
-    "metric": "0.245416667",
+    "metric": "0.2324790794979084",
     "review": "Poor"
   },
-  "439190": {
-    "name": "Stories: The Path of Destinies",
+  "407530": {
+    "name": "ARK: The Survival Of The Fittest",
     "free": "FALSE",
-    "release_date": "12 Apr, 2016",
-    "developer": ["Spearhead Games"],
-    "genres": ["Action", "Adventure", "Indie", "RPG"],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
+    "release_date": "29 Aug, 2017",
+    "developer": [
+      "Studio Wildcard",
+      " Instinct Games",
+      " Efecto Studios",
+      " Virtual Basement LLC"
     ],
-    "metric": "0.375513347",
+    "genres": [
+      "Action",
+      " Adventure",
+      " Indie",
+      " Massively Multiplayer",
+      " RPG",
+      " Strategy"
+    ],
+    "categories": [
+      "Multi-player",
+      " Co-op",
+      " Steam Workshop",
+      " Partial Controller Support",
+      " Stats",
+      " Steam Leaderboards",
+      " Includes level editor"
+    ],
+    "metric": "0.3110882352941172",
     "review": "Good"
   },
-  "457140": {
-    "name": "Oxygen Not Included",
+  "424840": {
+    "name": "Little Nightmares",
     "free": "FALSE",
-    "release_date": "30 Jul, 2019",
-    "developer": ["Klei Entertainment"],
-    "genres": ["Indie", "Simulation"],
-    "categories": ["Single-player", "Steam Trading Cards"],
-    "metric": "0.219876033",
-    "review": "Poor"
-  },
-  "475150": {
-    "name": "Titan Quest Anniversary Edition",
-    "free": "FALSE",
-    "release_date": "31 Aug, 2016",
-    "developer": ["Iron Lore Entertainment", "THQ Nordic"],
-    "genres": ["Action", "RPG"],
+    "release_date": "27 Apr, 2017",
+    "developer": ["Tarsier Studios"],
+    "genres": ["Adventure"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Includes level editor"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on TV"
     ],
-    "metric": "0.446323907",
-    "review": "Very Good"
+    "metric": "0.2207226354941555",
+    "review": "Poor"
+  },
+  "435150": {
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "free": "FALSE",
+    "release_date": "14 Sep, 2017",
+    "developer": ["Larian Studios"],
+    "genres": ["Adventure", " RPG", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Captions available",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Includes level editor",
+      " Remote Play on Tablet",
+      " Remote Play on TV",
+      " Remote Play Together"
+    ],
+    "metric": "0.3400208116545274",
+    "review": "Good"
+  },
+  "440900": {
+    "name": "Conan Exiles",
+    "free": "FALSE",
+    "release_date": "8 May, 2018",
+    "developer": ["Funcom"],
+    "genres": [
+      "Action",
+      " Adventure",
+      " Massively Multiplayer",
+      " RPG",
+      " Simulation",
+      " Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
+    ],
+    "metric": "0.25758691206544027",
+    "review": "Average"
+  },
+  "466560": {
+    "name": "Northgard",
+    "free": "FALSE",
+    "release_date": "7 Mar, 2018",
+    "developer": ["Shiro Games"],
+    "genres": ["Indie", " Simulation", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud"
+    ],
+    "metric": "0.3579345603271993",
+    "review": "Good"
+  },
+  "504370": {
+    "name": "Battlerite",
+    "free": "TRUE",
+    "release_date": "8 Nov, 2017",
+    "developer": ["Stunlock Studios"],
+    "genres": ["Action", " Free to Play"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " In-App Purchases",
+      " Steam Cloud"
+    ],
+    "metric": "0.323729508196722",
+    "review": "Good"
   },
   "506540": {
     "name": "Last Man Standing",
     "free": "FALSE",
     "release_date": "29 Mar, 2017",
-    "developer": ["Free Reign Entertainment", "Free Reign Entertainment"],
+    "developer": ["Free Reign Entertainment", " Free Reign Entertainment"],
     "genres": [
       "Action",
-      "Adventure",
-      "Free to Play",
-      "Indie",
-      "Massively Multiplayer",
-      "Strategy"
+      " Adventure",
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " Strategy"
     ],
-    "categories": ["Multi-player", "MMO", "Online PvP"],
+    "categories": ["Multi-player", " MMO", " Online PvP"],
     "metric": "0.168328267",
-    "review": "Very Poor"
+    "review": "negative"
+  },
+  "508440": {
+    "name": "Totally Accurate Battle Simulator",
+    "free": "FALSE",
+    "release_date": "1 Apr, 2021",
+    "developer": ["Landfall"],
+    "genres": ["Indie", " Simulation", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Partial Controller Support",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play Together"
+    ],
+    "metric": "0.40091003102378675",
+    "review": "Very Good"
+  },
+  "513710": {
+    "name": "SCUM",
+    "free": "FALSE",
+    "release_date": "29 Aug, 2018",
+    "developer": ["Gamepires"],
+    "genres": [
+      "Action",
+      " Adventure",
+      " Indie",
+      " Massively Multiplayer",
+      " Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Stats"
+    ],
+    "metric": "0.27498969072165025",
+    "review": "Average"
   },
   "518790": {
-    "name": "The Hunter: Call of the Wild™",
+    "name": "theHunter: Call of the Wild™",
     "free": "FALSE",
     "release_date": "16 Feb, 2017",
     "developer": ["Expansive Worlds"],
-    "genres": ["Adventure", "Simulation", "Sports"],
+    "genres": ["Adventure", " Simulation", " Sports"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "In-App Purchases",
-      "Steam Cloud"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " In-App Purchases",
+      " Steam Cloud"
     ],
     "metric": "0.301227702",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "530700": {
-    "name": "Argo",
+  "526870": {
+    "name": "Satisfactory",
     "free": "FALSE",
-    "release_date": "22 Jun, 2017",
-    "developer": ["Bohemia Interactive"],
-    "genres": ["Action", "Free to Play"],
+    "release_date": "8 Jun, 2020",
+    "developer": ["Coffee Stain Studios"],
+    "genres": [
+      "Adventure",
+      " Indie",
+      " Simulation",
+      " Strategy",
+      " Early Access"
+    ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Partial Controller Support",
-      "Includes level editor",
-      "Remote Play Together"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Cloud",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.203973442",
+    "metric": "0.3468454935622319",
+    "review": "Good"
+  },
+  "534380": {
+    "name": "Dying Light 2 Stay Human",
+    "free": "FALSE",
+    "release_date": "3 Feb, 2022",
+    "developer": ["Techland"],
+    "genres": ["Action", " Adventure", " RPG"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on TV"
+    ],
+    "metric": "0.20019874476987487",
     "review": "Poor"
   },
   "546560": {
@@ -2049,19 +2650,19 @@
     "free": "FALSE",
     "release_date": "23 Mar, 2020",
     "developer": ["Valve"],
-    "genres": ["Action", "Adventure"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Tracked Controller Support",
-      "VR Only",
-      "Captions available",
-      "VR Support",
-      "Steam Workshop",
-      "Includes level editor"
+      " Steam Achievements",
+      " Tracked Controller Support",
+      " VR Only",
+      " Captions available",
+      " VR Support",
+      " Steam Workshop",
+      " Includes level editor"
     ],
     "metric": "0.359317943",
-    "review": "Good"
+    "review": "partially positive"
   },
   "548430": {
     "name": "Deep Rock Galactic",
@@ -2071,77 +2672,152 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Captions available",
-      "Steam Cloud",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Captions available",
+      " Steam Cloud",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.320329087",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "582160": {
-    "name": "Assassin's Creed® Origins",
+  "552500": {
+    "name": "Warhammer: Vermintide 2",
     "free": "FALSE",
-    "release_date": "26 Oct, 2017",
-    "developer": ["Ubisoft Montreal"],
-    "genres": ["Action", "Adventure", "RPG"],
+    "release_date": "8 Mar, 2018",
+    "developer": ["Fatshark"],
+    "genres": ["Action", " Indie"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Captions available",
-      "In-App Purchases",
-      "Partial Controller Support",
-      "Remote Play on Tablet"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support"
     ],
-    "metric": "0.351864952",
-    "review": "Good"
+    "metric": "0.15205636743215017",
+    "review": "Very Poor"
+  },
+  "555570": {
+    "name": "Infestation: The New Z",
+    "free": "TRUE",
+    "release_date": "22 Nov, 2016",
+    "developer": ["Fredaikis AB"],
+    "genres": [
+      "Action",
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " RPG"
+    ],
+    "categories": [
+      "Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " In-App Purchases"
+    ],
+    "metric": "0.06639293139293143",
+    "review": "Worst"
+  },
+  "594570": {
+    "name": "Total War: WARHAMMER II",
+    "free": "FALSE",
+    "release_date": "28 Sep, 2017",
+    "developer": [
+      "CREATIVE ASSEMBLY",
+      " Feral Interactive Mac",
+      " Feral Interactive Linux"
+    ],
+    "genres": ["Action", " Strategy"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Remote Play on Tablet"
+    ],
+    "metric": "0.23548419979612684",
+    "review": "Poor"
+  },
+  "594650": {
+    "name": "Hunt: Showdown",
+    "free": "FALSE",
+    "release_date": "27 Aug, 2019",
+    "developer": ["Crytek"],
+    "genres": ["Action"],
+    "categories": [
+      "Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Steam Leaderboards",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
+    ],
+    "metric": "0.20896410256410303",
+    "review": "Poor"
+  },
+  "601150": {
+    "name": "Devil May Cry 5",
+    "free": "FALSE",
+    "release_date": "7. bře. 2019",
+    "developer": ["CAPCOM Co.", " Ltd."],
+    "genres": ["Akční"],
+    "categories": [
+      "Režim pro jednoho hráče",
+      " Režim pro více hráčů",
+      " Kooperace",
+      " Online kooperace",
+      " Achievementy",
+      " Plná podpora ovladače",
+      " Sběratelské karty",
+      " Steam Cloud",
+      " Remote Play na TV"
+    ],
+    "metric": "0.21375404530744346",
+    "review": "Poor"
   },
   "601510": {
     "name": "Yu-Gi-Oh! Duel Links",
     "free": "TRUE",
     "release_date": "16 Nov, 2017",
     "developer": ["Konami Digital Entertainment"],
-    "genres": ["Free to Play", "Strategy"],
+    "genres": ["Free to Play", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "In-App Purchases"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " In-App Purchases"
     ],
     "metric": "0.260636079",
-    "review": "Average"
-  },
-  "617290": {
-    "name": "Remnant: From the Ashes",
-    "free": "FALSE",
-    "release_date": "19 Aug, 2019",
-    "developer": ["Gunfire Games"],
-    "genres": ["Action", "Adventure", "RPG"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "metric": "0.264652352",
-    "review": "Average"
+    "review": "mixed"
   },
   "620980": {
     "name": "Beat Saber",
@@ -2151,127 +2827,114 @@
     "genres": ["Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Tracked Controller Support",
-      "VR Only",
-      "Steam Leaderboards"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Tracked Controller Support",
+      " VR Only",
+      " Steam Leaderboards"
     ],
     "metric": "0.061046512",
-    "review": "Worst"
+    "review": "very negative"
   },
-  "644560": {
-    "name": "Mirror",
+  "629760": {
+    "name": "MORDHAU",
     "free": "FALSE",
-    "release_date": "19 Apr, 2018",
-    "developer": ["KAGAMI WORKS"],
-    "genres": ["Adventure", "Indie", "RPG"],
+    "release_date": "29 Apr, 2019",
+    "developer": ["Triternion"],
+    "genres": ["Action", " Indie"],
     "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      "Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Valve Anti-Cheat enabled",
+      " Stats",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.20776987",
-    "review": "Poor"
+    "metric": "0.1056832298136646",
+    "review": "Very Poor"
   },
   "646570": {
     "name": "Slay the Spire",
     "free": "FALSE",
     "release_date": "23 Jan, 2019",
     "developer": ["Mega Crit Games"],
-    "genres": ["Indie", "Strategy"],
+    "genres": ["Indie", " Strategy"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Stats",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Stats",
+      " Steam Leaderboards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.341331967",
-    "review": "Good"
+    "review": "partially positive"
   },
   "674940": {
     "name": "Stick Fight: The Game",
     "free": "FALSE",
     "release_date": "28 Sep, 2017",
     "developer": ["Landfall West"],
-    "genres": ["Action", "Casual", "Indie"],
+    "genres": ["Action", " Casual", " Indie"],
     "categories": [
       "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
-      "Partial Controller Support",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play Together"
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Shared/Split Screen",
+      " Partial Controller Support",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play Together"
     ],
     "metric": "0.372357217",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "678950": {
-    "name": "DRAGON BALL FighterZ",
-    "free": "FALSE",
-    "release_date": "26 Jan, 2018",
-    "developer": ["Arc System Works"],
-    "genres": ["Action"],
+  "677620": {
+    "name": "Splitgate",
+    "free": "TRUE",
+    "release_date": "24 May, 2019",
+    "developer": ["1047 Games"],
+    "genres": ["Action", " Free to Play", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Captions available",
+      " In-App Purchases"
     ],
-    "metric": "0.251492228",
-    "review": "Average"
+    "metric": "0.3374251497005981",
+    "review": "Good"
   },
-  "728880": {
-    "name": "Overcooked! 2",
-    "free": "FALSE",
-    "release_date": "7 Aug, 2018",
-    "developer": ["Ghost Town Games Ltd.", "Team17"],
-    "genres": ["Action", "Casual", "Indie"],
+  "698780": {
+    "name": "Doki Doki Literature Club!",
+    "free": "TRUE",
+    "release_date": "6 Oct, 2017",
+    "developer": ["Team Salvato"],
+    "genres": ["Casual", " Free to Play", " Indie"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.395207039",
-    "review": "Good"
+    "metric": "0.18194510739856798",
+    "review": "Very Poor"
   },
   "744900": {
     "name": "Dead Frontier 2",
@@ -2280,69 +2943,50 @@
     "developer": ["Creaky Corpse Ltd"],
     "genres": [
       "Action",
-      "Free to Play",
-      "Indie",
-      "Massively Multiplayer",
-      "RPG"
+      " Free to Play",
+      " Indie",
+      " Massively Multiplayer",
+      " RPG"
     ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Trading Cards",
-      "In-App Purchases",
-      "Remote Play on Tablet"
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Remote Play on Tablet"
     ],
     "metric": "0.268328236",
-    "review": "Average"
+    "review": "mixed"
   },
-  "761890": {
-    "name": "Albion Online",
-    "free": "TRUE",
-    "release_date": "16 May, 2018",
-    "developer": ["Sandbox Interactive GmbH"],
-    "genres": ["Free to Play", "Massively Multiplayer", "RPG"],
-    "categories": [
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "In-App Purchases"
+  "779340": {
+    "name": "Total War: THREE KINGDOMS",
+    "free": "FALSE",
+    "release_date": "23 May, 2019",
+    "developer": [
+      "CREATIVE ASSEMBLY",
+      " Feral Interactive Mac",
+      " Feral Interactive Linux"
     ],
-    "metric": "0.182474438",
-    "review": "Very Poor"
-  },
-  "766570": {
-    "name": "Russian Fishing 4",
-    "free": "TRUE",
-    "release_date": "10 Nov, 2021",
-    "developer": ["FishSoft", "LLC"],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Free to Play",
-      "Massively Multiplayer",
-      "RPG",
-      "Simulation",
-      "Sports"
-    ],
+    "genres": ["Action", " Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "In-App Purchases",
-      "Stats"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
-    "metric": "0.237213115",
+    "metric": "0.21277033985581909",
     "review": "Poor"
   },
   "782330": {
@@ -2353,18 +2997,18 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Partial Controller Support",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
     "metric": "0.093059701",
-    "review": "Worst"
+    "review": "very negative"
   },
   "813780": {
     "name": "Age of Empires II: Definitive Edition",
@@ -2372,137 +3016,133 @@
     "release_date": "14 Nov, 2019",
     "developer": [
       "Forgotten Empires",
-      "Tantalus Media",
-      "Wicked Witch",
-      "Worlds Edge"
+      " Tantalus Media",
+      " Wicked Witch",
+      " \"Worlds Edge\""
     ],
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "LAN PvP",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Includes level editor"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Includes level editor"
     ],
     "metric": "0.440226105",
-    "review": "Very Good"
+    "review": "positive"
   },
-  "838350": {
-    "name": "太吾绘卷 The Scroll Of Taiwu",
-    "free": "FALSE",
-    "release_date": "20 Sep, 2018",
-    "developer": ["ConchShip Games"],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Strategy",
-      "Early Access"
+  "813820": {
+    "name": "Realm Royale Reforged",
+    "free": "TRUE",
+    "release_date": "5 Jun, 2018",
+    "developer": ["Heroic Leap Games"],
+    "genres": ["Action", " Free to Play", " Early Access"],
+    "categories": [
+      "Multi-player",
+      " PvP",
+      " Online PvP",
+      " Partial Controller Support"
     ],
-    "categories": ["Single-player", "Remote Play on Tablet"],
-    "metric": "0.261818182",
+    "metric": "0.28500000000000086",
     "review": "Average"
   },
-  "845070": {
-    "name": "The Awesome Adventures of Captain Spirit",
-    "free": "TRUE",
-    "release_date": "25 Jun, 2018",
-    "developer": ["DONTNOD Entertainment"],
-    "genres": ["Adventure", "Free to Play"],
+  "863550": {
+    "name": "HITMAN™ 2",
+    "free": "FALSE",
+    "release_date": "13 Nov, 2018",
+    "developer": ["IO Interactive A/S"],
+    "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Full controller support",
-      "Steam Cloud",
-      "Remote Play on TV"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.379508882",
-    "review": "Good"
+    "metric": "0.24619266055045865",
+    "review": "Poor"
+  },
+  "868270": {
+    "name": "The Cycle: Frontier",
+    "free": "TRUE",
+    "release_date": "8 Jun, 2022",
+    "developer": ["YAGER"],
+    "genres": ["Action", " Free to Play", " Massively Multiplayer"],
+    "categories": [
+      "Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " In-App Purchases"
+    ],
+    "metric": "0.1923234390992836",
+    "review": "Very Poor"
   },
   "871720": {
     "name": "Ultimate Custom Night",
     "free": "TRUE",
     "release_date": "27 Jun, 2018",
     "developer": ["Scott Cawthon"],
-    "genres": ["Action", "Free to Play", "Indie"],
+    "genres": ["Action", " Free to Play", " Indie"],
     "categories": [
       "Single-player",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
     "metric": "0.19491062",
-    "review": "Very Poor"
+    "review": "negative"
   },
-  "880940": {
-    "name": "Pummel Party",
+  "883710": {
+    "name": "Resident Evil 2",
     "free": "FALSE",
-    "release_date": "20 Sep, 2018",
-    "developer": ["Rebuilt Games"],
-    "genres": ["Action", "Casual", "Indie"],
+    "release_date": "24 Jan, 2019",
+    "developer": ["CAPCOM Co.", " Ltd."],
+    "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Workshop",
-      "Includes level editor",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.43390625",
-    "review": "Very Good"
+    "metric": "0.2666272824919446",
+    "review": "Average"
   },
   "884660": {
     "name": "CRSED: F.O.A.D.",
     "free": "TRUE",
     "release_date": "15 Jun, 2018",
     "developer": ["Darkflow Software"],
-    "genres": ["Action", "Free to Play", "Massively Multiplayer"],
+    "genres": ["Action", " Free to Play", " Massively Multiplayer"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "Full controller support",
-      "In-App Purchases"
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Full controller support",
+      " In-App Purchases"
     ],
     "metric": "0.296536485",
-    "review": "Average"
-  },
-  "918570": {
-    "name": "Century: Age of Ashes",
-    "free": "TRUE",
-    "release_date": "2 Dec, 2021",
-    "developer": ["Playwing LTD"],
-    "genres": ["Action", "Free to Play", "Indie"],
-    "categories": [
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "In-App Purchases"
-    ],
-    "metric": "0.160970072",
-    "review": "Very Poor"
+    "review": "mixed"
   },
   "960090": {
     "name": "Bloons TD 6",
@@ -2512,34 +3152,48 @@
     "genres": ["Strategy"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "In-App Purchases",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " In-App Purchases",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
     "metric": "0.250688525",
-    "review": "Average"
+    "review": "mixed"
   },
-  "962130": {
-    "name": "Grounded",
+  "976730": {
+    "name": "Halo: The Master Chief Collection",
     "free": "FALSE",
-    "release_date": "27 Sep, 2022",
-    "developer": ["Obsidian Entertainment"],
-    "genres": ["Action", "Adventure"],
+    "release_date": "03-Dec-19",
+    "developer": [
+      "343 Industries",
+      " Splash Damage",
+      " Ruffian Games",
+      " Bungie",
+      " Saber Interactive"
+    ],
+    "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Tablet"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.37298768",
+    "metric": "0.36",
     "review": "Good"
   },
   "1049590": {
@@ -2547,158 +3201,154 @@
     "free": "TRUE",
     "release_date": "14 Oct, 2020",
     "developer": ["Nimble Neuron"],
-    "genres": ["Free to Play", "Indie", "Strategy", "Early Access"],
+    "genres": ["Free to Play", " Indie", " Strategy", " Early Access"],
     "categories": [
       "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Trading Cards",
-      "In-App Purchases"
+      " PvP",
+      " Online PvP",
+      " Steam Trading Cards",
+      " In-App Purchases"
     ],
     "metric": "0.31884375",
-    "review": "Good"
+    "review": "partially positive"
   },
-  "1057090": {
-    "name": "Ori and the Will of the Wisps",
+  "1056960": {
+    "name": "Wolfenstein: Youngblood",
     "free": "FALSE",
-    "release_date": "10 Mar, 2020",
-    "developer": ["Moon Studios GmbH"],
+    "release_date": "25 Jul, 2019",
+    "developer": ["Machine Games", " Arkane Studios"],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " In-App Purchases",
+      " Partial Controller Support",
+      " Steam Cloud"
     ],
-    "metric": "0.456575916",
-    "review": "Very Good"
+    "metric": "0.03559426229508194",
+    "review": "Worst"
   },
-  "1151340": {
-    "name": "Fallout 76",
+  "1100600": {
+    "name": "Football Manager 2020",
     "free": "FALSE",
-    "release_date": "14 Apr, 2020",
-    "developer": ["Bethesda Game Studios"],
-    "genres": ["RPG"],
+    "release_date": "19 Nov, 2019",
+    "developer": ["Sports Interactive"],
+    "genres": ["Simulation", " Sports"],
     "categories": [
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "In-App Purchases",
-      "Partial Controller Support",
-      "Remote Play on Tablet"
+      "Single-player",
+      " Multi-player",
+      " Steam Achievements",
+      " Steam Workshop",
+      " Steam Cloud",
+      " Steam Leaderboards"
     ],
-    "metric": "0.138128232",
+    "metric": "0.23",
+    "review": "Poor"
+  },
+  "1118200": {
+    "name": "People Playground",
+    "free": "FALSE",
+    "release_date": "23 Jul, 2019",
+    "developer": ["mestiez"],
+    "genres": ["Action", " Casual", " Indie", " Simulation"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " Steam Workshop",
+      " Steam Cloud"
+    ],
+    "metric": "0.1904059829059831",
     "review": "Very Poor"
   },
-  "1158310": {
-    "name": "Crusader Kings III",
+  "1145360": {
+    "name": "Hades",
     "free": "FALSE",
-    "release_date": "1 Sep, 2020",
-    "developer": ["Paradox Development Studio"],
-    "genres": ["RPG", "Simulation", "Strategy"],
+    "release_date": "17 Sep, 2020",
+    "developer": ["Supergiant Games"],
+    "genres": ["Action", " Indie", " RPG"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Remote Play on Tablet"
+      " Full controller support",
+      " Steam Trading Cards",
+      " Captions available",
+      " Steam Cloud",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
-    "metric": "0.25",
-    "review": "Average"
-  },
-  "1172380": {
-    "name": "STAR WARS Jedi: Fallen Order™",
-    "free": "FALSE",
-    "release_date": "14 Nov, 2019",
-    "developer": ["Respawn Entertainment"],
-    "genres": ["Action", "Adventure"],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "metric": "0.306326964",
+    "metric": "0.37395944503735457",
     "review": "Good"
   },
-  "1180380": {
-    "name": "Stay Out",
-    "free": "TRUE",
-    "release_date": "27 Nov, 2019",
-    "developer": ["MOBITECH LLC"],
-    "genres": [
-      "Action",
-      "Free to Play",
-      "Indie",
-      "Massively Multiplayer",
-      "RPG",
-      "Early Access"
-    ],
+  "1172620": {
+    "name": "Sea of Thieves",
+    "free": "FALSE",
+    "release_date": "3 Jun, 2020",
+    "developer": ["Rare Ltd"],
+    "genres": ["Action", " Adventure"],
     "categories": [
       "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "In-App Purchases",
-      "Remote Play on Tablet"
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " In-App Purchases",
+      " Partial Controller Support",
+      " Remote Play on Phone",
+      " Remote Play on Tablet"
     ],
-    "metric": "0.054830421",
-    "review": "Worst"
+    "metric": "0.24152034261242022",
+    "review": "Poor"
   },
   "1196590": {
     "name": "Resident Evil Village",
     "free": "FALSE",
     "release_date": "6 May, 2021",
-    "developer": ["CAPCOM Co.", "Ltd."],
+    "developer": ["CAPCOM Co.", " Ltd."],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
     "metric": "0.167636761",
-    "review": "Very Poor"
+    "review": "negative"
   },
   "1225330": {
     "name": "NBA 2K21",
     "free": "FALSE",
     "release_date": "4 Sep, 2020",
     "developer": ["Visual Concepts"],
-    "genres": ["Simulation", "Sports"],
+    "genres": ["Simulation", " Sports"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "In-App Purchases",
-      "Steam Cloud",
-      "Remote Play on Tablet",
-      "Remote Play Together"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " In-App Purchases",
+      " Steam Cloud",
+      " Remote Play on Tablet",
+      " Remote Play Together"
     ],
     "metric": "0.00741044",
-    "review": "Worst"
+    "review": "very negative"
   },
   "1237970": {
     "name": "Titanfall® 2",
@@ -2708,65 +3358,72 @@
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Remote Play on Phone",
+      " Remote Play on Tablet",
+      " Remote Play on TV"
     ],
     "metric": "0.293134328",
-    "review": "Average"
+    "review": "mixed"
+  },
+  "1238810": {
+    "name": "Battlefield™ V",
+    "free": "FALSE",
+    "release_date": "22 Oct, 2020",
+    "developer": ["DICE"],
+    "genres": ["Action"],
+    "categories": [
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards"
+    ],
+    "metric": "0.07803256445047492",
+    "review": "Worst"
   },
   "1238840": {
     "name": "Battlefield™ 1",
     "free": "FALSE",
     "release_date": "11 Jun, 2020",
     "developer": ["DICE"],
-    "genres": ["Action", "Massively Multiplayer"],
+    "genres": ["Action", " Massively Multiplayer"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards"
     ],
     "metric": "0.165344262",
-    "review": "Very Poor"
+    "review": "negative"
   },
-  "1263850": {
-    "name": "Football Manager 2021",
-    "free": "FALSE",
-    "release_date": "24 Nov, 2020",
-    "developer": ["Sports Interactive"],
-    "genres": ["Simulation", "Sports"],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Steam Cloud"
-    ],
-    "metric": "0.290346939",
-    "review": "Average"
-  },
-  "1289310": {
-    "name": "Helltaker",
+  "1286830": {
+    "name": "STAR WARS™: The Old Republic™",
     "free": "TRUE",
-    "release_date": "11 May, 2020",
-    "developer": ["vanripper"],
-    "genres": ["Adventure", "Free to Play", "Indie"],
+    "release_date": "21 Jul, 2020",
+    "developer": ["BioWare"],
+    "genres": ["Free to Play", " Massively Multiplayer", " RPG"],
     "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Partial Controller Support"
+      "Multi-player",
+      " MMO",
+      " PvP",
+      " Co-op",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " In-App Purchases"
     ],
-    "metric": "0.150476718",
-    "review": "Very Poor"
+    "metric": "0.37048205128205236",
+    "review": "Good"
   },
   "1293830": {
     "name": "Forza Horizon 4",
@@ -2776,93 +3433,169 @@
     "genres": ["Racing"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
     "metric": "0.272535059",
-    "review": "Average"
+    "review": "mixed"
+  },
+  "1332010": {
+    "name": "Stray",
+    "free": "FALSE",
+    "release_date": "19 Jul, 2022",
+    "developer": ["BlueTwelve Studio"],
+    "genres": ["Adventure", " Indie"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud",
+      " Remote Play on TV"
+    ],
+    "metric": "0.3268458781362016",
+    "review": "Good"
   },
   "1366540": {
     "name": "Dyson Sphere Program",
     "free": "FALSE",
     "release_date": "20 Jan, 2021",
     "developer": ["Youthcat Studio"],
-    "genres": ["Indie", "Simulation", "Strategy", "Early Access"],
-    "categories": ["Single-player", "Remote Play on Tablet"],
+    "genres": ["Indie", " Simulation", " Strategy", " Early Access"],
+    "categories": ["Single-player", " Remote Play on Tablet"],
     "metric": "0.386748718",
-    "review": "Good"
+    "review": "partially positive"
+  },
+  "1407200": {
+    "name": "World of Tanks",
+    "free": "TRUE",
+    "release_date": "28 Apr, 2021",
+    "developer": ["Wargaming Group Limited"],
+    "genres": [
+      "Action",
+      " Free to Play",
+      " Massively Multiplayer",
+      " Simulation"
+    ],
+    "categories": [
+      "Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Steam Achievements",
+      " Steam Trading Cards",
+      " In-App Purchases"
+    ],
+    "metric": "0.18642405063291136",
+    "review": "Very Poor"
+  },
+  "1426210": {
+    "name": "It Takes Two",
+    "free": "FALSE",
+    "release_date": "25 Mar, 2021",
+    "developer": ["Hazelight"],
+    "genres": ["Action", " Adventure"],
+    "categories": [
+      "Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Remote Play Together"
+    ],
+    "metric": "0.4191359325605918",
+    "review": "Very Good"
   },
   "1446780": {
     "name": "MONSTER HUNTER RISE",
     "free": "FALSE",
     "release_date": "12 Jan, 2022",
-    "developer": ["CAPCOM Co.", "Ltd."],
+    "developer": ["CAPCOM Co.", " Ltd."],
     "genres": ["Action"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Multi-player",
+      " Co-op",
+      " Online Co-op",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
     "metric": "0.159515464",
-    "review": "Very Poor"
+    "review": "negative"
   },
   "1506830": {
     "name": "FIFA 22",
     "free": "FALSE",
     "release_date": "30 Sep, 2021",
     "developer": ["EA Canada & EA Romania"],
-    "genres": ["Simulation", "Sports"],
+    "genres": ["Simulation", " Sports"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "MMO",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "In-App Purchases",
-      "Partial Controller Support"
+      " Multi-player",
+      " MMO",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Steam Achievements",
+      " In-App Purchases",
+      " Partial Controller Support"
     ],
     "metric": "0.065900104",
-    "review": "Worst"
+    "review": "very negative"
   },
   "1551360": {
     "name": "Forza Horizon 5",
     "free": "FALSE",
     "release_date": "8 Nov, 2021",
     "developer": ["Playground Games"],
-    "genres": ["Action", "Adventure", "Racing", "Simulation", "Sports"],
+    "genres": ["Action", " Adventure", " Racing", " Simulation", " Sports"],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Co-op",
+      " Online Co-op",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Trading Cards",
+      " Steam Cloud"
     ],
     "metric": "0.301442411",
+    "review": "partially positive"
+  },
+  "1593500": {
+    "name": "God of War",
+    "free": "FALSE",
+    "release_date": "14 Jan, 2022",
+    "developer": ["Santa Monica Studio"],
+    "genres": ["Action", " Adventure", " RPG"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Cloud",
+      " Remote Play on TV"
+    ],
+    "metric": "0.3112854030501102",
     "review": "Good"
   },
   "1604030": {
@@ -2870,61 +3603,78 @@
     "free": "FALSE",
     "release_date": "17 May, 2022",
     "developer": ["Stunlock Studios"],
-    "genres": ["Action", "Adventure", "Massively Multiplayer", "Early Access"],
+    "genres": [
+      "Action",
+      " Adventure",
+      " Massively Multiplayer",
+      " Early Access"
+    ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "LAN PvP",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Steam Cloud"
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " LAN PvP",
+      " Co-op",
+      " Online Co-op",
+      " LAN Co-op",
+      " Steam Cloud"
     ],
     "metric": "0.292358393",
+    "review": "mixed"
+  },
+  "1794680": {
+    "name": "Vampire Survivors",
+    "free": "FALSE",
+    "release_date": "20 Oct, 2022",
+    "developer": ["poncle"],
+    "genres": ["Action", " Casual", " Indie", " RPG"],
+    "categories": [
+      "Single-player",
+      " Steam Achievements",
+      " Full controller support",
+      " Steam Cloud"
+    ],
+    "metric": "0.2757563025210093",
     "review": "Average"
   },
-  "1677740": {
-    "name": "Stumble Guys",
-    "free": "TRUE",
-    "release_date": "7 Oct, 2021",
-    "developer": ["Kitka Games"],
-    "genres": ["Action", "Casual", "Indie"],
+  "1811260": {
+    "name": "EA SPORTS™ FIFA 23",
+    "free": "FALSE",
+    "release_date": "29 Sep, 2022",
+    "developer": ["EA Canada & EA Romania"],
+    "genres": ["Simulation", " Sports"],
     "categories": [
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Cross-Platform Multiplayer",
-      "In-App Purchases",
-      "Partial Controller Support"
+      "Single-player",
+      " Multi-player",
+      " PvP",
+      " Online PvP",
+      " Shared/Split Screen PvP",
+      " Co-op",
+      " Online Co-op",
+      " Shared/Split Screen Co-op",
+      " Shared/Split Screen",
+      " Cross-Platform Multiplayer",
+      " Steam Achievements",
+      " Full controller support",
+      " In-App Purchases"
     ],
-    "metric": "0.21044586",
-    "review": "Poor"
-  },
-  "1721470": {
-    "name": "Poppy Playtime",
-    "free": "TRUE",
-    "release_date": "12 Oct, 2021",
-    "developer": ["MOB Games"],
-    "genres": ["Action", "Adventure", "Indie"],
-    "categories": ["Single-player"],
-    "metric": "0.196663202",
-    "review": "Very Poor"
+    "metric": "-0.04972831765935214",
+    "review": "Worst"
   },
   "1832640": {
     "name": "Mirror 2: Project X",
     "free": "FALSE",
     "release_date": "20 Jan, 2022",
     "developer": ["KAGAMI Ⅱ WORKs"],
-    "genres": ["Adventure", "Indie", "RPG", "Early Access"],
+    "genres": ["Adventure", " Indie", " RPG", " Early Access"],
     "categories": [
       "Single-player",
-      "Steam Achievements",
-      "Steam Workshop",
-      "Steam Cloud"
+      " Steam Achievements",
+      " Steam Workshop",
+      " Steam Cloud"
     ],
     "metric": "0.161276596",
-    "review": "Very Poor"
+    "review": "negative"
   }
 }

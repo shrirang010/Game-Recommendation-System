@@ -234,7 +234,7 @@ def sentiment(review, positive_words, negative_words):
 def calc_no_of_rows():
     num_rows = 0
 
-    for row in open("reviews.csv"):
+    for row in open("reviews.csv1"):
         num_rows += 1
 
     return num_rows
@@ -258,7 +258,7 @@ def main():
     neg_sent = open("negative.txt").read()
     negative_words = neg_sent.split('\n')
 
-    with open('reviews.csv', 'r') as file:
+    with open('reviews.csv1', 'r') as file:
         with open('metrics.csv', 'a', newline='') as file1:
             reader = csv.reader(file)
             lines = calc_no_of_rows()

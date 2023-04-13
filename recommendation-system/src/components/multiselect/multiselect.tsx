@@ -59,7 +59,7 @@ export default function MultipleSelect(props: propsTypes) {
 
   return (
     <div>
-      <FormControl sx={{ m: 1, width: 600 }}>
+      <FormControl sx={{ m: 1, width: "clamp(20vw,200px,50vw)" }}>
         <InputLabel id="demo-multiple-name-label">{props.title}</InputLabel>
         <Select
           labelId="demo-multiple-name-label"

@@ -16,7 +16,7 @@ html {
 }
 
 .inner {
-  width: 40%;
+  width: clamp(40%, 300px, 65%);
   padding: 3rem;
   display: grid;
   justify-items: center;

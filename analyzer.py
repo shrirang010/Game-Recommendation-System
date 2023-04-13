@@ -3,7 +3,7 @@ import csv
 final_reviews = []
 text = ""
 
-with open('metrics.csv', 'r') as file:
+with open('metrics1.csv', 'r') as file:
     reader = csv.reader(file)
     count1 = 0
     count2 = 0
@@ -14,7 +14,7 @@ with open('metrics.csv', 'r') as file:
     count7 = 0
     for document in reader:
         print(document[0], document[1])
-        if (float(document[1]) >= 0 and float(document[1]) < 0.1):  # very negative
+        if (float(document[1]) < 0.1):  # very negative
             text = "Worst"
             count1 += 1
         elif (float(document[1]) >= 0.1 and float(document[1]) < 0.2):  # negative
@@ -41,7 +41,7 @@ with open('metrics.csv', 'r') as file:
 print(count1, count2, count3, count7, count4, count5, count6)
 
 
-with open('metrics.csv', 'w') as file:
+with open('metrics1.csv', 'w') as file:
     writer = csv.writer(file)
     for val in final_reviews:
         writer.writerow([val[0], val[1], val[2]])
