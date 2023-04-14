@@ -1,5 +1,5 @@
 import style from "./head.module.css";
-import controller from "../../../public/controller.svg";
+import controller from "../../../src/assets/controller.svg";
 
 const head = () => {
   return (
