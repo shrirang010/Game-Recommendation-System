@@ -1,6 +1,7 @@
 import Button from "@mui/material/Button";
 import { get_data } from "../functions/filterdata";
 import allStore from "../../store/store";
+import { get_genre_rank } from "../../graph/genre";
 
 interface game_info {
   name: string;
@@ -12,7 +13,16 @@ interface game_info {
   metric: string;
   review: string;
 }
-
+interface genres {
+  Action: number[];
+  Adventure: number[];
+  Indie: number[];
+  RPG: number[];
+  Racing: number[];
+  Simulation: number[];
+  Sports: number[];
+  Strategy: number[];
+}
 export default function button() {
   const gen = allStore((state) => state.genres);
   const cat = allStore((state) => state.categories);

@@ -3,6 +3,7 @@ import Input from "./components/input/input";
 import GameCard from "./components/gameCard/gameCard";
 import Footer from "./components/footer/footer";
 import allStore from "./store/store";
+import Statistics from "./components/statistics/statistics";
 import "./App.css";
 
 interface game_info {
@@ -22,10 +23,11 @@ export default function MyApp() {
   return (
     <div className="container">
       <Head />
-      <div className="inner">
+      {/* <div className="inner">
         <Input />
-      </div>
-      <div className="game-list">
+      </div> */}
+      <Statistics />
+      { <div className="game-list">
         {games.map((el, index) => {
           return (
             <GameCard
@@ -40,7 +42,7 @@ export default function MyApp() {
             />
           );
         })}
-      </div>
+      </div> }  
       <Footer />
     </div>
   );
