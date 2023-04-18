@@ -1,4 +1,3 @@
-import * as React from "react";
 import { DemoContainer } from "@mui/x-date-pickers/internals/demo";
 import { TextField } from "@mui/material";
 

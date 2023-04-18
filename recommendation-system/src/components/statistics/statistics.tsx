@@ -1,4 +1,3 @@
-import * as React from "react";
 import Table from "@mui/material/Table";
 import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
@@ -8,6 +7,7 @@ import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
 import get_genre_rank from "../../graph/genre";
 import type { genres } from "../../types/genres";
+import style from './statistics.module.css';
 
 function getObjectKey(obj: { [x: string]: any }, value: any) {
   return Object.keys(obj).find((key) => obj[key] === value);
@@ -43,20 +43,21 @@ for (let i in genreMetric) {
 }
 export default function BasicTable() {
   return (
+    <div className={style.container}>
     <TableContainer component={Paper}>
-      <Table sx={{ minWidth: 50 }} aria-label="simple table">
-        <TableHead>
+      <Table   >
+        <TableHead >
           <TableRow>
-            <TableCell>Rank</TableCell>
-            <TableCell align="right">Genre</TableCell>
-            <TableCell align="right">Metric score&nbsp;</TableCell>
+            <TableCell  align="right"  >Rank         </TableCell>
+            <TableCell  align="right"  >Genre        </TableCell>
+            <TableCell  align="right"  >Metric score </TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
           {rows.map((row) => (
             <TableRow
               key={row.name}
-              sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
+              
             >
               <TableCell align="right">{row.rank}</TableCell>
               <TableCell align="right">{row.genre}</TableCell>
@@ -66,5 +67,6 @@ export default function BasicTable() {
         </TableBody>
       </Table>
     </TableContainer>
+    </div>
   );
 }
