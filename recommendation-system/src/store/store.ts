@@ -1,17 +1,5 @@
 import { create } from "zustand";
-import { devtools, persist } from "zustand/middleware";
-import gameCard from "../components/gameCard/gameCard";
-
-interface game_info {
-  name: string;
-  free: string;
-  release_date: string;
-  developer: string[];
-  genres: string[];
-  categories: string[];
-  metric: string;
-  review: string;
-}
+import type { game_info } from "../types/gameInfo";
 
 interface DBase {
   games: game_info[];

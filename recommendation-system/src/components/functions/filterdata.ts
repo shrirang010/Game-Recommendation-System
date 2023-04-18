@@ -1,19 +1,9 @@
 import data from "../../info.json" assert { type: "json" };
 import { developers } from "../input/options";
+import type { game_info } from "../../types/gameInfo";
 
 interface gameInfoObj {
   [id: string]: game_info;
-}
-
-interface game_info {
-  name: string;
-  free: string;
-  release_date: string;
-  developer: string[];
-  genres: string[];
-  categories: string[];
-  metric: string;
-  review: string;
 }
 
 const localData: gameInfoObj = data;

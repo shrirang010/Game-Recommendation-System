@@ -6,43 +6,34 @@ import allStore from "./store/store";
 import Statistics from "./components/statistics/statistics";
 import "./App.css";
 
-interface game_info {
-  name: string;
-  free: string;
-  release_date: string;
-  developer: string[];
-  genres: string[];
-  categories: string[];
-  metric: string;
-  review: string;
-}
-
 export default function MyApp() {
   const games = allStore((state) => state.games);
 
   return (
     <div className="container">
       <Head />
-      {/* <div className="inner">
+      <div className="inner">
         <Input />
-      </div> */}
-      <Statistics />
-      { <div className="game-list">
-        {games.map((el, index) => {
-          return (
-            <GameCard
-              name={el.name}
-              review={el.review}
-              genres={el.genres}
-              categories={el.categories}
-              developer={el.developer}
-              release_date={el.release_date}
-              free={el.free}
-              rank={index + 1}
-            />
-          );
-        })}
-      </div> }  
+      </div>
+      {/* <Statistics /> */}
+      {
+        <div className="game-list">
+          {games.map((el, index) => {
+            return (
+              <GameCard
+                name={el.name}
+                review={el.review}
+                genres={el.genres}
+                categories={el.categories}
+                developer={el.developer}
+                release_date={el.release_date}
+                free={el.free}
+                rank={index + 1}
+              />
+            );
+          })}
+        </div>
+      }
       <Footer />
     </div>
   );
