@@ -44,6 +44,7 @@ for (let i in genreMetric) {
 export default function BasicTable() {
   return (
     <div className={style.container}>
+      <div className={style.heading}> Genre Rank </div>
       <TableContainer component={Paper}>
         <Table>
           <TableHead>

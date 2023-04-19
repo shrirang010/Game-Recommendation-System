@@ -26,7 +26,11 @@
 }
 
 .statsbtn {
+  margin-top: 1rem;
+  padding: 0.5rem;
   text-decoration: none;
   font-size: 1.5rem;
-  color: #0066ff;
+  color: whitesmoke;
+  background-color: black;
+  border-radius: 5%;
 }
