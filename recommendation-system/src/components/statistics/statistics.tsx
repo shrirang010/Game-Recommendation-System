@@ -7,7 +7,7 @@ import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
 import get_genre_rank from "../../graph/genre";
 import type { genres } from "../../types/genres";
-import style from './statistics.module.css';
+import style from "./statistics.module.css";
 
 function getObjectKey(obj: { [x: string]: any }, value: any) {
   return Object.keys(obj).find((key) => obj[key] === value);
@@ -44,29 +44,56 @@ for (let i in genreMetric) {
 export default function BasicTable() {
   return (
     <div className={style.container}>
-    <TableContainer component={Paper}>
-      <Table   >
-        <TableHead >
-          <TableRow>
-            <TableCell  align="right"  >Rank         </TableCell>
-            <TableCell  align="right"  >Genre        </TableCell>
-            <TableCell  align="right"  >Metric score </TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {rows.map((row) => (
-            <TableRow
-              key={row.name}
-              
-            >
-              <TableCell align="right">{row.rank}</TableCell>
-              <TableCell align="right">{row.genre}</TableCell>
-              <TableCell align="right">{row.metric}</TableCell>
+      <TableContainer component={Paper}>
+        <Table>
+          <TableHead>
+            <TableRow>
+              <TableCell
+                align="right"
+                sx={{ fontSize: "1.5rem", fontFamily: "Readex Pro" }}
+              >
+                Rank{" "}
+              </TableCell>
+              <TableCell
+                align="right"
+                sx={{ fontSize: "1.5rem", fontFamily: "Readex Pro" }}
+              >
+                Genre{" "}
+              </TableCell>
+              <TableCell
+                align="right"
+                sx={{ fontSize: "1.5rem", fontFamily: "Readex Pro" }}
+              >
+                Metric score{" "}
+              </TableCell>
             </TableRow>
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
+          </TableHead>
+          <TableBody>
+            {rows.map((row) => (
+              <TableRow key={row.name}>
+                <TableCell
+                  align="right"
+                  sx={{ fontSize: "1.5rem", fontFamily: "Readex Pro" }}
+                >
+                  {row.rank}
+                </TableCell>
+                <TableCell
+                  align="right"
+                  sx={{ fontSize: "1.5rem", fontFamily: "Readex Pro" }}
+                >
+                  {row.genre}
+                </TableCell>
+                <TableCell
+                  align="right"
+                  sx={{ fontSize: "1.5rem", fontFamily: "Readex Pro" }}
+                >
+                  {row.metric}
+                </TableCell>
+              </TableRow>
+            ))}
+          </TableBody>
+        </Table>
+      </TableContainer>
     </div>
   );
 }

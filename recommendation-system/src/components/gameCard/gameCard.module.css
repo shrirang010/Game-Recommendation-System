@@ -11,16 +11,16 @@
 
 .rank {
   font-size: 1.5rem;
-  width:15%;
+  width: 15%;
   border-radius: 20rem;
   background-color: #0066ff;
   text-align: center;
-  color: white;
+  color: #ffffff;
 }
 
 .name {
   font-size: 1.7rem;
-  margin-top:1rem;
+  margin-top: 1rem;
 }
 
 .review {

@@ -5,24 +5,22 @@ import GameCard from "./components/gameCard/gameCard";
 import Footer from "./components/footer/footer";
 import allStore from "./store/store";
 import Statistics from "./components/statistics/statistics";
-import Home from "../src/routes/home/home"
+import Home from "../src/routes/home/home";
 import "./App.css";
-
-
 
 export default function MyApp() {
   const games = allStore((state) => state.games);
 
   return (
-
-      <div className="container">
-    <BrowserRouter>
+    <div className="container">
+      <Head />
+      <BrowserRouter>
         <Routes>
-        <Route  path="/home"  element={<Home/>}/>
-        <Route  path='/stats' element={<Statistics />}/>
-        <Footer/>
-      </Routes>
-    </BrowserRouter>
+          <Route path="/" element={<Home />} />
+          <Route path="/stats" element={<Statistics />} />
+        </Routes>
+      </BrowserRouter>
+      <Footer />
     </div>
   );
 }

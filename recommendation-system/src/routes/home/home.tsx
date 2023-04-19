@@ -1,21 +1,23 @@
 import Input from "../../components/input/input";
 import GameCard from "../../components/gameCard/gameCard";
 import allStore from "../../store/store";
-import { Link } from 'react-router-dom';
-export default function MyApp() {
+import { Link } from "react-router-dom";
+import style from "./home.module.css";
+
+const home = () => {
   const games = allStore((state) => state.games);
 
   return (
-    <div className="container">
-      <div className="inner">
+    <div className={style.container}>
+      <div className={style.inner}>
         <Input />
-        <div>
-        {/* <a  href="/stats" className="statsbtn">Show stats !</a> */}
-        <Link  aria-current="page" to="/stats">Show stats</Link>
-        </div>
+
+        <Link to="/stats" className={style.statsbtn}>
+          Show stats
+        </Link>
       </div>
       {
-        <div className="game-list">
+        <div className={style.gameList}>
           {games.map((el, index) => {
             return (
               <GameCard
@@ -34,4 +36,6 @@ export default function MyApp() {
       }
     </div>
   );
-}
+};
+
+export default home;
