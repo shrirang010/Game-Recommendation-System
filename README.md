@@ -17,7 +17,9 @@
 ###    Exploratory Data Analysis (EDA): The following graphs were generated as part of EDA
 
 1.Scatter plot
- 
+
+![temp](https://github.com/shrirang010/Game-Recommendation-System/assets/103894310/b2aee611-af41-44b3-8963-f961244d0b91)
+
 2.Line Graph 
 
 ![Screenshot from 2023-05-09 14-17-20](https://github.com/shrirang010/Game-Recommendation-System/assets/103894310/da01f752-e669-4db6-a085-aee591ef9b9e)
