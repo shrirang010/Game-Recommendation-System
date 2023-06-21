@@ -14,7 +14,14 @@
 ### Sentiment Analysis : The project employs our own algorithmn to perform sentiment analysis on game reviews. It identifies the sentiment expressed by users, allowing for a deeper understanding of their opinions and preferences.
 
 ###    Recommendation System : Based on the sentiment analysis results and user inputs, the system recommends games that are likely to align with the user's preferences. 
+###    Exploratory Data Analysis (EDA): The following graphs were generated as part of EDA
 
+1.Scatter plot
+ 
+2.Line plot 
+
+3.Bar Graph
+                                        
 ###    User Interaction : The system offers a user-friendly interface where users can provide their game choices and preferences and the system will automatically recommend games on the basis of their input.
 
 ## Installation and Setup
