@@ -11,11 +11,11 @@
 ### This project aims to provide a comprehensive solution for sentiment analysis of game reviews and recommend games based on these reviews. We analyze the sentiment expressed in user reviews to determine whether the sentiment is positive, negative, or neutral and recommend games to user on the basis of that data
 ## Features
 
-### Sentiment Analysis: The project employs our own algorithmn to perform sentiment analysis on game reviews. It identifies the sentiment expressed by users, allowing for a deeper understanding of their opinions and preferences.
+### Sentiment Analysis : The project employs our own algorithmn to perform sentiment analysis on game reviews. It identifies the sentiment expressed by users, allowing for a deeper understanding of their opinions and preferences.
 
-###    Recommendation System: Based on the sentiment analysis results and user inputs, the system recommends games that are likely to align with the user's preferences. 
+###    Recommendation System : Based on the sentiment analysis results and user inputs, the system recommends games that are likely to align with the user's preferences. 
 
-###    User Interaction: The system offers a user-friendly interface where users can provide their game choices and preferences and the system will automatically recommend games on the basis of their input.
+###    User Interaction : The system offers a user-friendly interface where users can provide their game choices and preferences and the system will automatically recommend games on the basis of their input.
 
 ## Installation and Setup
 
