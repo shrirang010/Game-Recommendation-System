@@ -1,24 +1,21 @@
-# Game Recommendation System
+
+# Project Title : Game Recommendation System
 
 ![game ss](https://github.com/shrirang010/Game-Recommendation-System/assets/79990168/f798dbff-fb24-43b1-b0a0-0164cc3d8788)
 
-This project aims to provide a comprehensive solution for sentiment analysis of game reviews and recommend games based on these reviews. By leveraging natural language processing techniques and machine learning algorithms, we analyze the sentiment expressed in user reviews to determine whether the sentiment is positive, negative, or neutral.
+## Project Domain : Data Science 
 
-This readme provides an overview of the project, instructions for setting up and running the application, as well as additional information about its features and implementation.
+## Usage : Visit website
+ [Game Recommendation System](https://game-recommendation-1796.netlify.app)
 
+### This project aims to provide a comprehensive solution for sentiment analysis of game reviews and recommend games based on these reviews. We analyze the sentiment expressed in user reviews to determine whether the sentiment is positive, negative, or neutral and recommend games to user on the basis of that data
 ## Features
 
-2. **Game Database:** The system includes a comprehensive database of games, including information such as title, genre, description, release date, and user ratings. The database serves as the foundation for generating recommendations.
+### Sentiment Analysis: The project employs our own algorithmn to perform sentiment analysis on game reviews. It identifies the sentiment expressed by users, allowing for a deeper understanding of their opinions and preferences.
 
-3. **User Preferences:** Users can input their gaming preferences like genre, category and also developer company. This information helps in generating accurate recommendations tailored to their interests.
+###    Recommendation System: Based on the sentiment analysis results and user inputs, the system recommends games that are likely to align with the user's preferences. 
 
-4. **Recommendation Engine:** The core of the system is the recommendation engine, which utilizes machine learning algorithms to analyze user data and generate personalized game recommendations. The engine takes into account user preferences, game ratings, and collaborative filtering techniques to provide accurate suggestions.
-
-5. **Rating and Feedback:** Games are rated based on user reviews and the best games are displayed first in the list of recommended games.
-
-## Usage
-Visit the site
-[Game Recommendation System](https://game-recommendation-1796.netlify.app)
+###    User Interaction: The system offers a user-friendly interface where users can provide their game choices and preferences and the system will automatically recommend games on the basis of their input.
 
 ## Installation and Setup
 
@@ -43,10 +40,11 @@ npm install
 npm start
 ```
 
+
 ## Technologies Used
 
 The Game Recommendation System is built using the following technologies:
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Database:** JSON
-- **Machine Learning:** Python
+- *Frontend:* HTML, CSS, JavaScript, React.js
+- *Database:* JSON
+- *Sentiment Analysis and web scraping :* Python
