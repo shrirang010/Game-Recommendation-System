@@ -18,10 +18,12 @@
 
 1.Scatter plot
  
-2.Line plot 
+2.Line Graph 
+![Screenshot from 2023-05-09 14-17-20](https://github.com/shrirang010/Game-Recommendation-System/assets/103894310/da01f752-e669-4db6-a085-aee591ef9b9e)
 
 3.Bar Graph
-                                        
+                ![Screenshot from 2023-05-09 14-17-32](https://github.com/shrirang010/Game-Recommendation-System/assets/103894310/1b1c9d63-aaae-4f24-ba06-ae06230003eb)
+                       
 ###    User Interaction : The system offers a user-friendly interface where users can provide their game choices and preferences and the system will automatically recommend games on the basis of their input.
 
 ## Installation and Setup
